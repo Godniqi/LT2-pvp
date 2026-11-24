@@ -1,54 +1,124 @@
-# Niqi / Miwalin's LT2 Instance
+Miwalin's LT2 Config
 
-**Minecraft PvP | Mace PvP | Crystal PvP**
+"ofcitsniqi" (ofcitsniqi.jpg)
 
-Welcome to my personal Minecraft PvP instance repository. This is my customized LT2 setup, mainly focused on mace PvP and crystal PvP (CPvP). It contains my preferred mods, configurations, resource packs, shaders, and other customizations that help create a consistent and comfortable PvP experience.
+Minecraft 1.21.11 | Dawn Client (Fabric)
 
-## About
+My LT2 PvP setup, mainly focused on Mace PvP and Crystal PvP.
 
-This instance is built around competitive Minecraft combat, with a focus on both mace combat and crystal PvP. The setup is organized to keep essential tools and modifications together while maintaining a familiar gameplay experience.
+- Client: Dawn Client
+- Mod Loader: Fabric
+- Minecraft Version: 1.21.11
+- Launcher: Prism Launcher
 
-Whether I'm practicing mace mechanics, playing crystal PvP, or joining LT2 servers, this instance serves as my main PvP environment.
+Mods
 
-## Features
+PvP & Gameplay
 
-- **Mace PvP** – Setup for mace-based combat and practice.
-- **Crystal PvP** – Mods and settings for crystal-based combat.
-- **Performance** – Selected optimizations for smoother gameplay.
-- **Customization** – Personal configurations and visual preferences.
-- **Resource Packs** – Custom textures and visual modifications.
-- **Mod Collection** – A collection of mods used in my LT2 instance.
+Mod| Description
+ClickCrystals| Provides crystal PvP-related features and utilities.
+Marlow's Crystal Optimizer| Helps optimize crystal PvP interactions.
+ShieldFixes| Fixes shield-related issues.
+ShieldStatus| Displays shield status.
+NoCC| Provides additional client-side features.
+SpecSpoof| Provides spectator-related spoofing features.
+Command Keys| Allows commands to be assigned to keyboard shortcuts.
+CookeyMod| Adds customizable keyboard and gameplay features.
+Fast Tool Switching| Improves switching between tools.
+HeroBot| Adds bot-related features for practice.
+Hero's Anchor Optimizer| Optimizes respawn-anchor-related interactions.
+Modify Player Data| Provides tools for modifying player data.
+Moon Client| Provides additional client-side features.
+Multi Key Bindings| Allows multiple actions to share keybindings.
+Tiers| Adds player tier-related features.
+VexBot| Adds bot features for PvP practice.
 
-## Repository Contents
+Performance & Optimization
 
-| Directory / File | Description                           |
-| ---------------- | ------------------------------------- |
-| `mods/`          | Installed Minecraft mods              |
-| `config/`        | Mod configurations                    |
-| `resourcepacks/` | Custom resource packs                 |
-| `shaderpacks/`   | Installed shaders                     |
-| `options.txt`    | Minecraft video and gameplay settings |
-| `.gitignore`     | Files excluded from version control   |
+Mod| Description
+Alternate Current| Improves redstone performance.
+C2ME| Improves chunk generation and loading performance.
+Dynamic FPS| Reduces resource usage when Minecraft is inactive.
+FerriteCore| Reduces memory usage.
+FastQuit| Makes leaving worlds and servers faster.
+Krypton| Optimizes network handling.
+Lithium| Improves game logic performance.
+More Culling| Prevents rendering objects that cannot be seen.
+Particle Core| Optimizes particle rendering.
+Sodium| Improves rendering performance and FPS.
+Sodium Extra| Adds extra graphics and performance settings.
+VMP| Provides additional performance optimizations.
+ImmediatelyFast| Improves rendering performance.
+GPUBooster| Provides GPU-related optimizations.
+Chunky| Helps with chunk generation and management.
+LetMeDespawn| Helps manage entity despawning.
 
-## Purpose
+Visuals & Customization
 
-This repository acts as a personal backup and archive of my Minecraft instance. It allows me to keep track of modifications, preserve configurations, and restore my setup whenever needed.
+Mod| Description
+Better Clouds| Improves the appearance of clouds.
+Cosmetica| Adds cosmetic customization options.
+Natural Motion Blur| Adds motion blur effects.
+Skin Layers 3D| Gives player skin layers a 3D appearance.
+Xaero's Minimap| Adds a minimap to the screen.
+Xaero's World Map| Adds a full-screen world map.
+BetterGrassify| Improves grass block textures.
+CustomSkinLoader| Allows custom player skins to load.
 
-It also makes maintaining and updating my instance easier without having to manually organize everything again.
+Utility & Quality of Life
 
-## Compatibility
+Mod| Description
+AppleSkin| Displays hunger and saturation information.
+Almanac| Provides additional in-game information and utilities.
+AlwaysSprint| Automatically maintains sprinting.
+Mouse Tweaks| Improves mouse controls for inventory management.
+CrashAssistant| Helps with crash information and troubleshooting.
+Mod Menu| Provides an in-game menu for managing mods.
+Third Person Nametags| Displays player nametags in third person.
+Language Reload| Reloads language resources.
+CreamyKeys| Provides keyboard-related features.
+Rose-Bush| Provides additional client-side features.
 
-- **Instance:** LT2
-- **Launcher:** Prism Launcher
-- **Operating System:** Linux
-- **Focus:** Mace PvP / Crystal PvP
+Libraries & Dependencies
 
-## Maintainer
+Library| Description
+ToadLib| Shared library required by dependent mods.
+WalksyLib| Shared library providing functionality for dependent mods.
+Cloth Config API| Provides configuration screens for mods.
+Fabric API| Provides common tools required by Fabric mods.
+Fabric Language Kotlin| Allows Kotlin-based mods to run.
+Fzzy Config| Provides configuration support.
+MaLiLib| Shared library used by certain utility mods.
+Placeholder API| Allows mods to provide and use placeholder values.
+YACL| Provides configuration menus for mods.
+Forge Config API Port| Provides configuration API compatibility.
 
-**Niqi / Miwalin**
+Keybindings
 
-Personal Minecraft PvP instance, maintained and customized for my own gameplay.
+Order| Key
+1| "1"
+2| "2"
+3| "3"
+4| "Caps Lock"
+5| "Z"
+6| "X"
+7| "'"
+8| "C"
+9| "Button 5"
+
+My Settings
+
+- Configurations: ".minecraft/config"
+- Resource Packs: ".minecraft/resourcepacks"
+- Shaders: ".minecraft/shaderpacks"
+- Video Settings: "options.txt"
+
+Special Thanks
+
+- Me: For putting together and maintaining this setup.
+- My Past Self: For all the time and effort spent building this setup.
+- My Future Self: For keeping this setup alive and updated.
 
 ---
 
-*Built for mace combat, crystal PvP, and the LT2 experience.*
+Personal LT2 PvP setup. Maintained by Niqi.
