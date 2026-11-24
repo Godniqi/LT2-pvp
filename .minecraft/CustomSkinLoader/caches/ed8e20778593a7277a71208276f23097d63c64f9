@@ -1,0 +1,9 @@
+{
+  "id" : "e945d66fdc93436aaf2af3710783b18b",
+  "name" : "SingZ",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTM4Njk3OSwKICAicHJvZmlsZUlkIiA6ICJlOTQ1ZDY2ZmRjOTM0MzZhYWYyYWYzNzEwNzgzYjE4YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaW5nWiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zZjg2NjgyMWJmYmY1MWMwNWZmNzk4YWYxMDk1NzVhZmZhMThjNzc5MTUxODEwYjUyZTk5YzU0N2MzMzc5ZWI3IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

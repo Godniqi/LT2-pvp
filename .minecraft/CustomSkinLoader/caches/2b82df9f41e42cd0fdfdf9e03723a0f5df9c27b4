@@ -1,0 +1,9 @@
+{
+  "id" : "c7f4196e32c047e0b0015a20239014c0",
+  "name" : "Spacekiller",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTIxMDY4OSwKICAicHJvZmlsZUlkIiA6ICJjN2Y0MTk2ZTMyYzA0N2UwYjAwMTVhMjAyMzkwMTRjMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGFjZWtpbGxlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZDg1MThhYzZlNTk0ZGY0ODQxY2E4YWI1NGVhZTA0YTA0ODEwNDI5ZjM3MmQyYzQzZDYzZmE0M2IxMTA1Nzk5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

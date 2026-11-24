@@ -1,0 +1,9 @@
+{
+  "id" : "6067596c849e4111ad56f317a0e6ebe6",
+  "name" : "ZEDi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjI5ODM2NzYyMiwKICAicHJvZmlsZUlkIiA6ICI2MDY3NTk2Yzg0OWU0MTExYWQ1NmYzMTdhMGU2ZWJlNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJaRURpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U3YzY1ZTk1YjY0YzM5MjRmN2Q5NDZmMTY3YjcyM2IxOGJlYzE5ZThmYjI1NDQxYzI3Yzg4NTljOTA1OGE0MmUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

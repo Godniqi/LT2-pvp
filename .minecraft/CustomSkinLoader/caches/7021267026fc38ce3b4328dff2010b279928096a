@@ -1,0 +1,9 @@
+{
+  "id" : "f1a860f5ecba4644b72faefa2f94f800",
+  "name" : "Haruzin",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4Mjg4MTMyMiwKICAicHJvZmlsZUlkIiA6ICJmMWE4NjBmNWVjYmE0NjQ0YjcyZmFlZmEyZjk0ZjgwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIYXJ1emluIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJkNjM4NDRkMTMyMWI5ZGEyZGI0ODZiYjdmODY3ZGU4NTliNDNjNDA3MDZiZWVlNWJhMjk2ZDZjYmI1NjVlMmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

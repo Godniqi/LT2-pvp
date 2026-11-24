@@ -1,0 +1,9 @@
+{
+  "id" : "9a6e4b0fcb4446c1bf8e010d8b222f3e",
+  "name" : "lavajava",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDY0NTg2MTUzOSwKICAicHJvZmlsZUlkIiA6ICI5YTZlNGIwZmNiNDQ0NmMxYmY4ZTAxMGQ4YjIyMmYzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJsYXZhamF2YSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZDdhN2M4ZmFlZjc3MTRhZjJiN2RmNmIzYjAzODlhYzI5NjJhZTFmMzA0MDk4OTQyYzliNTQxMGNjNDZiMDRiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

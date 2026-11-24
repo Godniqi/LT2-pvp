@@ -1,0 +1,9 @@
+{
+  "id" : "909d0269171949a9a4109c484ac281c8",
+  "name" : "Barrel",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzY5NDQ0NzA0OSwKICAicHJvZmlsZUlkIiA6ICI5MDlkMDI2OTE3MTk0OWE5YTQxMDljNDg0YWMyODFjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCYXJyZWwiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2VjMTJjNmU4MWM0NjhkZGQ2ZWI3OThmZGRkOTI1ZDY3ZDljOTk2OGRlZjVmNWY3YzcyNzI5ZWFlNDcyYmIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "960edc07d9134495a46a641e30c2b15f",
+  "name" : "Genzeii",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIwNjgyMTk3NiwKICAicHJvZmlsZUlkIiA6ICI5NjBlZGMwN2Q5MTM0NDk1YTQ2YTY0MWUzMGMyYjE1ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHZW56ZWlpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzYxMDgzNWYxZTk0Njc3OTg2ZDY3YWZkZWQxOTQ3Yzg3Y2EyODZlYmEwZGNlMzdkZDNlYWQ3ZmNhMTlkZGI4NTEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

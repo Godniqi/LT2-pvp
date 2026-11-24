@@ -1,0 +1,9 @@
+{
+  "id" : "99aa53b53c2c4f08806e2312826b7ea8",
+  "name" : "Diver_down",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NjAwMzA2MywKICAicHJvZmlsZUlkIiA6ICI5OWFhNTNiNTNjMmM0ZjA4ODA2ZTIzMTI4MjZiN2VhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaXZlcl9kb3duIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2Nzc0NTZjNTMwNTMzZDczNDE3MzM2MWUwMDlkMDExNzY3NTE1OGQ5ZmFjNTlhMGUxZmYxYTdkNTJkMmRlMGMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "68d7af1d205d4066bc387a30e7907176",
+  "name" : "balbin",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMDQ4MjU3NCwKICAicHJvZmlsZUlkIiA6ICI2OGQ3YWYxZDIwNWQ0MDY2YmMzODdhMzBlNzkwNzE3NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWxiaW4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFmNDc3ZWIxYTdiZWVlNjMxYzJjYTY0ZDA2ZjhmNjhmYTkzYTMzODZkMDQ0NTJhYjI3ZjQzYWNkZjFiNjBjYiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

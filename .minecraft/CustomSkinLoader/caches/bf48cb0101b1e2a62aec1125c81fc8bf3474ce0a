@@ -1,0 +1,9 @@
+{
+  "id" : "feea8c2e6a554c1cb56709e6ba04c9ce",
+  "name" : "buckduck",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA0MDQ4MzM3OSwKICAicHJvZmlsZUlkIiA6ICJmZWVhOGMyZTZhNTU0YzFjYjU2NzA5ZTZiYTA0YzljZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJidWNrZHVjayIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hM2JkMTYwNzlmNzY0Y2Q1NDFlMDcyZTg4OGZlNDM4ODVlNzExZjk4NjU4MzIzZGIwZjlhNjA0NWRhOTFlZTdhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

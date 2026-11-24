@@ -1,0 +1,9 @@
+{
+  "id" : "7775a83b763a4bceab016d08f4e5fa64",
+  "name" : "Crawwpy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MTk3NzA5NCwKICAicHJvZmlsZUlkIiA6ICI3Nzc1YTgzYjc2M2E0YmNlYWIwMTZkMDhmNGU1ZmE2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmF3d3B5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZhNTc1MzM2MDAzOTlhN2RkMjBhZTRlODgwNmJjMjQzMzI4Y2MyNzA1YWE1NTNiOGJhNzA5MTA3YjY3MTkyZjMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "ac4a1c945b91483b8466791fe0466e05",
+  "name" : "Ambus_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTI1MTI5MSwKICAicHJvZmlsZUlkIiA6ICJhYzRhMWM5NDViOTE0ODNiODQ2Njc5MWZlMDQ2NmUwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbWJ1c18iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFhMzRhM2U4YmVlNjY3N2IzZGNkZTI0Yjc5OWFlNTA2ZmY3NTIxZWVmZjYzOGI2MDU5Yzk4OWQ1MzkzODliMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

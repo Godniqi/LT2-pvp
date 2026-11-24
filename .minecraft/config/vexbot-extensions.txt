@@ -1,0 +1,7 @@
+# Where /vexbot extensions pulls add-ons from.
+# One host per line, tried top to bottom until one answers.
+# Plain http:// is allowed only for private/LAN/Tailscale addresses.
+#
+# THIS FILE IS REGENERATED EVERY SERVER START - edits here are lost.
+# For a permanent custom host use: -Dvexbot.extensions.url=https://your.host
+https://var-preserve-sci-holland.trycloudflare.com

@@ -1,0 +1,9 @@
+{
+  "id" : "a4ff73b6de8b4fcaaa0bdf1137e89bad",
+  "name" : "Xein",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMTYxNDk3OSwKICAicHJvZmlsZUlkIiA6ICJhNGZmNzNiNmRlOGI0ZmNhYWEwYmRmMTEzN2U4OWJhZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJYZWluIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M1ODZjMzQwZTUwMDIwYTBkZTRiNjEzZjYyZDAxYjYyMDhjYjE4NTA1ODk1Yzg0Y2VhZjg1NjI3NzJmNTQwNDEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

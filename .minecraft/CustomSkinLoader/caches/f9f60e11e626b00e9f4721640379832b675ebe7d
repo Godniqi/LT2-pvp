@@ -1,0 +1,9 @@
+{
+  "id" : "8d3c315e8d6c47e896ab03c0859c4fe3",
+  "name" : "Matrix_08",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTMzMDkwOSwKICAicHJvZmlsZUlkIiA6ICI4ZDNjMzE1ZThkNmM0N2U4OTZhYjAzYzA4NTljNGZlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXRyaXhfMDgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmMxNjBmYmQxNmFkYmM0YmZmMjQwOWU3MDE4MGQ5MTEwMDJhZWJjZmE4MTFlYjZlYzNkMTA0MDc2MWFlYTZkZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

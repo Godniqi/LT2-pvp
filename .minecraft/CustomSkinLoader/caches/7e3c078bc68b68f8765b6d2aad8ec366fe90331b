@@ -1,0 +1,9 @@
+{
+  "id" : "a80a423728c04fadb0f1e3d5110e62e6",
+  "name" : "BLOODCREAM_YT",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NjA4NDUxNSwKICAicHJvZmlsZUlkIiA6ICJhODBhNDIzNzI4YzA0ZmFkYjBmMWUzZDUxMTBlNjJlNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCTE9PRENSRUFNX1lUIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFlNjhkNjU2ZjQ4MDdiZTQ0MmQ0YjJhYTdlYjQ2ZDFmZTUyN2Q0MzEyYmFkZGQyMTRkMjQ3OTkxOThhZWMyNjYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

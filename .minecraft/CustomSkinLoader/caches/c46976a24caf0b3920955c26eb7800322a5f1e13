@@ -1,0 +1,9 @@
+{
+  "id" : "b1487816613d40958792363bbf600dc6",
+  "name" : "Fayne",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzA4MDU5OTQ2OSwKICAicHJvZmlsZUlkIiA6ICJiMTQ4NzgxNjYxM2Q0MDk1ODc5MjM2M2JiZjYwMGRjNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYXluZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMmIzODZjNWI4NGVhNjgwY2NiOGZlZTE0M2Q2MzU4MjY3YTg3YTlkOGI0OGU5NGU2NGZlNGUwMjNhZTQ3Yjk2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

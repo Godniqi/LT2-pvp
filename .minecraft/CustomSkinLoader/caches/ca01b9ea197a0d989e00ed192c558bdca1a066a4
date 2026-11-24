@@ -1,0 +1,9 @@
+{
+  "id" : "3c4689850b7c475d81f714753891cd05",
+  "name" : "Luckymoonlight",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzEzMjM4NCwKICAicHJvZmlsZUlkIiA6ICIzYzQ2ODk4NTBiN2M0NzVkODFmNzE0NzUzODkxY2QwNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMdWNreW1vb25saWdodCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMWY0NzdlYjFhN2JlZWU2MzFjMmNhNjRkMDZmOGY2OGZhOTNhMzM4NmQwNDQ1MmFiMjdmNDNhY2RmMWI2MGNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

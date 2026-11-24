@@ -1,0 +1,9 @@
+{
+  "id" : "348adae0dc734b88a3e30c7414954a0b",
+  "name" : "Kylzzyy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTU4ODYxMiwKICAicHJvZmlsZUlkIiA6ICIzNDhhZGFlMGRjNzM0Yjg4YTNlMzBjNzQxNDk1NGEwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLeWx6enl5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU4ZjE3OTE4NTUzOWRlZjI0YjFhMjRkMjMzNzRjOTZmNzI4OTgwMTcxYmNjNWFjOTI3Zjk4MmYyY2QxMmNlMDIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

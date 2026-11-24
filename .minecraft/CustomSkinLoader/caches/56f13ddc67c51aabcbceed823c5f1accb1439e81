@@ -1,0 +1,9 @@
+{
+  "id" : "0f102fc922654de2b9391172cd942e39",
+  "name" : "Wallibear",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTAwNzMxNDg1OSwKICAicHJvZmlsZUlkIiA6ICIwZjEwMmZjOTIyNjU0ZGUyYjkzOTExNzJjZDk0MmUzOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXYWxsaWJlYXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWQ1YjE1NDA4ZGRiYzg3NTMyMjk3MGQwY2QxZTY4ZmQ3ZDc2M2Y1MTdlZmFiMGQyZjFjMzY3YWQ3YjgzYWY4YSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "26cecf316dc64cfd9f88008a1a8543d5",
+  "name" : "Alden",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjg5MTc1NTcyMywKICAicHJvZmlsZUlkIiA6ICIyNmNlY2YzMTZkYzY0Y2ZkOWY4ODAwOGExYTg1NDNkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGRlbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MWUwOTA5OTAyMzE4YmMyZjNmMWU1OWY3ZGYzMTk5MDBlMDRkYzY3ZmJkYTExNzcyZDc0YThjYmU1YTgwZDhlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

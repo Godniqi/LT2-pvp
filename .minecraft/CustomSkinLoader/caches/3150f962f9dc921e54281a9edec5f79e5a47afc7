@@ -1,0 +1,9 @@
+{
+  "id" : "a2547f7814dd4c89a3de8028ffe41a60",
+  "name" : "Yalds",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzExNzk5MiwKICAicHJvZmlsZUlkIiA6ICJhMjU0N2Y3ODE0ZGQ0Yzg5YTNkZTgwMjhmZmU0MWE2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZYWxkcyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xNTc4NmYyMmFkZGIwMGQ4Nzk0NmZkNmE4N2Y0MGM3NDQ5NDhiYjk2MTA5MzgwYmY0ODFkNDVkYjM1MzE0MDFkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

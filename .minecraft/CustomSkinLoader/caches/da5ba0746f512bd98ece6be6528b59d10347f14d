@@ -1,0 +1,9 @@
+{
+  "id" : "eabf09e0622745c5bbe09b89b9cff1b9",
+  "name" : "YoSoyFlax",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzY5NjYzMzM2MCwKICAicHJvZmlsZUlkIiA6ICJlYWJmMDllMDYyMjc0NWM1YmJlMDliODliOWNmZjFiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJZb1NveUZsYXgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2ZlNjE2ZmI5NjhhMWEwZGM4NjVjNDcxOGVjMTY2ODRjYWE0ZmRmZWRlZTdkZTZlZGE1ZWU1OTViYjdjM2NjYyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

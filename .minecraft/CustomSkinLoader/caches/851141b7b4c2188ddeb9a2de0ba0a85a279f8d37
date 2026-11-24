@@ -1,0 +1,9 @@
+{
+  "id" : "3bd032978f5d4df4b19924659013c078",
+  "name" : "EnderFighter",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTU5NjY5OCwKICAicHJvZmlsZUlkIiA6ICIzYmQwMzI5NzhmNWQ0ZGY0YjE5OTI0NjU5MDEzYzA3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbmRlckZpZ2h0ZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTk0ODY4YzRlYmNjOWY2ZjIxOWQ3NDEyOWZjZTg5NDhiYjRjOTRkNjMxZjM3ZjFhMTViMGMzNTEzYzdhNDk5YiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

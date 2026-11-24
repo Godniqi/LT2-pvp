@@ -1,0 +1,9 @@
+{
+  "id" : "05d98253dfd64db29a913d95d08b6ad5",
+  "name" : "googoogagaa",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA0MDUzMTg4MywKICAicHJvZmlsZUlkIiA6ICIwNWQ5ODI1M2RmZDY0ZGIyOWE5MTNkOTVkMDhiNmFkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJnb29nb29nYWdhYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMjZjNjE3ZmRlNWIxYmE1NjlhYTA4YmQyY2I2ZmQ4NGM5MzMzNzUzMmE4NzJiM2ViN2JmNjZiZGQ1YjM5NWY4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

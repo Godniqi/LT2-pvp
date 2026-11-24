@@ -1,0 +1,9 @@
+{
+  "id" : "6ff506a2aa52432c82c4aaadeeb9eed2",
+  "name" : "Mugm_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTM0NDkyNDU2OSwKICAicHJvZmlsZUlkIiA6ICI2ZmY1MDZhMmFhNTI0MzJjODJjNGFhYWRlZWI5ZWVkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNdWdtXyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMGRhMGYxNGE4NWI0MzgzY2FhYjRjNjViZTkwZDMzMjVhMzBiMGNlMDRiNmMwODg0Mzg3MTAyMDQ5MGQ5NDdiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

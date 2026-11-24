@@ -1,0 +1,9 @@
+{
+  "id" : "6d90e7031eec40fda78f60049d35a149",
+  "name" : "LawNoTrust",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA0MDQwMTc5NSwKICAicHJvZmlsZUlkIiA6ICI2ZDkwZTcwMzFlZWM0MGZkYTc4ZjYwMDQ5ZDM1YTE0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMYXdOb1RydXN0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0ZjU5NDNjZjkxYTg2M2U0NDExMDJhNDUyNmJjNThiNjE5MGE2ZGEwOTJkZmI2NjQwMDkwNDA3MDUzMjVmNTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

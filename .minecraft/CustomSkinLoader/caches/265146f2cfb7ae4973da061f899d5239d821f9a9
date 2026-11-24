@@ -1,0 +1,9 @@
+{
+  "id" : "3a7b2cf431964cdc839a356edf52012a",
+  "name" : "Yaboishin",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MTk3MTYwOSwKICAicHJvZmlsZUlkIiA6ICIzYTdiMmNmNDMxOTY0Y2RjODM5YTM1NmVkZjUyMDEyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJZYWJvaXNoaW4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTdjOWQ2NjU3NmQwZWNhYzE1MjBkOGFiMjY5YzMxNjAzY2JkNmU3MjczMjA0N2Y2M2E0ZjA5YWFlNjQ5ZWI1NSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "891a0433c55f4d56b4532a86f44b7798",
+  "name" : "Skyshifter",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMDUxMDAwNCwKICAicHJvZmlsZUlkIiA6ICI4OTFhMDQzM2M1NWY0ZDU2YjQ1MzJhODZmNDRiNzc5OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3lzaGlmdGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzY2E1YmNlZGRlZTlkMjQ1MmQ1M2MyMGNkZmU4MWQxOGM5MDViMTE1NjYzZWNmZGQ1ZDkyOWMxYzVhM2EzMTAiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

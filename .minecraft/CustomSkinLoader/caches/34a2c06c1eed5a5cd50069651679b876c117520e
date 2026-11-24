@@ -1,0 +1,9 @@
+{
+  "id" : "67344d580f114b3186c719c886f328d5",
+  "name" : "William",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjI4MzUyMTc5NywKICAicHJvZmlsZUlkIiA6ICI2NzM0NGQ1ODBmMTE0YjMxODZjNzE5Yzg4NmYzMjhkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXaWxsaWFtIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzE1YWJkNTEwZjMyNzk4OTFmM2M2YTRkZGRlMTU4NjQ3OTIwZWRiMzNhYjliZDgyZGI5ODU0Mjc0MGE1NzEyOTIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

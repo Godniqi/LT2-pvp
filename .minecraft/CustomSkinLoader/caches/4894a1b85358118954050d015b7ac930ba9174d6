@@ -1,0 +1,9 @@
+{
+  "id" : "2cce357b560f475d9af7a877d6eff134",
+  "name" : "Armari_VN",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQwNjk1MjExMCwKICAicHJvZmlsZUlkIiA6ICIyY2NlMzU3YjU2MGY0NzVkOWFmN2E4NzdkNmVmZjEzNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcm1hcmlfVk4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTViNGIxMzMzYmI4YWQ5NTEwMzhkNzdiMGNkZTJiYWU4Y2JlYTA2MzUzMWEzZmRjMzAzNGJlNTcxZWFmZTEzMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

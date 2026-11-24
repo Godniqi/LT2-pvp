@@ -1,0 +1,9 @@
+{
+  "id" : "f17de95f610240bfb9f37fea51c605f6",
+  "name" : "Laser",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTQwNzIzNCwKICAicHJvZmlsZUlkIiA6ICJmMTdkZTk1ZjYxMDI0MGJmYjlmMzdmZWE1MWM2MDVmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMYXNlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yZDNlZGUzYmJhZTRlMWVlOGVjMjI2MTNiMWZlYTJkZjExNThkZjQ4Yzc0OGM4YzNhOWNiMTNiNjNjYWJjNTk3IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

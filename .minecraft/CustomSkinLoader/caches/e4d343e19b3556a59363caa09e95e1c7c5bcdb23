@@ -1,0 +1,9 @@
+{
+  "id" : "429a64663f724de39c188153a33dd7ae",
+  "name" : "Juliaa",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTQ5OTgxNCwKICAicHJvZmlsZUlkIiA6ICI0MjlhNjQ2NjNmNzI0ZGUzOWMxODgxNTNhMzNkZDdhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdWxpYWEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDcwMzJiM2ZiZGZlNjFiMTNmOWU2ZGU5ZDMwNmFlMGM4OGE3OWY4ZTE3ZWFjOTNkZGMwNjYwNTRmOTBhY2VjNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

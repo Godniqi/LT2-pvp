@@ -1,0 +1,9 @@
+{
+  "id" : "b4fe1c2d462048269c9b9913691c1233",
+  "name" : "ItsLightNight",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNTk4MzMwNiwKICAicHJvZmlsZUlkIiA6ICJiNGZlMWMyZDQ2MjA0ODI2OWM5Yjk5MTM2OTFjMTIzMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHNMaWdodE5pZ2h0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VhNDA0NjliYWY3YjlhZDgxMjgwNDY2OGU0MTU4NzQ4ZDA1ZDE2NjZiMDE4NThjMjhiNGViMDk5M2ZjMTI3OTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

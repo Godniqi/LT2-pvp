@@ -1,0 +1,42 @@
+# Minecraft logs
+.minecraft/logs/
+.minecraft/crash-reports/
+.minecraft/*.log
+
+# Minecraft runtime and downloaded libraries
+.minecraft/libraries/
+.minecraft/.fabric/
+.minecraft/versions/
+
+# Minecraft cache
+.minecraft/.cache/
+.minecraft/webcache/
+.minecraft/cache/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.log
+*.log.gz
+
+# Launcher and session data
+.minecraft/launcher_profiles.json
+.minecraft/usercache.json
+.minecraft/usernamecache.json
+
+# ClickCrystals logs
+.minecraft/.clickcrystals/current.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor files
+.idea/
+.vscode/
+
+# Screenshots
+.minecraft/screenshots/

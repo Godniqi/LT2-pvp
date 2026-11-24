@@ -1,0 +1,9 @@
+{
+  "id" : "57c7ffa81def4f45b1f587708e5ca5ab",
+  "name" : "rai1111",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI1NDY3NzA5NSwKICAicHJvZmlsZUlkIiA6ICI1N2M3ZmZhODFkZWY0ZjQ1YjFmNTg3NzA4ZTVjYTVhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJyYWkxMTExIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZlY2U3MDE3YjFiYjEzOTI2ZDExNTg4NjRiMjgzYjhiOTMwMjcxZjgwYTkwNDgyZjE3NGNjYTZhMTdlODgyMzYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "69826324ef0142be824423fbf9de76c8",
+  "name" : "Setrix",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMTM3NjE1OSwKICAicHJvZmlsZUlkIiA6ICI2OTgyNjMyNGVmMDE0MmJlODI0NDIzZmJmOWRlNzZjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZXRyaXgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzQwMWNmYTM4NDA0NmRkZTI5NTMyODNlNzg0ZjY4NzExMjQwOTQxMWM5MjE1M2JkOTU3ZDNkODVlNGM4N2EwZCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

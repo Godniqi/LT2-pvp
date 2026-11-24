@@ -1,0 +1,9 @@
+{
+  "id" : "2ceffd26fa5c48b29c5b7721686d3fda",
+  "name" : "NgHuy_Huzy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzExNDI3NiwKICAicHJvZmlsZUlkIiA6ICIyY2VmZmQyNmZhNWM0OGIyOWM1Yjc3MjE2ODZkM2ZkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZ0h1eV9IdXp5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU2MTMwMTdmMjdlZDYyZDZjNTMxMzMyYmQ4MWM0ZWJhOTVlMDY1YmFiZjRmZWIxYzkzMTg0ZDIyYTIzZjUzZmMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

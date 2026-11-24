@@ -1,0 +1,9 @@
+{
+  "id" : "fb7788d3652641bfb3d828d884f6522a",
+  "name" : "LeonKennedy_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MTk1ODE2OCwKICAicHJvZmlsZUlkIiA6ICJmYjc3ODhkMzY1MjY0MWJmYjNkODI4ZDg4NGY2NTIyYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW9uS2VubmVkeV8iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGEyNjUwNzBiODdmZGI1YjEyNzg3YzM4ZjQ2YTQ2MWRmMzA5MzZlNDJkNzlhNGZlMDFkYjgzYjBmMzI2ZmNlOCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "d0374f1ec56642c58e9d8340968cb68a",
+  "name" : "Ultramanluke2",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDM5MzQxMTI0MSwKICAicHJvZmlsZUlkIiA6ICJkMDM3NGYxZWM1NjY0MmM1OGU5ZDgzNDA5NjhjYjY4YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJVbHRyYW1hbmx1a2UyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVkNjY1Y2Y3NzgxNDA2ZDAwYjdkMGY0YWEwNjUxN2RlZWM4YWM4NTg1ZTViMWMxOWUyOTMyZmViMmU3OWY3MWEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

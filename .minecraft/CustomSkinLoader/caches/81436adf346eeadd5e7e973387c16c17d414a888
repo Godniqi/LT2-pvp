@@ -1,0 +1,9 @@
+{
+  "id" : "31c17837757d4b2cad5630fc4aeb4a2d",
+  "name" : "doopter",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA1ODMxNjczOCwKICAicHJvZmlsZUlkIiA6ICIzMWMxNzgzNzc1N2Q0YjJjYWQ1NjMwZmM0YWViNGEyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJkb29wdGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc2NWI5NDQ4YWIzMGVmZWJkZjk4NDQxMjJlZjI1NWZhY2ZlZjQ5NWI2NzM4MjRkNWJlN2RiNDc2NmFmOTdlNDYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

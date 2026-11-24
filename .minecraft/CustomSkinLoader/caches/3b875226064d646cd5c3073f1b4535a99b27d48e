@@ -1,0 +1,9 @@
+{
+  "id" : "f79ab0e52d104ab0b1872786498db72d",
+  "name" : "Jube",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzEwMjE4OSwKICAicHJvZmlsZUlkIiA6ICJmNzlhYjBlNTJkMTA0YWIwYjE4NzI3ODY0OThkYjcyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKdWJlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q1YzRlZTVjZTIwYWVkOWUzM2U4NjZjNjZjYWEzNzE3ODYwNjIzNGIzNzIxMDg0YmYwMWQxMzMyMGZiMmViM2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

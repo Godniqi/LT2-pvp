@@ -1,0 +1,9 @@
+{
+  "id" : "3d752c7709cc45c78680c4eb1d45eba8",
+  "name" : "kinger16",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTE1MTM0NCwKICAicHJvZmlsZUlkIiA6ICIzZDc1MmM3NzA5Y2M0NWM3ODY4MGM0ZWIxZDQ1ZWJhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJraW5nZXIxNiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NzhhOGU4ZWZmNWZlNTQyNDhlMmZjYTYxZDM4ZWVkYWU5OWNlYzc5OTgyNmE4Zjk2ODU2NTM5OWU5YzYxMjUwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

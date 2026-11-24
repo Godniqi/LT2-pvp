@@ -1,0 +1,9 @@
+{
+  "id" : "e316a9ff3d204f4b8fed8eed8be8e148",
+  "name" : "Kurozen",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODg0NjIyNTcyOCwKICAicHJvZmlsZUlkIiA6ICJlMzE2YTlmZjNkMjA0ZjRiOGZlZDhlZWQ4YmU4ZTE0OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJLdXJvemVuIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhZjNkODhjY2IzOGYxMWY3NDgxNGU5MjA1M2Q5MmY3NzI4ZGRiMWE3OTU1NjUyYTYwZTMwY2IyN2FlNjY1OWYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

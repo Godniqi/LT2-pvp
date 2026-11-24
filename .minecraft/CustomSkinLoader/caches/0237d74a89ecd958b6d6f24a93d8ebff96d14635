@@ -1,0 +1,9 @@
+{
+  "id" : "7e1f7a8d49274667aa38cfb3fbbe2922",
+  "name" : "Chocody",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzEzNzE2MCwKICAicHJvZmlsZUlkIiA6ICI3ZTFmN2E4ZDQ5Mjc0NjY3YWEzOGNmYjNmYmJlMjkyMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaG9jb2R5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhmNjE2YzQ3NzU4NTdjZmM5ZDIwYmFjYmY0N2ViNTAzOTdiMGYyZWE1ZjBkZWJiMjA1ZGNhMWE2NDJkNzBlNzciCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "8860044e23d84e3e8cd6d92db8408460",
+  "name" : "Tayden",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA0MDUzMTk3MiwKICAicHJvZmlsZUlkIiA6ICI4ODYwMDQ0ZTIzZDg0ZTNlOGNkNmQ5MmRiODQwODQ2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYXlkZW4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjI0ZGZkNGE2NzExZjBiNDg3MmMyM2VkNjliODlmMTQ4ZjliZTRmYjBmMjgzNjQ3YjRiNDRhYTBhN2QyM2M2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

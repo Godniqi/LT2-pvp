@@ -1,0 +1,359 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.dragonFestivalGloves",
+        "texture_width": 32,
+        "texture_height": 32,
+        "visible_bounds_width": 3,
+        "visible_bounds_height": 2.5,
+        "visible_bounds_offset": [
+          0,
+          0.75,
+          0
+        ]
+      },
+      "bones": [
+        {
+          "name": "anchor_leftarm",
+          "pivot": [
+            5,
+            22,
+            0
+          ]
+        },
+        {
+          "name": "anchor_rightarm",
+          "pivot": [
+            -5,
+            22,
+            0
+          ]
+        },
+        {
+          "name": "gloves_left",
+          "parent": "anchor_leftarm",
+          "pivot": [
+            0,
+            0,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                4.0,
+                12,
+                -2.5
+              ],
+              "size": [
+                4.5,
+                3,
+                4.5
+              ],
+              "inflate": 0,
+              "uv": {
+                "north": {
+                  "uv": [
+                    4,
+                    4
+                  ],
+                  "uv_size": [
+                    4,
+                    3
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    0,
+                    4
+                  ],
+                  "uv_size": [
+                    4,
+                    3
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    12,
+                    4
+                  ],
+                  "uv_size": [
+                    4,
+                    3
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    12,
+                    4
+                  ],
+                  "uv_size": [
+                    -4,
+                    3
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    4,
+                    0
+                  ],
+                  "uv_size": [
+                    4,
+                    4
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    8,
+                    4
+                  ],
+                  "uv_size": [
+                    4,
+                    -4
+                  ]
+                }
+              }
+            },
+            {
+              "origin": [
+                6.0,
+                11.25,
+                -0.25
+              ],
+              "size": [
+                4.5,
+                3.0,
+                0.0
+              ],
+              "inflate": 0,
+              "uv": {
+                "north": {
+                  "uv": [
+                    4,
+                    14
+                  ],
+                  "uv_size": [
+                    4,
+                    3
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    4,
+                    14
+                  ],
+                  "uv_size": [
+                    0,
+                    3
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    8,
+                    14
+                  ],
+                  "uv_size": [
+                    -4,
+                    3
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    0,
+                    14
+                  ],
+                  "uv_size": [
+                    0,
+                    3
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    4,
+                    14
+                  ],
+                  "uv_size": [
+                    -4,
+                    0
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    8,
+                    14
+                  ],
+                  "uv_size": [
+                    -4,
+                    0
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "gloves_right",
+          "parent": "anchor_rightarm",
+          "pivot": [
+            0,
+            0,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -10.5,
+                11.25,
+                -0.25
+              ],
+              "size": [
+                4.5,
+                3.0,
+                0.0
+              ],
+              "inflate": 0,
+              "uv": {
+                "north": {
+                  "uv": [
+                    8,
+                    14
+                  ],
+                  "uv_size": [
+                    -4,
+                    3
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    0,
+                    14
+                  ],
+                  "uv_size": [
+                    0,
+                    3
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    4,
+                    14
+                  ],
+                  "uv_size": [
+                    4,
+                    3
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    4,
+                    14
+                  ],
+                  "uv_size": [
+                    0,
+                    3
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    0,
+                    14
+                  ],
+                  "uv_size": [
+                    4,
+                    0
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    4,
+                    14
+                  ],
+                  "uv_size": [
+                    4,
+                    0
+                  ]
+                }
+              }
+            },
+            {
+              "origin": [
+                -8.5,
+                12,
+                -2.5
+              ],
+              "size": [
+                4.5,
+                3,
+                4.5
+              ],
+              "inflate": 0,
+              "uv": {
+                "north": {
+                  "uv": [
+                    8,
+                    4
+                  ],
+                  "uv_size": [
+                    -4,
+                    3
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    8,
+                    4
+                  ],
+                  "uv_size": [
+                    4,
+                    3
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    16,
+                    4
+                  ],
+                  "uv_size": [
+                    -4,
+                    3
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    4,
+                    4
+                  ],
+                  "uv_size": [
+                    -4,
+                    3
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    8,
+                    0
+                  ],
+                  "uv_size": [
+                    -4,
+                    4
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    12,
+                    4
+                  ],
+                  "uv_size": [
+                    -4,
+                    -4
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

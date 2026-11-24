@@ -1,0 +1,340 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.halloween2026TrickOrTreat",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [
+					0,
+					1.75,
+					0
+				]
+			},
+			"bones": [
+				{
+					"name": "anchor_rightleg",
+					"pivot": [
+						-1.9,
+						12,
+						0
+					]
+				},
+				{
+					"name": "anchor_leftleg",
+					"pivot": [
+						1.9,
+						12,
+						0
+					]
+				},
+				{
+					"name": "anchor_head",
+					"pivot": [
+						0,
+						24,
+						0
+					]
+				},
+				{
+					"name": "anchor_body",
+					"pivot": [
+						0,
+						24,
+						0
+					]
+				},
+				{
+					"name": "anchor_rightarm",
+					"pivot": [
+						-5,
+						22,
+						0
+					]
+				},
+				{
+					"name": "r_attachment",
+					"parent": "anchor_rightarm",
+					"pivot": [
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "candy_bucket_arm",
+					"parent": "r_attachment",
+					"pivot": [
+						1,
+						8,
+						0
+					],
+					"cubes": [
+						{
+							"origin": [
+								-2.99517,
+								3.29461,
+								-1.07468
+							],
+							"size": [
+								9,
+								5,
+								2
+							],
+							"uv": {
+								"north": {
+									"uv": [
+										2,
+										20
+									],
+									"uv_size": [
+										9,
+										5
+									]
+								},
+								"east": {
+									"uv": [
+										0,
+										20
+									],
+									"uv_size": [
+										2,
+										5
+									]
+								},
+								"south": {
+									"uv": [
+										11,
+										20
+									],
+									"uv_size": [
+										-9,
+										5
+									]
+								},
+								"west": {
+									"uv": [
+										0,
+										20
+									],
+									"uv_size": [
+										2,
+										5
+									]
+								},
+								"up": {
+									"uv": [
+										2,
+										18
+									],
+									"uv_size": [
+										9,
+										2
+									]
+								}
+							}
+						}
+					]
+				},
+				{
+					"name": "candy_bucket",
+					"parent": "candy_bucket_arm",
+					"pivot": [
+						2.50483,
+						4.29461,
+						-0.07468
+					],
+					"cubes": [
+						{
+							"origin": [
+								-1.99517,
+								0.29461,
+								-4.07468
+							],
+							"size": [
+								7,
+								5,
+								8
+							],
+							"pivot": [
+								1.50483,
+								2.79461,
+								-0.07468
+							],
+							"rotation": [
+								0,
+								90,
+								0
+							],
+							"uv": {
+								"north": {
+									"uv": [
+										8,
+										8
+									],
+									"uv_size": [
+										7,
+										5
+									]
+								},
+								"east": {
+									"uv": [
+										0,
+										8
+									],
+									"uv_size": [
+										8,
+										5
+									]
+								},
+								"south": {
+									"uv": [
+										8,
+										8
+									],
+									"uv_size": [
+										7,
+										5
+									]
+								},
+								"west": {
+									"uv": [
+										0,
+										8
+									],
+									"uv_size": [
+										8,
+										5
+									]
+								},
+								"up": {
+									"uv": [
+										0,
+										0
+									],
+									"uv_size": [
+										7,
+										8
+									]
+								},
+								"down": {
+									"uv": [
+										8,
+										8
+									],
+									"uv_size": [
+										7,
+										-8
+									]
+								}
+							}
+						},
+						{
+							"origin": [
+								2.00483,
+								5.29461,
+								-0.07468
+							],
+							"size": [
+								3,
+								0,
+								3
+							],
+							"pivot": [
+								3.50483,
+								5.29461,
+								1.42532
+							],
+							"rotation": [
+								90,
+								67.5,
+								67.5
+							],
+							"uv": {
+								"up": {
+									"uv": [
+										20,
+										19
+									],
+									"uv_size": [
+										3,
+										3
+									]
+								}
+							}
+						},
+						{
+							"origin": [
+								-1.99517,
+								5.29461,
+								-3.07468
+							],
+							"size": [
+								3,
+								0,
+								3
+							],
+							"pivot": [
+								-0.49517,
+								5.29461,
+								-1.57468
+							],
+							"rotation": [
+								-90,
+								67.5,
+								-67.5
+							],
+							"uv": {
+								"up": {
+									"uv": [
+										23,
+										26
+									],
+									"uv_size": [
+										-3,
+										-3
+									]
+								}
+							}
+						},
+						{
+							"origin": [
+								-1.99517,
+								4.29461,
+								-3.07468
+							],
+							"size": [
+								7,
+								0,
+								6
+							],
+							"uv": {
+								"up": {
+									"uv": [
+										12,
+										19
+									],
+									"uv_size": [
+										7,
+										6
+									]
+								}
+							}
+						}
+					]
+				},
+				{
+					"name": "anchor_leftarm",
+					"pivot": [
+						5,
+						22,
+						0
+					]
+				}
+			]
+		}
+	]
+}

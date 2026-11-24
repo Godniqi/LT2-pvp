@@ -1,0 +1,9 @@
+{
+  "id" : "d7c17f57085a4b608bf89c1424c675ff",
+  "name" : "iNT12",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk3MjQ1OTMwOCwKICAicHJvZmlsZUlkIiA6ICJkN2MxN2Y1NzA4NWE0YjYwOGJmODljMTQyNGM2NzVmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJpTlQxMiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81M2NkYjk3ZGQzZjJhODhiMTA5NDdhYzA4ZjliYWMxYjhiNTc0ZjQxMTBhOTNmNWIyMGIxNmY1OWI4OWQ3ZWQ4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

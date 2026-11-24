@@ -1,0 +1,9 @@
+{
+  "id" : "99c841b45e7b4b4aa9d303b0dc23c0ab",
+  "name" : "vuadaubep",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODU4Nzg2NDIyNiwKICAicHJvZmlsZUlkIiA6ICI5OWM4NDFiNDVlN2I0YjRhYTlkMzAzYjBkYzIzYzBhYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2dWFkYXViZXAiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODk1ODNmNzU5NTMyNjU2NmNlNWE4MGZjZWNjNTk3NTBlYzE4NzE4ZmU3Mzg2ZGY3YWM1ZTM5NDc4MTk4MWM1ZSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

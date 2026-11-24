@@ -1,0 +1,9 @@
+{
+  "id" : "8afb1917678f4f92a192b45a09bd655e",
+  "name" : "ItzMeChase",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjI0MDg2OSwKICAicHJvZmlsZUlkIiA6ICI4YWZiMTkxNzY3OGY0ZjkyYTE5MmI0NWEwOWJkNjU1ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHpNZUNoYXNlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRkNGJmY2I3MTNkNmUzZWZmYTI5YTI1ODRhN2YwZjYzNGE0Njk5MjYwNzQzYmMyY2YwNzk0MThkMjUzOTQ0MjAiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

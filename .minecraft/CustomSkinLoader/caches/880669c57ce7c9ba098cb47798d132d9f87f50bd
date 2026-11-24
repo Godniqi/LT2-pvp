@@ -1,0 +1,9 @@
+{
+  "id" : "a1e310d19af04681ae98ff1ab4e4685d",
+  "name" : "Vxlocity",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzA4MTI0MjczMiwKICAicHJvZmlsZUlkIiA6ICJhMWUzMTBkMTlhZjA0NjgxYWU5OGZmMWFiNGU0Njg1ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJWeGxvY2l0eSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NzUyOTM0YTg3MjIyZWE3ZmU4NzA3NTYxMWI4ZmQ5OTkwMzY1ZjRjZDY5ZTY1YTNhMzQzNWRlNjcwMDQ2NzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

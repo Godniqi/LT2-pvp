@@ -1,0 +1,9 @@
+{
+  "id" : "1f8633b3758d4dc4a09e613795d3cd77",
+  "name" : "Lenr",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDM5MzM5NDQyNCwKICAicHJvZmlsZUlkIiA6ICIxZjg2MzNiMzc1OGQ0ZGM0YTA5ZTYxMzc5NWQzY2Q3NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW5yIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZlYjhkZDk4ZjJjMmQyZDZmNTFjNDcwMDcxZjljM2YzMzZiYTIxZjFhMmY2YWJlOGJjY2Q4ZjU4NmYwYjIzMzEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

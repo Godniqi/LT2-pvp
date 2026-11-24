@@ -1,0 +1,58 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.unknown",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "steve3",
+					"pivot": [0.01667, 15.66667, 0],
+					"rotation": [-180, 0, 180]
+				},
+				{
+					"name": "donutShield",
+					"pivot": [-22.85, 11.16667, 2.98333],
+					"cubes": [
+						{
+							"origin": [-26.35, -4.33333, 7.98333],
+							"size": [12, 5, 4],
+							"pivot": [-23.35, 11.16667, 2.98333],
+							"rotation": [0, 90, -90],
+							"uv": {
+								"north": {"uv": [16, 4], "uv_size": [-12, 5]},
+								"east": {"uv": [0, 4], "uv_size": [4, 5]},
+								"south": {"uv": [32, 4], "uv_size": [-12, 5]},
+								"west": {"uv": [4, 4], "uv_size": [-4, 5]},
+								"up": {"uv": [16, 0], "uv_size": [-12, 4]},
+								"down": {"uv": [28, 4], "uv_size": [-12, -4]}
+							}
+						},
+						{"origin": [-17.85, -3.83333, 3.98333], "size": [4, 5, 4], "pivot": [-22.85, 11.16667, 2.98333], "rotation": [0, 90, -90], "uv": [0, 9], "mirror": true},
+						{"origin": [-31.85, -3.83333, -2.01667], "size": [4, 5, 4], "pivot": [-22.85, 11.16667, -3.01667], "rotation": [0, 90, -90], "uv": [0, 9]},
+						{
+							"origin": [-25.85, -3.83333, -0.01667],
+							"size": [12, 5, 4],
+							"pivot": [-22.85, 11.16667, 2.98333],
+							"rotation": [0, 90, -90],
+							"uv": {
+								"north": {"uv": [16, 22], "uv_size": [-12, 5]},
+								"east": {"uv": [0, 22], "uv_size": [4, 5]},
+								"south": {"uv": [32, 22], "uv_size": [-12, 5]},
+								"west": {"uv": [4, 22], "uv_size": [-4, 5]},
+								"up": {"uv": [16, 18], "uv_size": [-12, 4]},
+								"down": {"uv": [28, 22], "uv_size": [-12, -4]}
+							}
+						}
+					]
+				}
+			]
+		}
+	]
+}

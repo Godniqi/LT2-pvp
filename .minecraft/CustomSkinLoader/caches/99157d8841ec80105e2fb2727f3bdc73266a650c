@@ -1,0 +1,9 @@
+{
+  "id" : "f7553ebfb2644422bfb09bed74cd6f54",
+  "name" : "kylza",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTE4NjQ4OCwKICAicHJvZmlsZUlkIiA6ICJmNzU1M2ViZmIyNjQ0NDIyYmZiMDliZWQ3NGNkNmY1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJreWx6YSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MGU3NWNkNDI5YmE2MzMxY2QyMTBiOWJkMTkzOTk1MjdlZTNiYWI0NjdiNWE5ZjYxY2I4YTI3YjE3N2Y2Nzg5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

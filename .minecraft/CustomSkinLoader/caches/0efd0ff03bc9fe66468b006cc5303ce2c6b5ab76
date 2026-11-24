@@ -1,0 +1,9 @@
+{
+  "id" : "825a393e9a014abbad5db2221bfb37a2",
+  "name" : "Rainox_IG",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTY3NjMwMCwKICAicHJvZmlsZUlkIiA6ICI4MjVhMzkzZTlhMDE0YWJiYWQ1ZGIyMjIxYmZiMzdhMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYWlub3hfSUciLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzdhN2Y2YzMyYjg4ODQ5ODZhZDEwZTljZmNiM2IxNmI0NDk5Zjg4MDY2Mzk2MjcwMTlkYzE4ZmZhYzc2Zjc3YiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "8fb4cd4c0a0a4db4bc0182d5afe56667",
+  "name" : "Mott",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNTE4NTIwNCwKICAicHJvZmlsZUlkIiA6ICI4ZmI0Y2Q0YzBhMGE0ZGI0YmMwMTgyZDVhZmU1NjY2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb3R0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M1OWNjNmM0MzQ2MzlkMTI0YTI0NTYzZDRhMzI0MzBmY2ZhYmYzOTU3NzU5NTA2Y2JkNmY5OTIxYTgyNjlhY2UiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

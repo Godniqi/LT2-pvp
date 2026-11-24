@@ -1,0 +1,9 @@
+{
+  "id" : "32102c05589c408c92b2c42f6a22e69e",
+  "name" : "Frost_Fox_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTIyNDU5NywKICAicHJvZmlsZUlkIiA6ICIzMjEwMmMwNTU4OWM0MDhjOTJiMmM0MmY2YTIyZTY5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcm9zdF9Gb3hfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI3MzZhZjFlNTAwN2Y3NDJhMDM1N2E1YmJkNDYzOWI0YTg1ZTM3MzM1YWQzNjY5YjkwYmY0YjAxZDk0MWMxOWIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

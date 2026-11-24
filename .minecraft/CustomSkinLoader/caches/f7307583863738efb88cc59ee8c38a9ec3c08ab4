@@ -1,0 +1,9 @@
+{
+  "id" : "40b95ce68a0c4b13bf9bfb5dbbc4909c",
+  "name" : "Cryogen",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk3MDAyODgzMCwKICAicHJvZmlsZUlkIiA6ICI0MGI5NWNlNjhhMGM0YjEzYmY5YmZiNWRiYmM0OTA5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnlvZ2VuIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUwNDNhNDJhMjBkN2M0NzRkZjFiZDc0YzNhYzg1MDJlNDI3MDY0YTdkMDExMWJjODM0N2RjODQyMzY4ODgzNzciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

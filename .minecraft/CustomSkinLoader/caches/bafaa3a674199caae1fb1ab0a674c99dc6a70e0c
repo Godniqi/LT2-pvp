@@ -1,0 +1,9 @@
+{
+  "id" : "c6f9fc089e7141c6b620c855aa960de7",
+  "name" : "Bryan_MC",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDY0Njg0NjI5NSwKICAicHJvZmlsZUlkIiA6ICJjNmY5ZmMwODllNzE0MWM2YjYyMGM4NTVhYTk2MGRlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcnlhbl9NQyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMWUwNDMyZmJlM2NhZGNhYzQ4OGM3MjI0MGJhZDEyN2Y3YzRjNjlkYzQ5OWYyZDViMzZkMmJkYjgyYWMzZmE2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

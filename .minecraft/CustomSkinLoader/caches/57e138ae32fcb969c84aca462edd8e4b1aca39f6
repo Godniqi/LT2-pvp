@@ -1,0 +1,9 @@
+{
+  "id" : "6720dc4f8d124648ab432fb42e9561a7",
+  "name" : "Nahuh",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMTY1MjU3NiwKICAicHJvZmlsZUlkIiA6ICI2NzIwZGM0ZjhkMTI0NjQ4YWI0MzJmYjQyZTk1NjFhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYWh1aCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83OGQ0N2FhMmUzMGM3MjJjMWFiNGZjNmU5ZmExYmIzMjdiZWM5ZTU5NDQ3OWQwYjUwYjNkMzA1NGY2YjYzNjkyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

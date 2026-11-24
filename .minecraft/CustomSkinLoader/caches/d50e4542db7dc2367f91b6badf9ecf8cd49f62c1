@@ -1,0 +1,9 @@
+{
+  "id" : "93163c10cba748cd8d74075719fdf532",
+  "name" : "Alzefry",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA0MDIzMzUzNiwKICAicHJvZmlsZUlkIiA6ICI5MzE2M2MxMGNiYTc0OGNkOGQ3NDA3NTcxOWZkZjUzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHplZnJ5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I0MDczZTgzMmM2ZDQ5ZTIwNzYwYzcyNmU2YjM2ODk5MjYyNzRmNmJlNjFjZjJkNDdlYWU1OWEwYjBiZjQ4MzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

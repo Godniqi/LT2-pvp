@@ -1,0 +1,9 @@
+{
+  "id" : "209301ae4d0e4eb18b56f0e0388ac6c5",
+  "name" : "PhantomVein",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTYwODUwNCwKICAicHJvZmlsZUlkIiA6ICIyMDkzMDFhZTRkMGU0ZWIxOGI1NmYwZTAzODhhYzZjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQaGFudG9tVmVpbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MDQ5NmMwZWYyMjlmZDI0ZDgxNmY4YThhMzUzNGJhMmY4ZTgzYmFiMGVjZjAwMDlkNDJlMjk1MTBmZmMwOTVjIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

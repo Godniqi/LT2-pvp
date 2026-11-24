@@ -1,0 +1,9 @@
+{
+  "id" : "0a7fa5b8482042fe9a46692ec62ee86b",
+  "name" : "maxsy1217",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjgzMzEzNSwKICAicHJvZmlsZUlkIiA6ICIwYTdmYTViODQ4MjA0MmZlOWE0NjY5MmVjNjJlZTg2YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXhzeTEyMTciLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFmNDc3ZWIxYTdiZWVlNjMxYzJjYTY0ZDA2ZjhmNjhmYTkzYTMzODZkMDQ0NTJhYjI3ZjQzYWNkZjFiNjBjYiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

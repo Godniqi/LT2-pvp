@@ -1,0 +1,9 @@
+{
+  "id" : "e6d1d24401a847b5b569d457dfe07ff9",
+  "name" : "XpecterX",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA0MDE1MTA3NiwKICAicHJvZmlsZUlkIiA6ICJlNmQxZDI0NDAxYTg0N2I1YjU2OWQ0NTdkZmUwN2ZmOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJYcGVjdGVyWCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOGExZDQyNDU2NTlmMjk1NDBiOTE2YWJjZDBjNDNjZThmOTM5OWQ0OWNlYTJmMzZlY2M0YTc2OTYyZDBhMThiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "877d0abc8f484548bf9583bed9a84b48",
+  "name" : "Nyan",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTg0NDg4NiwKICAicHJvZmlsZUlkIiA6ICI4NzdkMGFiYzhmNDg0NTQ4YmY5NTgzYmVkOWE4NGI0OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOeWFuIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhN2RiYzZiMjk4M2E0OWRkYmFkYzMwMmExMjVmOGU1YTQxMGI4OWU2ZjBlZDU3MzM5M2UxNGIxYmFlZDM5NTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

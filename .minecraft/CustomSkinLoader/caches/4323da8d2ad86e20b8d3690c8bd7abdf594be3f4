@@ -1,0 +1,9 @@
+{
+  "id" : "4daf5e0b8d4c4a07970ce6393fb460c3",
+  "name" : "Spidos",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MjkxNTE0NSwKICAicHJvZmlsZUlkIiA6ICI0ZGFmNWUwYjhkNGM0YTA3OTcwY2U2MzkzZmI0NjBjMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGlkb3MiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzA5OTdiM2I0MDdiYTc2Mzk2Y2RlYzVmMjA1MzJlMzJjMTkyMTFjNGE0ZTIxZTI0YzczNGZkZTgxNTcwNGJkNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

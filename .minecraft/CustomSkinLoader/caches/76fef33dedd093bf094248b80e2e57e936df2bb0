@@ -1,0 +1,9 @@
+{
+  "id" : "aefb6b5e5b794c009e085ceccb668928",
+  "name" : "Butter24",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzYwMTg2NTM3NCwKICAicHJvZmlsZUlkIiA6ICJhZWZiNmI1ZTViNzk0YzAwOWUwODVjZWNjYjY2ODkyOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdXR0ZXIyNCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZDk4N2U1MjNjMDNjZDU1ODVlMGNiNzIzYTQyNDA4YzI1MmIwMjY4NTRjZjY3NjRkYTExMzBhYjNjM2E1MDUzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

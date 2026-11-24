@@ -1,0 +1,9 @@
+{
+  "id" : "af32e429db0b48dbbffc35cb08be5e17",
+  "name" : "abduliscool",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDM5MDA0NzY2NCwKICAicHJvZmlsZUlkIiA6ICJhZjMyZTQyOWRiMGI0OGRiYmZmYzM1Y2IwOGJlNWUxNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJhYmR1bGlzY29vbCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYjIxMjZiMDQ4M2UxZWM3YjYyMzk3ZTE0MWZiMjY4MDY0YTc1MDMyM2U5MzMwNTk4ZTY3NjQ4NDU5N2RkMDZjIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

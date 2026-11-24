@@ -1,0 +1,9 @@
+{
+  "id" : "a24d97a2851e4d61893471c3274fa660",
+  "name" : "SparkLing_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjczMjMzMiwKICAicHJvZmlsZUlkIiA6ICJhMjRkOTdhMjg1MWU0ZDYxODkzNDcxYzMyNzRmYTY2MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcGFya0xpbmdfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhiMTJiOGU5OGY1YzhlMmU0NDliZGJhZDRjNjhiODMzM2FmMTg0NDY1NTkxYzk2MzZkMmQ4NWNiZTM5Y2Q4NTkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

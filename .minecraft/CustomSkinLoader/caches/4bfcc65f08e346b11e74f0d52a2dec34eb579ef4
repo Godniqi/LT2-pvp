@@ -1,0 +1,9 @@
+{
+  "id" : "6f1e8000b1ba4fe6be34a48f099ef98b",
+  "name" : "ItzCoconut",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzY5NjYzNjgxMywKICAicHJvZmlsZUlkIiA6ICI2ZjFlODAwMGIxYmE0ZmU2YmUzNGE0OGYwOTllZjk4YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHpDb2NvbnV0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZjNzgxZGY2ZmI3ZTJlMmE2YzcxOTBiMDRkNjQwM2E4ZWQ0NjY4MTJlOWU3YTMxNzIxMTZmMjU4MzY2ZWZiZWEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

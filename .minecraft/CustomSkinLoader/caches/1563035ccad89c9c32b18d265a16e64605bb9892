@@ -1,0 +1,9 @@
+{
+  "id" : "e7bcba56b7b145d794b07a04f1151986",
+  "name" : "Karst",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA0MDQ5MDM3MywKICAicHJvZmlsZUlkIiA6ICJlN2JjYmE1NmI3YjE0NWQ3OTRiMDdhMDRmMTE1MTk4NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYXJzdCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xN2VkODdiZWM4YzNkODg4NTNhNDY1MWIxMWVkODMwM2U3NTNiN2QzZmI3OTU2MjA3Y2E5NjdlNGMxNmIxYTQ2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

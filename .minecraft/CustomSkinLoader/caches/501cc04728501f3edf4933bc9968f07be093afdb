@@ -1,0 +1,9 @@
+{
+  "id" : "f4aa6afad90c4dd297b2ed453b8c99fe",
+  "name" : "Kylaz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUwOTg3NDc1NSwKICAicHJvZmlsZUlkIiA6ICJmNGFhNmFmYWQ5MGM0ZGQyOTdiMmVkNDUzYjhjOTlmZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLeWxheiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mOWVhYmQ2Nzk4ZGZhMjI1MTc1YWM4NzgzYzVlNTY5MjE5MWFjOTBiMWQxZmY3MzVjMWExZmRhNjM0ZWM1OTU1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

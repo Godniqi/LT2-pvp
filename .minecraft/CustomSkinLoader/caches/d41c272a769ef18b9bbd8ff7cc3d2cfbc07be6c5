@@ -1,0 +1,9 @@
+{
+  "id" : "fac3a8effc1544a2b6d66a9d927426c5",
+  "name" : "inheals",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTMzNjIxNCwKICAicHJvZmlsZUlkIiA6ICJmYWMzYThlZmZjMTU0NGEyYjZkNjZhOWQ5Mjc0MjZjNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJpbmhlYWxzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFjMTE5MTA3MjA0YjdhZmExMzhkYTNkNGMwM2NjZmJjZTE5ZmVlMDMxNTlkNGZmM2MzYTk0ZTI4MGZlYzNlMGYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

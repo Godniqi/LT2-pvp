@@ -1,0 +1,25 @@
+{
+ "format_version": "1.8.0",
+ "animations": {
+  "animation.donutEndCrystalHat.idle": {
+   "loop": true,
+   "animation_length": 3,
+   "bones": {
+    "group4": {
+     "rotation": {
+      "0.0": [
+       0,
+       0,
+       0
+      ],
+      "3.0": [
+       -90,
+       -180,
+       270
+      ]
+     }
+    }
+   }
+  }
+ }
+}

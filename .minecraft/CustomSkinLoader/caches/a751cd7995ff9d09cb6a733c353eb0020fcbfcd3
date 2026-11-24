@@ -1,0 +1,9 @@
+{
+  "id" : "7ea06f7302314960bda5add6571175bd",
+  "name" : "Mojo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTI1MDg1NywKICAicHJvZmlsZUlkIiA6ICI3ZWEwNmY3MzAyMzE0OTYwYmRhNWFkZDY1NzExNzViZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNb2pvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhiMjNmNDE1NzIyYTk1YjI3NmI2ZjQ1MjgzYWVhYTcxNDJiMTJiZTI0MzgwYmE4M2Q4OWIwZGY2ZTM2YzA5N2IiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

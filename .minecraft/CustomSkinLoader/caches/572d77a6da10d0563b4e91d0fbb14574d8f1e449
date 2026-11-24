@@ -1,0 +1,9 @@
+{
+  "id" : "6761e05ce4d447a1b98ac574adfdb525",
+  "name" : "RIUMA",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjg5MTczMzMzMSwKICAicHJvZmlsZUlkIiA6ICI2NzYxZTA1Y2U0ZDQ0N2ExYjk4YWM1NzRhZGZkYjUyNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSSVVNQSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYzgzNzY4NTVmNTUxNmZiM2Y3ZDI1NmI1OGZjYzVhZjE1OGFiOGZjYWY1NTNkNGVjZGNmODVkZDAyMzIzMzk4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

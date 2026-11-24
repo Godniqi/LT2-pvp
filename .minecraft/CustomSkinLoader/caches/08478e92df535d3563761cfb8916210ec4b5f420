@@ -1,0 +1,9 @@
+{
+  "id" : "159a8d182e5d48bd98c1d1d8fdf86631",
+  "name" : "Burger",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzY5Mzk3OTk3NywKICAicHJvZmlsZUlkIiA6ICIxNTlhOGQxODJlNWQ0OGJkOThjMWQxZDhmZGY4NjYzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdXJnZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTJmZTI5MWZkMDMxYzk2ZGYwNGU3YmEzNDcxMjc3NTQ5OWI3ZGNlN2IwOWI3YjQ2Yzg3N2FiMmM1Mjc2YTc3ZiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

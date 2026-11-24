@@ -1,0 +1,9 @@
+{
+  "id" : "2ff699593419400fbe69c82ca2c9f9cb",
+  "name" : "Starclock",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjI4MzU1NzIwNSwKICAicHJvZmlsZUlkIiA6ICIyZmY2OTk1OTM0MTk0MDBmYmU2OWM4MmNhMmM5ZjljYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGFyY2xvY2siLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTJhMDk2N2UyNjhmOTVkZDA2NWU0ZDc5MTJiOWY1NmRhNTViOTM5OGU3OTQ3NWJiYzcwOTJjMDg3NGUzZTgzNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

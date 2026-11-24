@@ -1,0 +1,9 @@
+{
+  "id" : "2b3475486ac042af8923ebebd7bc010d",
+  "name" : "AppleLot",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzEwMjA5OCwKICAicHJvZmlsZUlkIiA6ICIyYjM0NzU0ODZhYzA0MmFmODkyM2ViZWJkN2JjMDEwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcHBsZUxvdCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMTY0ODBlMTY0ZGU1OTkwNjAxNmNkYjgzZDYyODAwMzE2Mzg1ODhlODhjYzQwYjI2Zjk2ZDVjOThiM2JjMGIzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

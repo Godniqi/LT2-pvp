@@ -1,0 +1,9 @@
+{
+  "id" : "5de1e5c5f0e342fb8832a88e207fb71c",
+  "name" : "Wman",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMDk4Nzc5NywKICAicHJvZmlsZUlkIiA6ICI1ZGUxZTVjNWYwZTM0MmZiODgzMmE4OGUyMDdmYjcxYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJXbWFuIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VlZTUyMjYxMTAwNWFjZjI1NmRiZDE1MmU5OTJjNjBjMGJiNzk3OGNiMGYzMTI3ODA3NzAwZTQ3OGFkOTc2NjQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,78 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.emoteSixSeven",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 5,
+				"visible_bounds_height": 4.5,
+				"visible_bounds_offset": [
+					0,
+					1.75,
+					0
+				]
+			},
+			"bones": [
+				{
+					"name": "anchor_rightleg",
+					"pivot": [
+						-1.9,
+						12,
+						0
+					]
+				},
+				{
+					"name": "anchor_leftleg",
+					"pivot": [
+						1.9,
+						12,
+						0
+					]
+				},
+				{
+					"name": "anchor_head",
+					"pivot": [
+						0,
+						24,
+						0
+					]
+				},
+				{
+					"name": "anchor_body",
+					"pivot": [
+						0,
+						24,
+						0
+					]
+				},
+				{
+					"name": "anchor_rightarm",
+					"pivot": [
+						-5,
+						22,
+						0
+					]
+				},
+				{
+					"name": "r_attachment",
+					"parent": "anchor_rightarm",
+					"pivot": [
+						0,
+						0,
+						0
+					]
+				},
+				{
+					"name": "anchor_leftarm",
+					"pivot": [
+						5,
+						22,
+						0
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "2d40615f2d1249fcbb6389f28aa15bf1",
+  "name" : "Mygood",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjI4MzU5MDE3MCwKICAicHJvZmlsZUlkIiA6ICIyZDQwNjE1ZjJkMTI0OWZjYmI2Mzg5ZjI4YWExNWJmMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNeWdvb2QiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDA2NTdhNzY3OGZjNmM4NTcwMzU5ZDkxMGM0Y2E1OTU1NjY4OTllOWQzMzVjN2QzZDEyODIxM2IyOWYxMDdhMSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

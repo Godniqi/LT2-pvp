@@ -1,0 +1,9 @@
+{
+  "id" : "126c5641149042bba6bc1dd6ba3a3663",
+  "name" : "Kirrozz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTA1NTkzMiwKICAicHJvZmlsZUlkIiA6ICIxMjZjNTY0MTE0OTA0MmJiYTZiYzFkZDZiYTNhMzY2MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLaXJyb3p6IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0ODIwNjU5ZjcyMWIzMWViODQ5MTNhMTcyMjYwMWY5NzQzMTk0ZGQ4YzczNzgwODUxMmQ5OWYwNmNiZGNlYjgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

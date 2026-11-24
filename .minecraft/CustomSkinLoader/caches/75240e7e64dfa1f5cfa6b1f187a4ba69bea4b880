@@ -1,0 +1,9 @@
+{
+  "id" : "b199915c0aec49dcaa86e45a2ce5c0fc",
+  "name" : "AREN___",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NzE1OTQzMCwKICAicHJvZmlsZUlkIiA6ICJiMTk5OTE1YzBhZWM0OWRjYWE4NmU0NWEyY2U1YzBmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBUkVOX19fIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzgzNjI4ZDgzY2E0MmU5NzgxYTE3ZGM0N2FmYzFkZWQ1NWE3MjE1YzAwOGNkNjAwYWQyMmUxNjZhN2IxMjgwNDEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

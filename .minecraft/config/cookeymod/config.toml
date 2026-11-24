@@ -1,0 +1,17 @@
+animations.enableToolBlocking = false
+animations.swingAndUseItem = true
+animations.sneakAnimationSpeed = 1.0
+animations.showEatingInThirdPerson = true
+animations.disableCameraBobbing = true
+hudRendering.disableEffectBasedFovChange = false
+hudRendering.showHandWhenInvisible = false
+hudRendering.damageColor = -472868
+hudRendering.attackCooldownHandOffset = 0.0
+hudRendering.showDamageTintOnArmor = 'armor_and_trim'
+hudRendering.alternativeBobbing = false
+hudRendering.onlyShowShieldWhenBlocking = false
+hudRendering.firstPersonHandOpacityOnInvisibility = 0.3
+misc.showModButton = true
+misc.fixCooldownDesync = true
+misc.showOwnNameInThirdPerson = false
+config-version = 3

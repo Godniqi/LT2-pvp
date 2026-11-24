@@ -1,0 +1,9 @@
+{
+  "id" : "6344f178fcbe47a89aab629ed619bf01",
+  "name" : "ToeLicker",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzgyMTY3ODQ2NiwKICAicHJvZmlsZUlkIiA6ICI2MzQ0ZjE3OGZjYmU0N2E4OWFhYjYyOWVkNjE5YmYwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUb2VMaWNrZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTg3MjdhNjcwM2Q3OTZiZDRjYWMzODI2NDdiNDIyMTkzMzIwNjFlNzc2N2FmMWFiZThiNTYyNTI0NWIyNTgzNiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "76d4da56e0aa4495b4edd454c6dc09cb",
+  "name" : "Wesleywonka",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTM1NjI5NCwKICAicHJvZmlsZUlkIiA6ICI3NmQ0ZGE1NmUwYWE0NDk1YjRlZGQ0NTRjNmRjMDljYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJXZXNsZXl3b25rYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZmEwYmUzY2MzOTg3NmU4OTZmOTVmNjkwZDY4Mjc4YzI4OWQzZDgxYmU2N2RkYjlkZGM4N2IzOWUwMTU1MjJjIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

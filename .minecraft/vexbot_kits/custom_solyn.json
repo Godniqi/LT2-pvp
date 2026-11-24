@@ -1,0 +1,696 @@
+{
+  "0": {
+    "id": "minecraft:water_bucket",
+    "count": 1
+  },
+  "1": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  },
+  "2": {
+    "id": "minecraft:stripped_pale_oak_log",
+    "count": 64
+  },
+  "3": {
+    "id": "minecraft:cobweb",
+    "count": 64
+  },
+  "4": {
+    "id": "minecraft:golden_apple",
+    "count": 64
+  },
+  "5": {
+    "id": "minecraft:wind_charge",
+    "count": 64
+  },
+  "6": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "7": {
+    "id": "minecraft:diamond_sword",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:sharpness": 5,
+        "minecraft:mending": 1,
+        "minecraft:looting": 3,
+        "minecraft:unbreaking": 3,
+        "minecraft:sweeping_edge": 3
+      },
+      "minecraft:repair_cost": 15,
+      "minecraft:custom_name": {
+        "text": "ʙʀᴏᴋᴇɴ ꜰᴀɪᴛʜ (...)",
+        "italic": true
+      }
+    }
+  },
+  "8": {
+    "id": "minecraft:diamond_axe",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:efficiency": 5,
+        "minecraft:sharpness": 5,
+        "minecraft:unbreaking": 3,
+        "minecraft:mending": 1,
+        "minecraft:silk_touch": 1
+      },
+      "minecraft:repair_cost": 7,
+      "minecraft:custom_name": {
+        "text": "ꜰᴏᴜʀᴛʜ ᴡᴀʟʟ (???)",
+        "italic": true
+      }
+    }
+  },
+  "9": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Splash Potion of Strength",
+        "color": "white",
+        "italic": false
+      },
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:strength",
+            "amplifier": 1,
+            "duration": 9600,
+            "show_icon": true
+          }
+        ]
+      }
+    }
+  },
+  "10": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_swiftness"
+      }
+    }
+  },
+  "11": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:weaving"
+      }
+    }
+  },
+  "12": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "13": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "14": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "15": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_turtle_master"
+      }
+    }
+  },
+  "16": {
+    "id": "minecraft:experience_bottle",
+    "count": 64
+  },
+  "17": {
+    "id": "minecraft:water_bucket",
+    "count": 1
+  },
+  "18": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Splash Potion of Strength",
+        "color": "white",
+        "italic": false
+      },
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:strength",
+            "amplifier": 1,
+            "duration": 9600,
+            "show_icon": true
+          }
+        ]
+      }
+    }
+  },
+  "19": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_swiftness"
+      }
+    }
+  },
+  "20": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:weaving"
+      }
+    }
+  },
+  "21": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "22": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "23": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "24": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_turtle_master"
+      }
+    }
+  },
+  "25": {
+    "id": "minecraft:experience_bottle",
+    "count": 64
+  },
+  "26": {
+    "id": "minecraft:water_bucket",
+    "count": 1
+  },
+  "27": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Splash Potion of Strength",
+        "color": "white",
+        "italic": false
+      },
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:strength",
+            "amplifier": 1,
+            "duration": 9600,
+            "show_icon": true
+          }
+        ]
+      }
+    }
+  },
+  "28": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_swiftness"
+      }
+    }
+  },
+  "29": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:weaving"
+      }
+    }
+  },
+  "30": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "31": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "32": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "33": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "34": {
+    "id": "minecraft:breeze_rod",
+    "count": 64
+  },
+  "35": {
+    "id": "minecraft:netherite_pickaxe",
+    "count": 1,
+    "components": {
+      "minecraft:custom_data": {
+        "greed": 1
+      },
+      "minecraft:enchantments": {
+        "minecraft:efficiency": 5,
+        "minecraft:silk_touch": 1
+      },
+      "minecraft:custom_name": {
+        "text": "G",
+        "extra": [
+          {
+            "text": "r",
+            "color": "#1DE600"
+          },
+          {
+            "text": "e",
+            "color": "#18CC00"
+          },
+          {
+            "text": "e",
+            "color": "#12B300"
+          },
+          {
+            "text": "d",
+            "color": "#088000"
+          }
+        ],
+        "color": "#22FF00",
+        "bold": true,
+        "italic": false
+      },
+      "minecraft:lore": [
+        "  ",
+        {
+          "text": "ꜰᴀsᴛ ʜᴀɴᴅs",
+          "color": "dark_green",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Gain Haste V while holding ",
+          "extra": [
+            {
+              "text": "G",
+              "color": "#22FF00",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "r",
+              "color": "#1DE600",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "e",
+              "color": "#18CC00",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "e",
+              "color": "#12B300",
+              "bold": true,
+              "italic": false
+            },
+            {
+              "text": "d",
+              "color": "#088000",
+              "bold": true,
+              "italic": false
+            }
+          ],
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        },
+        "  ",
+        {
+          "text": "ʟᴜᴄᴋʏ ꜰᴏʀᴛᴜɴᴇ",
+          "color": "dark_green",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "Sneak to switch to Fortune III.",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        },
+        "  ",
+        {
+          "text": "ᴅʏɴᴀᴍɪᴛᴇ",
+          "color": "dark_green",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "⛏ 20 ʙʟᴏᴄᴋs ",
+          "extra": [
+            {
+              "text": "⮕ ᴏꜰꜰʜᴀɴᴅ",
+              "color": "dark_green",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "color": "dark_gray",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Spawn TNT where you\u0027re facing.",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "(Max Range: 5 Blocks).",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "minecraft:unbreakable": {}
+    }
+  },
+  "36": {
+    "id": "minecraft:diamond_boots",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:protection": 4,
+        "minecraft:depth_strider": 3,
+        "minecraft:soul_speed": 3,
+        "minecraft:unbreaking": 3,
+        "minecraft:mending": 1,
+        "minecraft:feather_falling": 4
+      },
+      "minecraft:trim": {
+        "material": "minecraft:lapis",
+        "pattern": "minecraft:bolt"
+      },
+      "minecraft:custom_name": "🕮"
+    }
+  },
+  "37": {
+    "id": "minecraft:diamond_leggings",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:protection": 4,
+        "minecraft:unbreaking": 3,
+        "minecraft:mending": 1,
+        "minecraft:swift_sneak": 3
+      },
+      "minecraft:trim": {
+        "material": "minecraft:lapis",
+        "pattern": "minecraft:shaper"
+      },
+      "minecraft:custom_name": "🕮"
+    }
+  },
+  "38": {
+    "id": "minecraft:netherite_chestplate",
+    "count": 1,
+    "components": {
+      "minecraft:custom_data": {
+        "susanoo": 1
+      },
+      "minecraft:enchantments": {
+        "minecraft:protection": 4
+      },
+      "minecraft:trim": {
+        "material": "minecraft:redstone",
+        "pattern": "minecraft:flow"
+      },
+      "minecraft:custom_name": {
+        "text": "ᴅ",
+        "extra": [
+          {
+            "text": "ɪ",
+            "color": "#F80C0C"
+          },
+          {
+            "text": "ᴠ",
+            "color": "#F10B0B"
+          },
+          {
+            "text": "ɪ",
+            "color": "#EB0A0A"
+          },
+          {
+            "text": "ɴ",
+            "color": "#E40A0A"
+          },
+          {
+            "text": "ᴇ ",
+            "color": "#DD0909"
+          },
+          {
+            "text": "ᴀ",
+            "color": "#D60808"
+          },
+          {
+            "text": "s",
+            "color": "#CF0707"
+          },
+          {
+            "text": "s",
+            "color": "#C90606"
+          },
+          {
+            "text": "ɪ",
+            "color": "#C20505"
+          },
+          {
+            "text": "s",
+            "color": "#BB0404"
+          },
+          {
+            "text": "ᴛ",
+            "color": "#B40303"
+          },
+          {
+            "text": "ᴀ",
+            "color": "#AD0303"
+          },
+          {
+            "text": "ɴ",
+            "color": "#A70202"
+          },
+          {
+            "text": "ᴛ",
+            "color": "#990000"
+          }
+        ],
+        "color": "#FF0D0D",
+        "bold": true,
+        "italic": false
+      },
+      "minecraft:lore": [
+        "    ",
+        {
+          "text": "ᴀʀᴍᴀᴍᴇɴᴛ",
+          "color": "dark_red",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "User has a 15% chance to negate",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "incoming damage.",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        },
+        "  ",
+        {
+          "text": "ᴛᴏᴛsᴜᴋᴀ ʙʟᴀᴅᴇ",
+          "color": "dark_red",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "⏱ 1m 15s ",
+          "extra": [
+            {
+              "text": "⮕ ᴄʀᴏᴜᴄʜ",
+              "color": "dark_red",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "color": "dark_gray",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Summon a large sword that hits everything",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "around you in circular motion.",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        },
+        "  ",
+        {
+          "text": "ʏᴀᴛᴀ ᴍɪʀʀᴏʀ",
+          "color": "dark_red",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "⏱ 2m ",
+          "extra": [
+            {
+              "text": "⮕ ɢᴇᴛ ʜɪᴛ 40 ᴛɪᴍᴇs",
+              "color": "dark_red",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "color": "dark_gray",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Become invincible and take no knockback",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "for 15 seconds.",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "minecraft:unbreakable": {}
+    }
+  },
+  "39": {
+    "id": "minecraft:diamond_helmet",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:aqua_affinity": 1,
+        "minecraft:protection": 4,
+        "minecraft:unbreaking": 3,
+        "minecraft:mending": 1,
+        "minecraft:respiration": 3
+      },
+      "minecraft:trim": {
+        "material": "minecraft:lapis",
+        "pattern": "minecraft:flow"
+      },
+      "minecraft:custom_name": "🕮"
+    }
+  },
+  "40": {
+    "id": "minecraft:shield",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:mending": 1,
+        "minecraft:unbreaking": 3
+      },
+      "minecraft:banner_patterns": [
+        {
+          "pattern": "minecraft:flow",
+          "color": "blue"
+        },
+        {
+          "pattern": "minecraft:gradient",
+          "color": "black"
+        },
+        {
+          "pattern": "minecraft:gradient_up",
+          "color": "black"
+        }
+      ],
+      "minecraft:base_color": "black",
+      "minecraft:custom_name": "🕮"
+    }
+  },
+  "ender": {}
+}

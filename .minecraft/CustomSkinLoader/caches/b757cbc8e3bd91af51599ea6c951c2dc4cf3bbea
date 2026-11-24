@@ -1,0 +1,9 @@
+{
+  "id" : "30f71ec2e29e41a2b60a8c418b77ec87",
+  "name" : "Its_Sharpness",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMDY1NDkxNCwKICAicHJvZmlsZUlkIiA6ICIzMGY3MWVjMmUyOWU0MWEyYjYwYThjNDE4Yjc3ZWM4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHNfU2hhcnBuZXNzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdiYjA3MzBhOTkyYzFmMGEwZGJhYzdmYWI2ZGQ4NjgyZDU5MTNjMzRmMTA4MjI0MzhlYmUxNzdmMGRlMTUyOGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

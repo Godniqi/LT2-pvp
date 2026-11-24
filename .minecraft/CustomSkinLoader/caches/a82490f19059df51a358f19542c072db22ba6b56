@@ -1,0 +1,9 @@
+{
+  "id" : "b245639e90d3408199030628bda14d2f",
+  "name" : "blizzarded",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzI0MzExNjM5OCwKICAicHJvZmlsZUlkIiA6ICJiMjQ1NjM5ZTkwZDM0MDgxOTkwMzA2MjhiZGExNGQyZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJibGl6emFyZGVkIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNmYjM5MTJlNzdkNTAxYTVkNDM2YjhjYjg4MzQ0YTJjYzgxMTM2YzVjNWQzOTMzZDgwMDgzMDY5ZTQxNjRiOWEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

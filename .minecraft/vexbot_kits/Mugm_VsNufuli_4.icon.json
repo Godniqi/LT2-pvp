@@ -1,0 +1,17 @@
+{
+  "id": "minecraft:netherite_helmet",
+  "count": 1,
+  "components": {
+    "minecraft:enchantments": {
+      "minecraft:mending": 1,
+      "minecraft:unbreaking": 3,
+      "minecraft:aqua_affinity": 1,
+      "minecraft:respiration": 3,
+      "minecraft:protection": 4
+    },
+    "minecraft:trim": {
+      "material": "minecraft:netherite",
+      "pattern": "minecraft:flow"
+    }
+  }
+}

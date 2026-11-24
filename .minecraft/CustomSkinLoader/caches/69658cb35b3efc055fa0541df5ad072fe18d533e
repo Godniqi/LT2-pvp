@@ -1,0 +1,9 @@
+{
+  "id" : "050adf1f5e4c4c528e4aa54f31060dd9",
+  "name" : "_Tai",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTM0NzI5NzQyMywKICAicHJvZmlsZUlkIiA6ICIwNTBhZGYxZjVlNGM0YzUyOGU0YWE1NGYzMTA2MGRkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfVGFpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NiMGQwYjA4MDk2NTRjYWZhYzhmMjBmM2M5NWRkZTVhODUxNzU3NWNkMWJjMjZkNjA1ZTU3OWQxZGM4MDAxOWMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

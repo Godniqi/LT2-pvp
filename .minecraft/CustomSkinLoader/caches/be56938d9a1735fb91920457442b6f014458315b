@@ -1,0 +1,9 @@
+{
+  "id" : "a804a237eb5b44b3a5025e74804ca70d",
+  "name" : "Mlagi_2",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODMyMTU4NTcxMSwKICAicHJvZmlsZUlkIiA6ICJhODA0YTIzN2ViNWI0NGIzYTUwMjVlNzQ4MDRjYTcwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNbGFnaV8yIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc3M2M4MjNkYTg0OGQzNDliNWM0Nzk3OTg2MDQ2NGE3YjI2NDM1YWZhMjc2MDlkZjFjMDgyNTI0NzQ3MWZhMGMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

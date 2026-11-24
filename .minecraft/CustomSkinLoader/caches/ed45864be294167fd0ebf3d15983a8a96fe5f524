@@ -1,0 +1,9 @@
+{
+  "id" : "d18e90f92475435c852dad772df7f908",
+  "name" : "jinoo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NjA3NDE1MSwKICAicHJvZmlsZUlkIiA6ICJkMThlOTBmOTI0NzU0MzVjODUyZGFkNzcyZGY3ZjkwOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJqaW5vbyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yOWY2YmM4ZjExMjczNDE1NmNkNGRmYTIxZTIyZjc3Y2NhZGMwOGI3MzE0NGVhYmQxZTc5N2ExODFiYTQ3ZGFiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

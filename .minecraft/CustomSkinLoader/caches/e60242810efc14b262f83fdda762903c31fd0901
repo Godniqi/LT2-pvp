@@ -1,0 +1,9 @@
+{
+  "id" : "837ea2ba77ce432cb79d6c181f514c63",
+  "name" : "MRC_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTI2NTE3OCwKICAicHJvZmlsZUlkIiA6ICI4MzdlYTJiYTc3Y2U0MzJjYjc5ZDZjMTgxZjUxNGM2MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNUkNfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RjOWUyNWMwM2MyYjUyNzQ1ZjEzZjEyNDU2NTM5NmQ0MGQwNjBkZWUzZWIwOTRmYjJjYzhhZjFmM2ZiMmQwNDEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

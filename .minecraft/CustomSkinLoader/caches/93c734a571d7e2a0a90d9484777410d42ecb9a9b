@@ -1,0 +1,9 @@
+{
+  "id" : "2c53a8bd17d14cddba207a633739f835",
+  "name" : "AXIS_Z",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzgyMDk5ODI5MiwKICAicHJvZmlsZUlkIiA6ICIyYzUzYThiZDE3ZDE0Y2RkYmEyMDdhNjMzNzM5ZjgzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBWElTX1oiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODBmNWQ3Nzg5ZDllZTVjZTU2ZDA5ZmQyMzU4YzVmMGQ0OThjZTNkMDUwNGNkYjJmZDQxOTMzZTlmZDA4OWI1IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

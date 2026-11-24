@@ -1,0 +1,9 @@
+{
+  "id" : "69334d9f478d4b9aaf092eda62fb76c7",
+  "name" : "EasyMoneySniper",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDM5MzM5MjU5MywKICAicHJvZmlsZUlkIiA6ICI2OTMzNGQ5ZjQ3OGQ0YjlhYWYwOTJlZGE2MmZiNzZjNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFYXN5TW9uZXlTbmlwZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTFmY2Q0MWI2YTZhYzEzOGJmMjkyMDBkMmUxNWJlNjJlNjk2MGVhZjRkYTI3N2VkMWZkMGI2YTY5YzY3OTk4NSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

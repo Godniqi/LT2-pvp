@@ -1,0 +1,9 @@
+{
+  "id" : "288382efbbf64365b3457932f84ce0e5",
+  "name" : "Kapus",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNTI5NjQxNCwKICAicHJvZmlsZUlkIiA6ICIyODgzODJlZmJiZjY0MzY1YjM0NTc5MzJmODRjZTBlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJLYXB1cyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMTY5NjI2YWRhMDhlYTI0ZTIxNWE5MmNjZDc3ZmVmODU5ZTliMDAxMDkyMTlmZjhhYjBiMzI1YzQ5MDVjZTg4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

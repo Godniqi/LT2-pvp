@@ -1,0 +1,9 @@
+{
+  "id" : "13960da28416413689cbfc74615813a0",
+  "name" : "AriseX2",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTMyMDc1NiwKICAicHJvZmlsZUlkIiA6ICIxMzk2MGRhMjg0MTY0MTM2ODljYmZjNzQ2MTU4MTNhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmlzZVgyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QzM2Q0NWM5OTVhNTkwMjgxNDAzM2U2NTEzYzgyYWFkM2Y5MjYxZDQwNGY4NzMzYTQ2ZGJiMDQ3YTgwNzYzYTUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

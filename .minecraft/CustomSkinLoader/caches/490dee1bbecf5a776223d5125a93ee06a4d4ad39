@@ -1,0 +1,9 @@
+{
+  "id" : "e8215fac097445ec99789023ae6f1932",
+  "name" : "AdamV",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDY0NjkwMzI3MywKICAicHJvZmlsZUlkIiA6ICJlODIxNWZhYzA5NzQ0NWVjOTk3ODkwMjNhZTZmMTkzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBZGFtViIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYjJlOTIzZjNiNDg0YzllOGI4YzY0YTAxMGRmYzhkNjU3YjgyMThjMDdlNjM4ZjY5ZmIxN2U5Yjg4ZmIzNmIyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

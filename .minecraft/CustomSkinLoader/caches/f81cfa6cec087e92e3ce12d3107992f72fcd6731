@@ -1,0 +1,9 @@
+{
+  "id" : "b2f0b0f28abe4c06873670ec07c35502",
+  "name" : "SenZEarthshaker",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzYwMTE3NjY5OSwKICAicHJvZmlsZUlkIiA6ICJiMmYwYjBmMjhhYmU0YzA2ODczNjcwZWMwN2MzNTUwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZW5aRWFydGhzaGFrZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjZmODhjNWMwOTQyYzk2ZGYxNjcwOTZlODNmOThmZTNhZGM1OTE5YTAzNDJmZmQwOGQzMTUyYjQ3MTlmNGQ2NyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

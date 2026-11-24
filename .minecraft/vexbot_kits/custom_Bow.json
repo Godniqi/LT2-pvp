@@ -1,0 +1,482 @@
+{
+  "0": {
+    "id": "minecraft:water_bucket",
+    "count": 1
+  },
+  "1": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  },
+  "2": {
+    "id": "minecraft:bow",
+    "count": 1,
+    "components": {
+      "minecraft:custom_data": {
+        "sheikah": 1
+      },
+      "minecraft:enchantments": {
+        "minecraft:power": 5,
+        "minecraft:multishot": 1,
+        "minecraft:infinity": 1
+      },
+      "minecraft:custom_name": {
+        "text": "s",
+        "extra": [
+          {
+            "text": "ʜ",
+            "color": "#D63636"
+          },
+          {
+            "text": "ᴇ",
+            "color": "#CE3434"
+          },
+          {
+            "text": "ɪ",
+            "color": "#C63232"
+          },
+          {
+            "text": "ᴋ",
+            "color": "#BD3030"
+          },
+          {
+            "text": "ᴀ",
+            "color": "#B52E2E"
+          },
+          {
+            "text": "ʜ",
+            "color": "#A52A2A"
+          }
+        ],
+        "color": "#DE3838",
+        "bold": true,
+        "italic": false
+      },
+      "minecraft:lore": [
+        "  ",
+        {
+          "text": "ᴠᴇɴᴏᴍ ᴀʀʀᴏᴡ",
+          "color": "#A52A2A",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "⏱ 1m 30s ",
+          "extra": [
+            {
+              "text": "⮕ ᴏꜰꜰʜᴀɴᴅ",
+              "color": "#A52A2A",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "color": "dark_gray",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Next shot will inflict Poison and Nausea",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        },
+        "  ",
+        {
+          "text": "ᴏᴠᴇʀɢʀᴏᴡɴ",
+          "color": "#A52A2A",
+          "bold": true,
+          "italic": false
+        },
+        {
+          "text": "⏱ 2m ",
+          "extra": [
+            {
+              "text": "⮕ 20 ʜɪᴛs",
+              "color": "#A52A2A",
+              "bold": false,
+              "italic": false
+            }
+          ],
+          "color": "dark_gray",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "Summon vines from the ground. Nearby enemies",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        },
+        {
+          "text": "are frozen and take damage (Radius: 10).",
+          "color": "gray",
+          "bold": false,
+          "italic": false
+        }
+      ],
+      "minecraft:unbreakable": {}
+    }
+  },
+  "3": {
+    "id": "minecraft:cobweb",
+    "count": 64
+  },
+  "4": {
+    "id": "minecraft:golden_apple",
+    "count": 64
+  },
+  "5": {
+    "id": "minecraft:wind_charge",
+    "count": 64
+  },
+  "6": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "7": {
+    "id": "minecraft:diamond_sword",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:sharpness": 5,
+        "minecraft:mending": 1,
+        "minecraft:looting": 3,
+        "minecraft:unbreaking": 3,
+        "minecraft:sweeping_edge": 3
+      },
+      "minecraft:repair_cost": 15
+    }
+  },
+  "8": {
+    "id": "minecraft:diamond_axe",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:efficiency": 5,
+        "minecraft:sharpness": 5,
+        "minecraft:unbreaking": 3,
+        "minecraft:mending": 1,
+        "minecraft:silk_touch": 1
+      },
+      "minecraft:repair_cost": 7
+    }
+  },
+  "9": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Splash Potion of Strength",
+        "color": "white",
+        "italic": false
+      },
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:strength",
+            "amplifier": 1,
+            "duration": 9600,
+            "show_icon": true
+          }
+        ]
+      }
+    }
+  },
+  "10": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_swiftness"
+      }
+    }
+  },
+  "11": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:weaving"
+      }
+    }
+  },
+  "12": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "13": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "14": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "15": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_turtle_master"
+      }
+    }
+  },
+  "16": {
+    "id": "minecraft:experience_bottle",
+    "count": 64
+  },
+  "17": {
+    "id": "minecraft:water_bucket",
+    "count": 1
+  },
+  "18": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Splash Potion of Strength",
+        "color": "white",
+        "italic": false
+      },
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:strength",
+            "amplifier": 1,
+            "duration": 9600,
+            "show_icon": true
+          }
+        ]
+      }
+    }
+  },
+  "19": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_swiftness"
+      }
+    }
+  },
+  "20": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:weaving"
+      }
+    }
+  },
+  "21": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "22": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "23": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "24": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_turtle_master"
+      }
+    }
+  },
+  "25": {
+    "id": "minecraft:experience_bottle",
+    "count": 64
+  },
+  "26": {
+    "id": "minecraft:water_bucket",
+    "count": 1
+  },
+  "27": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:custom_name": {
+        "text": "Splash Potion of Strength",
+        "color": "white",
+        "italic": false
+      },
+      "minecraft:potion_contents": {
+        "custom_effects": [
+          {
+            "id": "minecraft:strength",
+            "amplifier": 1,
+            "duration": 9600,
+            "show_icon": true
+          }
+        ]
+      }
+    }
+  },
+  "28": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_swiftness"
+      }
+    }
+  },
+  "29": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:weaving"
+      }
+    }
+  },
+  "30": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "31": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "32": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_healing"
+      }
+    }
+  },
+  "33": {
+    "id": "minecraft:arrow",
+    "count": 64
+  },
+  "34": {
+    "id": "minecraft:breeze_rod",
+    "count": 64
+  },
+  "35": {
+    "id": "minecraft:diamond_pickaxe",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:efficiency": 5,
+        "minecraft:unbreaking": 3,
+        "minecraft:mending": 1,
+        "minecraft:silk_touch": 1
+      },
+      "minecraft:repair_cost": 3
+    }
+  },
+  "36": {
+    "id": "minecraft:diamond_boots",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:protection": 4,
+        "minecraft:depth_strider": 3,
+        "minecraft:soul_speed": 3,
+        "minecraft:unbreaking": 3,
+        "minecraft:mending": 1,
+        "minecraft:feather_falling": 4
+      }
+    }
+  },
+  "37": {
+    "id": "minecraft:diamond_leggings",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:protection": 4,
+        "minecraft:unbreaking": 3,
+        "minecraft:mending": 1,
+        "minecraft:swift_sneak": 3
+      }
+    }
+  },
+  "38": {
+    "id": "minecraft:diamond_chestplate",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:mending": 1,
+        "minecraft:protection": 4,
+        "minecraft:unbreaking": 3
+      }
+    }
+  },
+  "39": {
+    "id": "minecraft:diamond_helmet",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:aqua_affinity": 1,
+        "minecraft:protection": 4,
+        "minecraft:unbreaking": 3,
+        "minecraft:mending": 1,
+        "minecraft:respiration": 3
+      }
+    }
+  },
+  "40": {
+    "id": "minecraft:shield",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:mending": 1,
+        "minecraft:unbreaking": 3
+      }
+    }
+  },
+  "ender": {}
+}

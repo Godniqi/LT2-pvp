@@ -1,0 +1,9 @@
+{
+  "id" : "b6a66aef4ffb4e22a3a1d5bebdf3d5aa",
+  "name" : "Emperor_MC",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTc4MDYzOCwKICAicHJvZmlsZUlkIiA6ICJiNmE2NmFlZjRmZmI0ZTIyYTNhMWQ1YmViZGYzZDVhYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbXBlcm9yX01DIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMzZjc0NWMwZGI3ZjE1YzA4OGNiZTBlYTgwY2RlYzZhMTA1ZGJjNTc3MjRjZDkxYzE5YTlhY2RkMWZkMzM1NTkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

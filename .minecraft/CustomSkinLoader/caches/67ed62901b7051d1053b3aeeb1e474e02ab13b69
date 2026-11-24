@@ -1,0 +1,9 @@
+{
+  "id" : "566fbe751799459f88b6e137b5c23cb0",
+  "name" : "Yot3",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODU4Nzk5NDMwNCwKICAicHJvZmlsZUlkIiA6ICI1NjZmYmU3NTE3OTk0NTlmODhiNmUxMzdiNWMyM2NiMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZb3QzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2MGExNGFjODgzNGEzYzdlZDlkNDE3YzdmYWUyZGI4ZTUzNzA5NDIwYjk5YTY2MDIyYzNjZDZiZjcyNDhjNDEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

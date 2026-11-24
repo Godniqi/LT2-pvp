@@ -1,0 +1,9 @@
+{
+  "id" : "7e7f6dbcd830476a91fe16888d37c987",
+  "name" : "Wrath",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzY4OTYxMzY1MSwKICAicHJvZmlsZUlkIiA6ICI3ZTdmNmRiY2Q4MzA0NzZhOTFmZTE2ODg4ZDM3Yzk4NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJXcmF0aCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZjM5NzYwM2I5NzBlMGI4ZGI3MDI4YTE4MjdkZTFmMzRiYTc5NDMyMzBlYTU1OWI0YzIwZDc4YWUzNWNlOTk0IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

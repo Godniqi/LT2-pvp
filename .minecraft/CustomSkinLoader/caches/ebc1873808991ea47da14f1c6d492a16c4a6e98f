@@ -1,0 +1,9 @@
+{
+  "id" : "9eec2157c0cb484698c2fd1a7cd2b88f",
+  "name" : "ClownPierce",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxMTAzMzc2MCwKICAicHJvZmlsZUlkIiA6ICI5ZWVjMjE1N2MwY2I0ODQ2OThjMmZkMWE3Y2QyYjg4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbG93blBpZXJjZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YWYwNmY3NjBlZGQzNzAzMTliZWZmNWIzNGYyMWE2Y2QzYzdjY2JmZDY2ZTdkOTZmNjhiMTlmOGE4NDg1MTgyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

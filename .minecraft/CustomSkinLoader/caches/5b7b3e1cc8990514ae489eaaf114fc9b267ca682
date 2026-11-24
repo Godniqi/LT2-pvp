@@ -1,0 +1,9 @@
+{
+  "id" : "0db3f03f89d140b7945d56786e5161c4",
+  "name" : "Noctveil",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNzI0MjM4NSwKICAicHJvZmlsZUlkIiA6ICIwZGIzZjAzZjg5ZDE0MGI3OTQ1ZDU2Nzg2ZTUxNjFjNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb2N0dmVpbCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iM2UxZmRlNDBhOWIxNDIxZWY4M2U3ZGUyNDY0OWJlYjI0OWY0N2JlZDMxYmY1MmEwOWVlNzY1ZDU4Njg0N2I5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

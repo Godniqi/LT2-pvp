@@ -1,0 +1,9 @@
+{
+  "id" : "f2da38a26eb649fba4fed5920da9d75c",
+  "name" : "CrimsonHollow",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjQ2MzU0NSwKICAicHJvZmlsZUlkIiA6ICJmMmRhMzhhMjZlYjY0OWZiYTRmZWQ1OTIwZGE5ZDc1YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcmltc29uSG9sbG93IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg3NjZlN2Q4ZTdlZDNlMDg3ZTViYTEyNTYzMzQwMDk4MDk1NzNjYTQ5OGI0ZWRmMGMwNzY2OGJhOTdhMmM4ZWIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

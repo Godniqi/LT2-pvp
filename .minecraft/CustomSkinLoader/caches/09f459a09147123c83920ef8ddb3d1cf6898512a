@@ -1,0 +1,9 @@
+{
+  "id" : "01c49a76628642f696e0fb898f39e675",
+  "name" : "Wemmbufann",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMwODY0MTc3MiwKICAicHJvZmlsZUlkIiA6ICIwMWM0OWE3NjYyODY0MmY2OTZlMGZiODk4ZjM5ZTY3NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXZW1tYnVmYW5uIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzIzMTY5Yzc5ZWIwYzdjYWE1YzMxNWE1ODYzZmUwODU3YThkZTNhYzBjZmI2YzBkMzJhZjAwZGY0ZDQxODA2NzAiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

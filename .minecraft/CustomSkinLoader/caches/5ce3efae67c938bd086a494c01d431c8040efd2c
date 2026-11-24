@@ -1,0 +1,9 @@
+{
+  "id" : "be13322648694c42ad50a218d52a9ec4",
+  "name" : "Knightlegend",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjk5OTk3NjU1MCwKICAicHJvZmlsZUlkIiA6ICJiZTEzMzIyNjQ4Njk0YzQyYWQ1MGEyMThkNTJhOWVjNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJLbmlnaHRsZWdlbmQiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjNiOTBlMzA4ZjZlMTRhMzViZTIzMmI4MTNmZjkwOThkMzI0NGE0YjdhMzkxOWMwNzVhNWE0NGY0N2M1YTRlMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

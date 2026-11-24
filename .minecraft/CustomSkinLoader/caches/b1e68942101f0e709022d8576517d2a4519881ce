@@ -1,0 +1,9 @@
+{
+  "id" : "fb05ad44a803435b89ce277854471102",
+  "name" : "_Aerith",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk3MDQ5OTMwOCwKICAicHJvZmlsZUlkIiA6ICJmYjA1YWQ0NGE4MDM0MzViODljZTI3Nzg1NDQ3MTEwMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfQWVyaXRoIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRhMDQyNzdjNmE3NmY3Y2QzODFhMDM1NGU3NDBjMjJhMDkzZTMxNzcxZGI3YzU3OGUyYzQzOWRiNjJjZDg5MTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

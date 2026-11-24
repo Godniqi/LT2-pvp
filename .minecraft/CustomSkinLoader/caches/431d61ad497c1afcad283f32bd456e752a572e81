@@ -1,0 +1,9 @@
+{
+  "id" : "fd4b3eb316ac42a38781e6bd51431521",
+  "name" : "HoHoii",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDM5MzQxMTEyMCwKICAicHJvZmlsZUlkIiA6ICJmZDRiM2ViMzE2YWM0MmEzODc4MWU2YmQ1MTQzMTUyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJIb0hvaWkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2I2MGExZjZkNTYyZjUyYWFlYmJmMTQzNGYxZGUxNDc5MzNhM2FmZmUwZTc2NGZhNDllYTA1NzUzNjYyM2NkMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

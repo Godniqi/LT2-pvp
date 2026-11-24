@@ -1,0 +1,9 @@
+{
+  "id" : "897feda1fe5046bc83e484fb5c80f472",
+  "name" : "Potion",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTQyNDc0ODMyOCwKICAicHJvZmlsZUlkIiA6ICI4OTdmZWRhMWZlNTA0NmJjODNlNDg0ZmI1YzgwZjQ3MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQb3Rpb24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTkzYTJmYzE4MzdmY2RmMzg1YTk1NmU4M2YwMDFlZTFiNDdhMWI1MGI5Yzk1ODljMWY3MmExNTYyMzM4Y2Y5NSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

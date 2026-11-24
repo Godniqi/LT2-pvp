@@ -1,0 +1,9 @@
+{
+  "id" : "e0a56df2998b4b9a978c9608829c2c8a",
+  "name" : "HighSwordDamage_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MTk3MjI0NSwKICAicHJvZmlsZUlkIiA6ICJlMGE1NmRmMjk5OGI0YjlhOTc4Yzk2MDg4MjljMmM4YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJIaWdoU3dvcmREYW1hZ2VfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc3YWI3ZGFhMWEyZDA3NTZmM2RiYmZiYmQ0MGMwNDJkMWQ2YTdjNDVhOTc0OGU2ZmJmYzE3OTVmMmY0ZDI2ZSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

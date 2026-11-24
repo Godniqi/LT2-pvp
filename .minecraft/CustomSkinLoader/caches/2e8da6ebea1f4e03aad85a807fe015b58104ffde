@@ -1,0 +1,9 @@
+{
+  "id" : "fce89b37b7974ba8aa74da2a8ba3c0b6",
+  "name" : "Freshwater",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTExNzQxMSwKICAicHJvZmlsZUlkIiA6ICJmY2U4OWIzN2I3OTc0YmE4YWE3NGRhMmE4YmEzYzBiNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmVzaHdhdGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJmNjU5NDZmZTNhYjZkMjk1MTI2ZjBhMTBjNjQ3YzljYjU1M2I5MTFlMjVhZjVlZjNlNDczZWIxMTQwZDIyZGUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

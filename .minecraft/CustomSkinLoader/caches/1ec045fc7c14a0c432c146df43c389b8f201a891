@@ -1,0 +1,9 @@
+{
+  "id" : "d8cec42b2f85481dbd9bfa869b8d9d53",
+  "name" : "y2kChass",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTQxNDYwMywKICAicHJvZmlsZUlkIiA6ICJkOGNlYzQyYjJmODU0ODFkYmQ5YmZhODY5YjhkOWQ1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5MmtDaGFzcyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMDNiZjUwZTgzMTU0MGQ0MWVhM2I1Njg1NGUwMzBiYTkzMTg4NjdlODVjMmMwMmU2MjM0MDk5ZDFhOWFjNzkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "b8ad9329162d4309ac5a2d1745a74eae",
+  "name" : "Aura_Warrior",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMTYzNTA5MCwKICAicHJvZmlsZUlkIiA6ICJiOGFkOTMyOTE2MmQ0MzA5YWM1YTJkMTc0NWE3NGVhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBdXJhX1dhcnJpb3IiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmNlM2E5NTNlZDg2ZWNjMmEzZmQyOGRlYzQ2NjExNmU3ZjNhN2JhZGMxNTM3MjI2MGE4ZWFhN2RkZTQ4YTdiMCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

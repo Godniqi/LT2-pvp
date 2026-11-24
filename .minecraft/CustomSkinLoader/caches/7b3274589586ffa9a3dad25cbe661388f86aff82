@@ -1,0 +1,9 @@
+{
+  "id" : "ee46cd1a1f1c44a48700c0683cf21ce3",
+  "name" : "Mezunah",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDkwNTc4MDY3OSwKICAicHJvZmlsZUlkIiA6ICJlZTQ2Y2QxYTFmMWM0NGE0ODcwMGMwNjgzY2YyMWNlMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZXp1bmFoIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3MDFlNGViYzY1NmRmMTc5MDE3ODBmZDBmMmQ2MmVhYzU3YmU1ZmY2NWExOWJjYzA5Y2RiZjJkMjlhOGE2NzYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

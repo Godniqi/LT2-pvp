@@ -1,0 +1,9 @@
+{
+  "id" : "633ebaa851c04520858427d89136b795",
+  "name" : "ItzDiamond_Playz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTYzMjczMywKICAicHJvZmlsZUlkIiA6ICI2MzNlYmFhODUxYzA0NTIwODU4NDI3ZDg5MTM2Yjc5NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHpEaWFtb25kX1BsYXl6IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlkNTU3YzZlMDgwM2NlMzZjNTY3Y2EzZjJiZDE2YzkxNTU1MGZlNmZkMWQ5ODA2MGEyMjgwY2U0YjI2OGJiMDIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

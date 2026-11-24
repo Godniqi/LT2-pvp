@@ -1,0 +1,9 @@
+{
+  "id" : "237dc0ad4b374a0fb5300958c782e1a0",
+  "name" : "spirit91",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTAyNDk0MSwKICAicHJvZmlsZUlkIiA6ICIyMzdkYzBhZDRiMzc0YTBmYjUzMDA5NThjNzgyZTFhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzcGlyaXQ5MSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NTljM2RkNjg4NjA0NmZhNjZjM2Q0M2UwODNhYmY5NDJiMTRmZWEzMzNkZTJlYTg5MDI3NzQzNmM4YTAwNzFhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

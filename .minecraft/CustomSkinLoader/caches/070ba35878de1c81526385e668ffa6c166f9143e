@@ -1,0 +1,9 @@
+{
+  "id" : "83e31b7725504b6c87572ccaccdc94d7",
+  "name" : "letri",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODgyMDkzMDc3NywKICAicHJvZmlsZUlkIiA6ICI4M2UzMWI3NzI1NTA0YjZjODc1NzJjY2FjY2RjOTRkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJsZXRyaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YTYyYTIyNDZmOTEyOTIyN2UyZDBmNjRhMjNjMzk2ZjZmYTZkYWYzNTI1NTViZjM1MDZhYjQ5NzdjNGE4NWEwIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "bc15ad0903b9487d939179e969b3ce79",
+  "name" : "PutuAgus",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjgxNjk4OCwKICAicHJvZmlsZUlkIiA6ICJiYzE1YWQwOTAzYjk0ODdkOTM5MTc5ZTk2OWIzY2U3OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdXR1QWd1cyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZWU1MjI2MTEwMDVhY2YyNTZkYmQxNTJlOTkyYzYwYzBiYjc5NzhjYjBmMzEyNzgwNzcwMGU0NzhhZDk3NjY0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

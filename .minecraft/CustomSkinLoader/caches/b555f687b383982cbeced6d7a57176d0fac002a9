@@ -1,0 +1,9 @@
+{
+  "id" : "e74e1518ef4948f09b4595c6fdf3cd36",
+  "name" : "zHisoka",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4Mjc2Njg0MCwKICAicHJvZmlsZUlkIiA6ICJlNzRlMTUxOGVmNDk0OGYwOWI0NTk1YzZmZGYzY2QzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6SGlzb2thIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhlYTQ1ZDFiNGNlMDY5YzU0NWU1ODAwMWFkYzY1NTU2ZjU3NDUwOGRiZDBmMDkyZGRiZDY0ZjE4Mjk4MTczMzMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

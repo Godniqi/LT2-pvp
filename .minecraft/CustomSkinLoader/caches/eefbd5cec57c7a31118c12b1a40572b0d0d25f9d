@@ -1,0 +1,9 @@
+{
+  "id" : "2a99d55d58e146f2a6514af3c2b004ca",
+  "name" : "SilentWarrior",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMTM4NzM1OSwKICAicHJvZmlsZUlkIiA6ICIyYTk5ZDU1ZDU4ZTE0NmYyYTY1MTRhZjNjMmIwMDRjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaWxlbnRXYXJyaW9yIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FhYmEwNjc0ZTc3NWU5ODA4NWZhZDkwNTA1YTY5ZTVlY2U3NTVjNzg5NjU5MTJhNGY2NzlmM2NhZDFiNTlkOTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

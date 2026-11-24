@@ -1,0 +1,9 @@
+{
+  "id" : "460a3152dd384e39bf1c280bac50479b",
+  "name" : "Cadmium",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzQyNTgyMzkwOSwKICAicHJvZmlsZUlkIiA6ICI0NjBhMzE1MmRkMzg0ZTM5YmYxYzI4MGJhYzUwNDc5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYWRtaXVtIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FhNmRkNjUxODBiMTRlM2VmYjQyZDQ4N2NjOTA5YjYyNWJjMGRlMzYwOGI5YjhlNTZhOThmOGMwYjY5MDE1MTQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

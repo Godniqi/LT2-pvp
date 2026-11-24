@@ -1,0 +1,9 @@
+{
+  "id" : "5f72e60e9f9d4812bc70bf5c7e5de246",
+  "name" : "Bruti",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjg5MjI0NDU0NiwKICAicHJvZmlsZUlkIiA6ICI1ZjcyZTYwZTlmOWQ0ODEyYmM3MGJmNWM3ZTVkZTI0NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcnV0aSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYTRhZjcxODQ1NWQ0YWFiNTI4ZTdhNjFmODZmYTI1ZTZhMzY5ZDE3NjhkY2IxM2Y3ZGYzMTlhNzEzZWI4MTBiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

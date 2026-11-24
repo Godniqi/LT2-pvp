@@ -1,0 +1,9 @@
+{
+  "id" : "f9685de1c771437ab7f2964104a67672",
+  "name" : "Pawaya",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ4MjI4NTkyOCwKICAicHJvZmlsZUlkIiA6ICJmOTY4NWRlMWM3NzE0MzdhYjdmMjk2NDEwNGE2NzY3MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQYXdheWEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGQ4MmExM2YyZDY5ZTU1ZTZlYjRjOWQxOWQzYzAyNjA0YzdiOGExMGY2NmRjOGIwOTQ2ZDRiN2JkOTczMTI1MSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

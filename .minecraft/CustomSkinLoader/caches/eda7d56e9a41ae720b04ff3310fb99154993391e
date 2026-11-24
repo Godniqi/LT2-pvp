@@ -1,0 +1,9 @@
+{
+  "id" : "07e68207fcdd4e0482638ce97f8cbfa4",
+  "name" : "Highlex",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDM5MDExNjkxMiwKICAicHJvZmlsZUlkIiA6ICIwN2U2ODIwN2ZjZGQ0ZTA0ODI2MzhjZTk3ZjhjYmZhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIaWdobGV4IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MwZjQ3OGRiYTgwODVlY2FhYmRmYmFhMWRmYjdmN2I1MDBiZjRhYzlhMmNiZWVjMzUwYWM3YWIwYzE3MDM2OGMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "79c512ab237f471d8f17c40d64934c6f",
+  "name" : "Sakmadih",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzE2OTc4OSwKICAicHJvZmlsZUlkIiA6ICI3OWM1MTJhYjIzN2Y0NzFkOGYxN2M0MGQ2NDkzNGM2ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYWttYWRpaCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMWY2NGRiYmRjZDUxZTFiNTU0MzlkMjI2ZGY1NmMyNjBiZmFjNzI5ZThjNzVmNzdhYTQ0NDEyMWZkZmI3YmFjIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

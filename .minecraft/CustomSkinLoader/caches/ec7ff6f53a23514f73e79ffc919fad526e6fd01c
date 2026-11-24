@@ -1,0 +1,9 @@
+{
+  "id" : "117467876ee24bfb908ea2ee0b353983",
+  "name" : "Shibor",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODc1MTkwNTY4MCwKICAicHJvZmlsZUlkIiA6ICIxMTc0Njc4NzZlZTI0YmZiOTA4ZWEyZWUwYjM1Mzk4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaGlib3IiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2E3NGQ2YTU3NTNmNzEzMmQ1MzljOGI0ZmQ0MDdkOGFjYThmNDZhYjE4YTJmMDdlMmQzZDYzNmU2ZGE4NWEwZSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

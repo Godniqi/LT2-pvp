@@ -1,0 +1,9 @@
+{
+  "id" : "553a96d0d3254c61b2bd5ffa5e8cbe29",
+  "name" : "Sembi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ5Nzc0MjYxNiwKICAicHJvZmlsZUlkIiA6ICI1NTNhOTZkMGQzMjU0YzYxYjJiZDVmZmE1ZThjYmUyOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZW1iaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNWM0ZWU1Y2UyMGFlZDllMzNlODY2YzY2Y2FhMzcxNzg2MDYyMzRiMzcyMTA4NGJmMDFkMTMzMjBmYjJlYjNmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

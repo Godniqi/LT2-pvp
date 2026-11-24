@@ -1,0 +1,9 @@
+{
+  "id" : "71d1e296d3524b4ebe1d7cf48a5b4ffd",
+  "name" : "Puki_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzI2NzQxNjM3OSwKICAicHJvZmlsZUlkIiA6ICI3MWQxZTI5NmQzNTI0YjRlYmUxZDdjZjQ4YTViNGZmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQdWtpXyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jYjkxZDhkYTQ0OTQ2NTJlZjM3MWQwMjU2NGM4MDZhNWVmZGM3YjAxNzRhMDY3YTBjYjhkZWU1MDRhYWMwZWNjIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

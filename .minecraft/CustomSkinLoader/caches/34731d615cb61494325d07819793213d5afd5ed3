@@ -1,0 +1,9 @@
+{
+  "id" : "095981accdd94c98bbf60037e69de43a",
+  "name" : "CheezWiz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTM0MDExMjIyNywKICAicHJvZmlsZUlkIiA6ICIwOTU5ODFhY2NkZDk0Yzk4YmJmNjAwMzdlNjlkZTQzYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaGVleldpeiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81Y2JkZDJmZDBhYzY4ZWYwNjJmZDgyMjFkNmZlYzYzNDc5MjYyMDRlMzU5MGFkNjQ4NTdiZjM5M2U4MmJhOTAyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

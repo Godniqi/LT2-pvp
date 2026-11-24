@@ -1,0 +1,9 @@
+{
+  "id" : "937974909a564141b8eedde368d2f9e9",
+  "name" : "Steelion",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzQyNTU3NTQ4MywKICAicHJvZmlsZUlkIiA6ICI5Mzc5NzQ5MDlhNTY0MTQxYjhlZWRkZTM2OGQyZjllOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGVlbGlvbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMmZjNTIwNWVlOTA3MDg1NmMwODg2ODdlMjQzZjEzYjI4YWI1NGNiNzY1OWNhZGRjYzViZjYwYTYwNGZlMTI2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "e10438e4797b49718cfecec6a8fa171b",
+  "name" : "Nether",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODMyMTA0Mzg2NywKICAicHJvZmlsZUlkIiA6ICJlMTA0MzhlNDc5N2I0OTcxOGNmZWNlYzZhOGZhMTcxYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOZXRoZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTA4MTcxYTlmMTY3ODUxNWU5YmEwMTBkNTZjZTdjMTVjMmUxYzI3YjgzZDhiY2U3NTBiYTUxZmM4ZTU3NjhmNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

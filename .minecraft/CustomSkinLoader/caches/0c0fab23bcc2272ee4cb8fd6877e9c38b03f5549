@@ -1,0 +1,9 @@
+{
+  "id" : "20b4ec0c10274ced9d3507c028bcfb2c",
+  "name" : "akkk",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NzIxMjgzMiwKICAicHJvZmlsZUlkIiA6ICIyMGI0ZWMwYzEwMjc0Y2VkOWQzNTA3YzAyOGJjZmIyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJha2trIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk5ZTAwNjVmZWVkZTkyMjA5ZGRlYzY1ZjFhZWI5NGZkZGUwZmFlNmIzNDAwMWVmMDdjZGJjYzliYWZmNWQwMDUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

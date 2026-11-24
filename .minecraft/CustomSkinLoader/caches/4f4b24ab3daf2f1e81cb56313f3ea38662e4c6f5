@@ -1,0 +1,9 @@
+{
+  "id" : "59a6d504828747068c2c6d0a4b058321",
+  "name" : "judebelligol_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzYwMTg1MzEyMCwKICAicHJvZmlsZUlkIiA6ICI1OWE2ZDUwNDgyODc0NzA2OGMyYzZkMGE0YjA1ODMyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJqdWRlYmVsbGlnb2xfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y0M2JmYTY1OWU3NjBkMWRiMmI2Y2RjYTJmMmRjMjg5ZjQ4MjJjMDRiNWI1NGQxNDAyNmNmYzZjMjBkZWIyZGUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

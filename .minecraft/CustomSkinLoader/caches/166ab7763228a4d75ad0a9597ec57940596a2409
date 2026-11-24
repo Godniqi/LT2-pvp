@@ -1,0 +1,9 @@
+{
+  "id" : "27b45e14d0444af0bf76c154b9acb1ea",
+  "name" : "EARTH404",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzE1NzI0OSwKICAicHJvZmlsZUlkIiA6ICIyN2I0NWUxNGQwNDQ0YWYwYmY3NmMxNTRiOWFjYjFlYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFQVJUSDQwNCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNWNkYzMyNDNiMjE1M2FiMjhhMTU5ODYxYmU2NDNhNGZjMWUzYzE3ZDI5MWNkZDNlNTdhN2YzNzBhZDY3NmYzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

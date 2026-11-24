@@ -1,0 +1,9 @@
+{
+  "id" : "7ffc1eccae514d86abe4764a234b0b3b",
+  "name" : "Samuel04",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMDYxMDMwOCwKICAicHJvZmlsZUlkIiA6ICI3ZmZjMWVjY2FlNTE0ZDg2YWJlNDc2NGEyMzRiMGIzYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTYW11ZWwwNCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NmRiOTJmZjQ2YjQyNDkxZTA1ZDJmMzc4ZTc3OTJiNjI0Zjk3ZmI4YjcyZjI5YWM0ZTA0N2YwMzRjYzQ0MTk1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "3a4e7ef7c87e411993696c8cc90594b1",
+  "name" : "Pyralax",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NjIyNTk5NywKICAicHJvZmlsZUlkIiA6ICIzYTRlN2VmN2M4N2U0MTE5OTM2OTZjOGNjOTA1OTRiMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQeXJhbGF4IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JmY2RmNzZlOWJmOGE3MzVlY2MyZWQxNzA3YWQ2ZDZmMWI5ZDM1MzI4MmNlNzZlYThlMzZlMmMxYzRmYmFlNTUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

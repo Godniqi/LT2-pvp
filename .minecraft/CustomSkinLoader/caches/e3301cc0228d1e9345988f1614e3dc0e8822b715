@@ -1,0 +1,9 @@
+{
+  "id" : "535d81d2ec1348338662ad3bd134dad4",
+  "name" : "iFexon",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTE0NjY1MSwKICAicHJvZmlsZUlkIiA6ICI1MzVkODFkMmVjMTM0ODMzODY2MmFkM2JkMTM0ZGFkNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJpRmV4b24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTYzNDM4OTUzYTc4MmRhNzY5NDgwYjBhNDkxMjVhOTJlMjU5MjA3NzAwY2I4ZTNlMWFhYzM4ZTQ3MWUyMDMwOCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

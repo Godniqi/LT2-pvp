@@ -1,0 +1,122 @@
+{
+  "FPS": {
+    "x": 5.5,
+    "y": 23.5,
+    "scale": 1.0
+  },
+  "CPS Counter": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Keystrokes": {
+    "x": 53.5,
+    "y": 222.0,
+    "scale": 1.0
+  },
+  "Coordinates": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Direction HUD": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Armor Status": {
+    "x": 334.5,
+    "y": 454.0,
+    "scale": 1.0
+  },
+  "Potion Effects": {
+    "x": 811.5,
+    "y": 70.5,
+    "scale": 1.0
+  },
+  "Clock": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Potion Counter": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Saturation": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Cooldowns": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Combo Counter": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Reach Display": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "PvP Info": {
+    "x": 73.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Totem Counter": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Stopwatch": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Playtime": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Ping": {
+    "x": 5.5,
+    "y": 38.5,
+    "scale": 1.0
+  },
+  "Day Counter": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Item Tracker": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Server Address": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Memory Usage": {
+    "x": 0.0,
+    "y": 512.0,
+    "scale": 1.0
+  },
+  "BPS": {
+    "x": 5.0,
+    "y": 5.0,
+    "scale": 1.0
+  },
+  "Toggle Sprint": {
+    "x": 832.5,
+    "y": 515.0,
+    "scale": 1.0
+  }
+}

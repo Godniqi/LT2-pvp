@@ -1,0 +1,9 @@
+{
+  "id" : "41faff134ddd4bcc9ac60796b78e7a81",
+  "name" : "Zynkou",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODY0NDE1Mzk2OCwKICAicHJvZmlsZUlkIiA6ICI0MWZhZmYxMzRkZGQ0YmNjOWFjNjA3OTZiNzhlN2E4MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJaeW5rb3UiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmMwNmQ1ZGQ3ODkwMDEzMDNhYmJiZDZlNTc3N2M4NWMxMWQxMWQxOTA0MWFhMDdlN2EzZTQxZTNhZmIyNzMxNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

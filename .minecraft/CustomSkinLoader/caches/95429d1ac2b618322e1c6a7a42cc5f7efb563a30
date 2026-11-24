@@ -1,0 +1,9 @@
+{
+  "id" : "247e27e8b15a413a82b3519dd02cd2bf",
+  "name" : "King_Of_bacon",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNTkwMDk5MCwKICAicHJvZmlsZUlkIiA6ICIyNDdlMjdlOGIxNWE0MTNhODJiMzUxOWRkMDJjZDJiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLaW5nX09mX2JhY29uIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkwZTc1Y2Q0MjliYTYzMzFjZDIxMGI5YmQxOTM5OTUyN2VlM2JhYjQ2N2I1YTlmNjFjYjhhMjdiMTc3ZjY3ODkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

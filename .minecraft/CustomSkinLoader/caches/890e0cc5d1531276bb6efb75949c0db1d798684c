@@ -1,0 +1,9 @@
+{
+  "id" : "f8e813f5955849538d601e27bdc3c582",
+  "name" : "ShinEunSoo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDIxNjc1NjEwMCwKICAicHJvZmlsZUlkIiA6ICJmOGU4MTNmNTk1NTg0OTUzOGQ2MDFlMjdiZGMzYzU4MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaGluRXVuU29vIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I2NmJjODBmMDAyYjEwMzcxZTJmYTIzZGU2ZjIzMGRkNWUyZjNhZmZjMmUxNTc4NmY2NWJjOWJlNGM2ZWI3MWEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

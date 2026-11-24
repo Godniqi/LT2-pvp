@@ -1,0 +1,9 @@
+{
+  "id" : "87fdc1dd6d57408084788c3ea65f8b8d",
+  "name" : "BUNBLE",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzI0MzE1MTg2NSwKICAicHJvZmlsZUlkIiA6ICI4N2ZkYzFkZDZkNTc0MDgwODQ3ODhjM2VhNjVmOGI4ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCVU5CTEUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODdjZWI3N2ZkMjY5ODViZWI5MzNiZmI4Njk2ZTJjOWQ1MzRjMWQ5OTU2Njk1ZjczY2VmZjcyYWYyNTQ1MTVkYiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

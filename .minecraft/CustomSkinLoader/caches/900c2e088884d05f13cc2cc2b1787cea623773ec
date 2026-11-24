@@ -1,0 +1,9 @@
+{
+  "id" : "b37cb90ac7a84a5f9080e70ead43cca1",
+  "name" : "4123ldref",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTE4Nzk5OSwKICAicHJvZmlsZUlkIiA6ICJiMzdjYjkwYWM3YTg0YTVmOTA4MGU3MGVhZDQzY2NhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICI0MTIzbGRyZWYiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTNiZDE2MDc5Zjc2NGNkNTQxZTA3MmU4ODhmZTQzODg1ZTcxMWY5ODY1ODMyM2RiMGY5YTYwNDVkYTkxZWU3YSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

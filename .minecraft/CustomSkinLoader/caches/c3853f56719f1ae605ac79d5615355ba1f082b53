@@ -1,0 +1,9 @@
+{
+  "id" : "2a364fc95f494d93ab1d0640348d06ae",
+  "name" : "NEON2",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjg5MTc2ODgyMSwKICAicHJvZmlsZUlkIiA6ICIyYTM2NGZjOTVmNDk0ZDkzYWIxZDA2NDAzNDhkMDZhZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJORU9OMiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNWNkYzMyNDNiMjE1M2FiMjhhMTU5ODYxYmU2NDNhNGZjMWUzYzE3ZDI5MWNkZDNlNTdhN2YzNzBhZDY3NmYzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

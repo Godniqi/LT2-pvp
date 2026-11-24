@@ -1,0 +1,9 @@
+{
+  "id" : "4ffdb615f16d4fe88a1364020078a4a4",
+  "name" : "Only_rai",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzE2MTYzMiwKICAicHJvZmlsZUlkIiA6ICI0ZmZkYjYxNWYxNmQ0ZmU4OGExMzY0MDIwMDc4YTRhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPbmx5X3JhaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kODJlMjg1MGYyZjI5ODViZTY5MWRhMmEwNWRlNjg4NmViZWEyYjBjZTE3ZDA5ZmVjNWQ5ZjAwNjA1YzM3NGQ1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

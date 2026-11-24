@@ -1,0 +1,9 @@
+{
+  "id" : "530bcaaa98214d79b77c02777b0a9cf6",
+  "name" : "grayred",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTUxMzk0NywKICAicHJvZmlsZUlkIiA6ICI1MzBiY2FhYTk4MjE0ZDc5Yjc3YzAyNzc3YjBhOWNmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJncmF5cmVkIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc3MTUyNWFmNzczOTQwMTVjYjFlNmM4Njk4NzFmYTU2ZDVmOGIxMTU1ODRhNmMwOTg2ODQ3ZDg0Yzc3YTJlZjIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

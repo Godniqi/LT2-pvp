@@ -1,0 +1,9 @@
+{
+  "id" : "781958da31dc4578a54c40ba4d0c3d97",
+  "name" : "balibali",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTM0MDE1NDU2NSwKICAicHJvZmlsZUlkIiA6ICI3ODE5NThkYTMxZGM0NTc4YTU0YzQwYmE0ZDBjM2Q5NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWxpYmFsaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81Y2E2NTdjY2RlYzE4N2Y4NDUxN2ZhYjk3YzA1YjI1YmNkY2U5ZTE1OTM0NmJlMjIxNWM0YWY3ZmU3Yjg1N2M5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

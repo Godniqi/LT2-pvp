@@ -1,0 +1,29 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.4thJulyWings.idle": {
+			"loop": true,
+			"animation_length": 2,
+			"bones": {
+				"group": {
+					"rotation": {
+						"vector": [
+							"-0.4851-math.sin(q.anim_time*180+100)*5",
+							"-math.sin(q.anim_time*180)*10",
+							2.2715
+						]
+					}
+				},
+				"group2": {
+					"rotation": {
+						"vector": [
+							"-0.4851-math.sin(q.anim_time*180+100)*5",
+							"math.sin(q.anim_time*180)*10",
+							-2.2715
+						]
+					}
+				}
+			}
+		}
+	}
+}

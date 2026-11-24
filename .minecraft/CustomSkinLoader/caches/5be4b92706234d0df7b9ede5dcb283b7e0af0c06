@@ -1,0 +1,9 @@
+{
+  "id" : "616323dc5d9040fa83a8ccf6b7036333",
+  "name" : "Rayjin",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MTkzOTY4NiwKICAicHJvZmlsZUlkIiA6ICI2MTYzMjNkYzVkOTA0MGZhODNhOGNjZjZiNzAzNjMzMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSYXlqaW4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDc5MThjYzUzZDlmZmQ3YjFjYjk2NWUxODFiMDJjMGM5ZjE2Y2UwNjdhNjU5N2IwMmFhZWQxY2NlMmQzYmJiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

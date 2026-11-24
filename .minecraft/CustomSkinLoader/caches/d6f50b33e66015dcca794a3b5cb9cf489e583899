@@ -1,0 +1,9 @@
+{
+  "id" : "3de74c2283de457db9a1d97d9f5ed637",
+  "name" : "SoloMan123",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTYyOTU0MywKICAicHJvZmlsZUlkIiA6ICIzZGU3NGMyMjgzZGU0NTdkYjlhMWQ5N2Q5ZjVlZDYzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb2xvTWFuMTIzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjYWEzZjcyZjM5MWE3ZTUzZTUyOTUxZjk5YmEyZGI1N2IzOWVlZTIzOGI4MThmNzY4NWFkODExODMzMTRjMGQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

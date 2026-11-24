@@ -1,0 +1,9 @@
+{
+  "id" : "c55adfe1b64647d6a910587d8b843dd7",
+  "name" : "Xuvy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2ODI0OTAzMCwKICAicHJvZmlsZUlkIiA6ICJjNTVhZGZlMWI2NDY0N2Q2YTkxMDU4N2Q4Yjg0M2RkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJYdXZ5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U2N2RkZWY1ZDM0ZWMyYTVjYzQ5M2E4NzQ3OTU3YTlmZjBlYTE3YWMwZmY0MGQ0NWU1ODhmMzhiMzMxMTRkYjgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

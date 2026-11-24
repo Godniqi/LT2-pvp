@@ -1,0 +1,9 @@
+{
+  "id" : "7b08beceb59f439e94bf2e465c69f6f6",
+  "name" : "dapinskibidi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIwNTU4MzI5NSwKICAicHJvZmlsZUlkIiA6ICI3YjA4YmVjZWI1OWY0MzllOTRiZjJlNDY1YzY5ZjZmNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJkYXBpbnNraWJpZGkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTQ1YjFiZmQzODQ2NWEzZTY4YTYwZDM1MDFlMjBkMjdkZGE5NDdiODkxNTI3ODVmODAwYjU0MzAwZGRiZTRiMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

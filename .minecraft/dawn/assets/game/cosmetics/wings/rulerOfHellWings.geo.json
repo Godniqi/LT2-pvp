@@ -1,0 +1,148 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.rulerOfHellWings",
+        "texture_width": 16,
+        "texture_height": 16,
+        "visible_bounds_width": 5,
+        "visible_bounds_height": 3.5,
+        "visible_bounds_offset": [
+          0,
+          1.25,
+          0
+        ]
+      },
+      "bones": [
+        {
+          "name": "anchor_body",
+          "pivot": [
+            0,
+            24,
+            0
+          ]
+        },
+        {
+          "name": "wing",
+          "pivot": [
+            0.15,
+            18.6616,
+            2.84936
+          ],
+          "parent": "anchor_body"
+        },
+        {
+          "name": "bone",
+          "parent": "wing",
+          "pivot": [
+            -0.01641,
+            16.6616,
+            1.9327
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -0.01641,
+                8.1616,
+                1.9327
+              ],
+              "size": [
+                28,
+                21,
+                0
+              ],
+              "pivot": [
+                -0.01641,
+                16.6616,
+                1.9327
+              ],
+              "rotation": [
+                0,
+                -25,
+                0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    14,
+                    10.5
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    13.75,
+                    15.75
+                  ],
+                  "uv_size": [
+                    0,
+                    0
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "bone2",
+          "parent": "wing",
+          "pivot": [
+            0.31641,
+            16.6616,
+            1.9327
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -27.68359,
+                8.1616,
+                1.9327
+              ],
+              "size": [
+                28,
+                21,
+                0
+              ],
+              "pivot": [
+                0.31641,
+                16.6616,
+                1.9327
+              ],
+              "rotation": [
+                0,
+                25,
+                0
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    14,
+                    0
+                  ],
+                  "uv_size": [
+                    -14,
+                    10.5
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    13.75,
+                    15.75
+                  ],
+                  "uv_size": [
+                    0,
+                    0
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

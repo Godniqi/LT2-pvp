@@ -1,0 +1,9 @@
+{
+  "id" : "0219f2d929ed4f0ebc2ea612dc47a278",
+  "name" : "MandiP",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTM3MTI2OCwKICAicHJvZmlsZUlkIiA6ICIwMjE5ZjJkOTI5ZWQ0ZjBlYmMyZWE2MTJkYzQ3YTI3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYW5kaVAiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzIwZWVmNDk5YzlkMjU2Y2I3YWRlOWQyZThmOWQyODliMDAxMzZmN2IxMjQ1ZmQ2NWM2MjI0NjEyYTk2NDIyZCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

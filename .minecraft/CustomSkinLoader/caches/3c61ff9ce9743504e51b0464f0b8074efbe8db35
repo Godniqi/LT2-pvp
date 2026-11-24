@@ -1,0 +1,9 @@
+{
+  "id" : "719cb5735b7c43079e230bafd6c4630c",
+  "name" : "PSA",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzYwMTk0MzI1NiwKICAicHJvZmlsZUlkIiA6ICI3MTljYjU3MzViN2M0MzA3OWUyMzBiYWZkNmM0NjMwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJQU0EiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmFkNTgwYmI3NDdhZDM5OTJiYTY5NGU1OTMxZWQxOWNlNGU1ODliZDU4ODE2MGRiODFmYzNhMWJjNDcxMThhYyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

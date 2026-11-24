@@ -1,0 +1,9 @@
+{
+  "id" : "245f38781ee24a459660efbe2df52b57",
+  "name" : "elTigre",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTQ0MzAwMywKICAicHJvZmlsZUlkIiA6ICIyNDVmMzg3ODFlZTI0YTQ1OTY2MGVmYmUyZGY1MmI1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJlbFRpZ3JlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU1OWQ5ZjcyYjU4NDJlMjBiYzJhZGQxNjBjNTc0MzUxNDk3OTY3NmU1ZWFkNTUyYzcxYWY3MDIxNWYxM2E0ZWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

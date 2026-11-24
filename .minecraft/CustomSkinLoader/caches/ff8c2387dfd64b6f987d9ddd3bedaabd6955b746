@@ -1,0 +1,9 @@
+{
+  "id" : "93a17954249448629f2bcae3073ddd5a",
+  "name" : "Restrictor",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzU3OTcyMzM0MywKICAicHJvZmlsZUlkIiA6ICI5M2ExNzk1NDI0OTQ0ODYyOWYyYmNhZTMwNzNkZGQ1YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXN0cmljdG9yIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RhZjNkODhjY2IzOGYxMWY3NDgxNGU5MjA1M2Q5MmY3NzI4ZGRiMWE3OTU1NjUyYTYwZTMwY2IyN2FlNjY1OWYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

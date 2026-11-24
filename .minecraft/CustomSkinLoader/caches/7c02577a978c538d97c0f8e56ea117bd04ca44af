@@ -1,0 +1,9 @@
+{
+  "id" : "d58f8ba0420c4b45b6b2be0a5614bdb2",
+  "name" : "5StarPaglu_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NDkzMDYzNywKICAicHJvZmlsZUlkIiA6ICJkNThmOGJhMDQyMGM0YjQ1YjZiMmJlMGE1NjE0YmRiMiIsCiAgInByb2ZpbGVOYW1lIiA6ICI1U3RhclBhZ2x1XyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMzg1Yzg2NDRkM2MzN2RmMzhiZDU0Njk1MWI2NDVhYTRmZDJiNDA0NTFiYWZkNzNlMDBiZjRlZWJlMjY2Yjc4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

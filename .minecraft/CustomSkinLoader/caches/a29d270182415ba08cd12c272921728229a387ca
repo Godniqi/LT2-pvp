@@ -1,0 +1,9 @@
+{
+  "id" : "3ce8d3579afb4a70ab99935901d08348",
+  "name" : "Advar",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzA4MTE3MTI5OCwKICAicHJvZmlsZUlkIiA6ICIzY2U4ZDM1NzlhZmI0YTcwYWI5OTkzNTkwMWQwODM0OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBZHZhciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNTZjYWNlMjlkODhjYWM2MmYwMzc0NzYxODJhYWZhOTlhM2YyM2NjNTI1ODliNTZlZGIwYzQ2YzBlY2Q3MGQ5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

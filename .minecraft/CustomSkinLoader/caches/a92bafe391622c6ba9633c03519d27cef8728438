@@ -1,0 +1,9 @@
+{
+  "id" : "b664e9d2bbd943998e13c149c071f4e1",
+  "name" : "Arnur",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NjAxNzMzOCwKICAicHJvZmlsZUlkIiA6ICJiNjY0ZTlkMmJiZDk0Mzk5OGUxM2MxNDljMDcxZjRlMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcm51ciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZDY2YWVkOWJlN2QyOGVmY2NjZWQwOTlhOTBhM2QwNTA0YjJjMjRkMTAyZGJlZjg2ZDAzMWNlYjA4OWVmZjJmIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "dfb0fdcb320649eab8a6167cddec9d81",
+  "name" : "kikiy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI1NDY3ODI4MywKICAicHJvZmlsZUlkIiA6ICJkZmIwZmRjYjMyMDY0OWVhYjhhNjE2N2NkZGVjOWQ4MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJraWtpeSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82Y2E5ZDcxZWE4Y2VjOGZlMmQxMDc1YTNkMGZiZWUzY2FlZDliNzRlOGZjYTg3YWE5MzE4MmEyZmIzZmQ0MTBhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

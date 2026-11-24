@@ -1,0 +1,9 @@
+{
+  "id" : "2c833a2ed7a64bae933795e8fab094b8",
+  "name" : "lezy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA1NjUwMjcyNCwKICAicHJvZmlsZUlkIiA6ICIyYzgzM2EyZWQ3YTY0YmFlOTMzNzk1ZThmYWIwOTRiOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJsZXp5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJiYTIzYjI2ZjVlN2Q3YmNmYjkwMjE4YTE0NDU3ODJiMDdiMGZjZjJkY2YxNTI2YWVkZDczYThjZjAyNGIyMjMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "1ecfc4c50dc341c8b2e5101d782df19f",
+  "name" : "Ecl1ps3Z",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMDQzMDgxOSwKICAicHJvZmlsZUlkIiA6ICIxZWNmYzRjNTBkYzM0MWM4YjJlNTEwMWQ3ODJkZjE5ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFY2wxcHMzWiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84MDVkMTRmMDMyYWE5YWVlZjI1MjAwMWEyYjM0MGNmYzUzZmY2MzA5NDJkNDgxNDczNGFjNGM1NTBkNmY4OGQ4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

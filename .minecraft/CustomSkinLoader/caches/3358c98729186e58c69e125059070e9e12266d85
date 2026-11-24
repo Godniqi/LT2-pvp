@@ -1,0 +1,9 @@
+{
+  "id" : "9ed5193952a94181860f8ffc4509617a",
+  "name" : "TCastro",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzI0MzIxMzc5NCwKICAicHJvZmlsZUlkIiA6ICI5ZWQ1MTkzOTUyYTk0MTgxODYwZjhmZmM0NTA5NjE3YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUQ2FzdHJvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMxZjQ3N2ViMWE3YmVlZTYzMWMyY2E2NGQwNmY4ZjY4ZmE5M2EzMzg2ZDA0NDUyYWIyN2Y0M2FjZGYxYjYwY2IiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

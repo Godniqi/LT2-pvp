@@ -1,0 +1,9 @@
+{
+  "id" : "d02a8778c3d04f3f82c8f620b671ef23",
+  "name" : "Thizy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjg5MTgxNzY4MywKICAicHJvZmlsZUlkIiA6ICJkMDJhODc3OGMzZDA0ZjNmODJjOGY2MjBiNjcxZWYyMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGl6eSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMGYxZjJjMWM1YTdlYWE3NWI5MDk2ZGIzZjNiMzliOWY1MDQxOTliZjI4Mzg0YzAwZTM5ZjViZmZiYmQ5ZWNkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "a7db81f172ea442e87caa3e203a73440",
+  "name" : "Vodka",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTg0MjA0MCwKICAicHJvZmlsZUlkIiA6ICJhN2RiODFmMTcyZWE0NDJlODdjYWEzZTIwM2E3MzQ0MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb2RrYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOGI3MzYzNGNmMTQ4NjBlOTM4NmVkYmRhNjEzNzcxNTM4NTcyZTgzNjJkZjQxZjAxNjNhODc5ZTIxZWUzOGE4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

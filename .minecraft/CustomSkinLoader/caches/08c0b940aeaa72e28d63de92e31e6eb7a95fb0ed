@@ -1,0 +1,9 @@
+{
+  "id" : "575d7417be9146faae3d7f749edb5be1",
+  "name" : "strawberrycatto",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzI0MzIzMjkwOCwKICAicHJvZmlsZUlkIiA6ICI1NzVkNzQxN2JlOTE0NmZhYWUzZDdmNzQ5ZWRiNWJlMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzdHJhd2JlcnJ5Y2F0dG8iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzU4Y2Y5NWMyZTQ2NmE4YTdhYjc3ZTliN2RmNWRlZTkwM2Y1ZDNkYTI4MjEyZWQyYjlkNWY5MGZiMzg3NTRlZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "d0cc69667fcf405c8d18982cc6601776",
+  "name" : "Tava",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDIxNTQyNjU3MCwKICAicHJvZmlsZUlkIiA6ICJkMGNjNjk2NjdmY2Y0MDVjOGQxODk4MmNjNjYwMTc3NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYXZhIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI1Njc0NjE0NDRjZDcwYTEzN2E2NTJkNjMyYmQ3MzhkNzFjZGQyMDc4MTBjOGQzNTAzZGRlY2FkMjNmMTA1OWQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

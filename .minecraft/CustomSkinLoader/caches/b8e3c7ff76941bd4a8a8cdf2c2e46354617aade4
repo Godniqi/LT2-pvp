@@ -1,0 +1,9 @@
+{
+  "id" : "372a10d8e0fa429d881c4a614a52fceb",
+  "name" : "Chill777",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTkzODI3NjUxMywKICAicHJvZmlsZUlkIiA6ICIzNzJhMTBkOGUwZmE0MjlkODgxYzRhNjE0YTUyZmNlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaGlsbDc3NyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YjFmYjZlNzAxMzFkOGExODI4MDU3M2UzNjUwNDc5MzA2MWE4ZDczNDlmOWIxZWE5MDE3MjBjZjRhY2YzMjhkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

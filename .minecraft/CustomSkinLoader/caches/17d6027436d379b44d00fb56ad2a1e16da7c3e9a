@@ -1,0 +1,9 @@
+{
+  "id" : "3c0917f109d14fc692eddbd690f18915",
+  "name" : "miyatoshi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDU4Nzc1MjkxMywKICAicHJvZmlsZUlkIiA6ICIzYzA5MTdmMTA5ZDE0ZmM2OTJlZGRiZDY5MGYxODkxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtaXlhdG9zaGkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNjYzIyMGU3NGM2NWQ0OTcxMTRhNGM2MWQ4Nzc1NDg4MjdlOWU0NTQ5NDVlNTA5YjBmNDgwOGRhM2RlMjVhMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

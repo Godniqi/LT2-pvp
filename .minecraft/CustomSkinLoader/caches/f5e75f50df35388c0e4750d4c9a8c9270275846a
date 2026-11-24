@@ -1,0 +1,9 @@
+{
+  "id" : "bb3ac55e20494b01998b0e0e7b242d48",
+  "name" : "Ac3s_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk3MDQ2MTM4MywKICAicHJvZmlsZUlkIiA6ICJiYjNhYzU1ZTIwNDk0YjAxOTk4YjBlMGU3YjI0MmQ0OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBYzNzXyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81YjNlMjEzOTQxOTQwNDk3N2YwZDBkNDkwMmM3ZDk1NDA0MWJkZWYyY2EwYzY5MWZiYTkwODhlNDI4YzI3YWY5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "d41bac6017cf47aaaf65d9a95516757b",
+  "name" : "Eminence",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODQwMDE3NTA4NSwKICAicHJvZmlsZUlkIiA6ICJkNDFiYWM2MDE3Y2Y0N2FhYWY2NWQ5YTk1NTE2NzU3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbWluZW5jZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iYmZhYjhkYzUwYjhlMGQ3ZDU4MGE4OTIwMzFjODgxYTNmOTVhMzc1YjFkOThjNWFkOWI0OTZlMDY1Nzg1M2UyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

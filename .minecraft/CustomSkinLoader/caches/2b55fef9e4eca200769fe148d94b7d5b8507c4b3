@@ -1,0 +1,9 @@
+{
+  "id" : "c93d15f223574d4a8d1e91e4d52a5ad1",
+  "name" : "kne",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjg5MTc4Njk4NywKICAicHJvZmlsZUlkIiA6ICJjOTNkMTVmMjIzNTc0ZDRhOGQxZTkxZTRkNTJhNWFkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJrbmUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGMwZmNmYWYyYWEwNDBhODNkYzBkZTRlNTYwNThkMWJiYjJlYTQwMTU3NTAxZjNlN2QxNWRjMjQ1ZTQ5MzA5NSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

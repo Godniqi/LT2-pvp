@@ -1,0 +1,9 @@
+{
+  "id" : "3623e01ec56c49a3a86238104ff185f7",
+  "name" : "yur1m",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzU3OTEyNDAzNCwKICAicHJvZmlsZUlkIiA6ICIzNjIzZTAxZWM1NmM0OWEzYTg2MjM4MTA0ZmYxODVmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ5dXIxbSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NDdjMTU4MmE0NDE5MDgzNDk2MzBmMTkxZTU4NzFmMDcwMjBhODg2NzYyNWFiZTM5N2E4YjY2M2NhMWUzYmQ5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "e009658c1a3a4655b528654dcba97bf4",
+  "name" : "Gravastone",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTkzODQxNzAyMiwKICAicHJvZmlsZUlkIiA6ICJlMDA5NjU4YzFhM2E0NjU1YjUyODY1NGRjYmE5N2JmNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHcmF2YXN0b25lIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzViNDg2N2VlZmRlZTZmOGQxMjU2YmM3YWE3ZGQ2NmE2NmQ4MTc2Zjc5MjFhNDM1OWJlNzBjOGUxYWQyNGU5OTkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

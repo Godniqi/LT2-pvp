@@ -1,0 +1,9 @@
+{
+  "id" : "3c2232ea439c48b6b82f29b2fc9956eb",
+  "name" : "nohanardhani",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzA4MTE1Mjg1MSwKICAicHJvZmlsZUlkIiA6ICIzYzIyMzJlYTQzOWM0OGI2YjgyZjI5YjJmYzk5NTZlYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJub2hhbmFyZGhhbmkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmNkMTYyNzQ2OTI2YmUzYzhlYWU0Y2JiNTVjYTg5NDBjMzhlMmIyNDZiYTViNWU5ZWIzNTA1MGVhMjhjNjMxNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

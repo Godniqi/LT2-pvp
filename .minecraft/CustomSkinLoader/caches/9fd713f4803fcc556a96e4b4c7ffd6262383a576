@@ -1,0 +1,9 @@
+{
+  "id" : "36a3eadf4b074d5ea063e491777293fd",
+  "name" : "Mineralz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzU3NzcyNzI1NSwKICAicHJvZmlsZUlkIiA6ICIzNmEzZWFkZjRiMDc0ZDVlYTA2M2U0OTE3NzcyOTNmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5lcmFseiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YzE2MGZiZDE2YWRiYzRiZmYyNDA5ZTcwMTgwZDkxMTAwMmFlYmNmYTgxMWViNmVjM2QxMDQwNzYxYWVhNmRkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

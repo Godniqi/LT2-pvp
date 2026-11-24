@@ -1,0 +1,9 @@
+{
+  "id" : "d5bdb5607f6e48f599bb7cf6fee2a271",
+  "name" : "Elixx",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjI4Mzc3NTE0MCwKICAicHJvZmlsZUlkIiA6ICJkNWJkYjU2MDdmNmU0OGY1OTliYjdjZjZmZWUyYTI3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbGl4eCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hNzJmMDkyMWU5ZGY0MTI1NzdlYzkwNWRjNjVjMzMwNjJmNjM5NTMxZjA4ZTU0ZmEzOTllOTQ5NzQ1MTQ5OCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

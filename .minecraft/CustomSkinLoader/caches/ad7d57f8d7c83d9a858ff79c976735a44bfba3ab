@@ -1,0 +1,9 @@
+{
+  "id" : "7d2eee59bf28473ca99565f52bef21c2",
+  "name" : "_Frost_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI1NDY4NzIwMSwKICAicHJvZmlsZUlkIiA6ICI3ZDJlZWU1OWJmMjg0NzNjYTk5NTY1ZjUyYmVmMjFjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfRnJvc3RfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzkzMGYwNGE0YTk0MjRiN2MyOGJlOTJiNTM4NjI0MGE1NDkxMDQwZDcwYjU1YjlmNTY2NDA0ODA3MWRhY2Y1YWMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

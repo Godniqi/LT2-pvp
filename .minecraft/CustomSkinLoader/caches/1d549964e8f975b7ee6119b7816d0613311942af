@@ -1,0 +1,9 @@
+{
+  "id" : "87f10ecc6789475a90bbc14d95b541ca",
+  "name" : "cinarierie",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjI4OTE1NjY0NywKICAicHJvZmlsZUlkIiA6ICI4N2YxMGVjYzY3ODk0NzVhOTBiYmMxNGQ5NWI1NDFjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaW5hcmllcmllIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FkMTMxNjFiYzBjMDBkNGNjYWNiZThjM2FhNjE5YjQwMjAwZDlhNWY3OWIwOTgxODVlYjU4YzhjYmFjYmQxZjEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

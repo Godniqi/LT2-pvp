@@ -1,0 +1,9 @@
+{
+  "id" : "8ed18f2cfc7c4e2094b48920dbd2ca7a",
+  "name" : "1_Shinkai_1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTE2MTUwMDIxNSwKICAicHJvZmlsZUlkIiA6ICI4ZWQxOGYyY2ZjN2M0ZTIwOTRiNDg5MjBkYmQyY2E3YSIsCiAgInByb2ZpbGVOYW1lIiA6ICIxX1NoaW5rYWlfMSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82OTljODk0ZmQ3OWY4MGY0Yjc5ZWI4ZWE2Mzk0Yzk5ODk2NmVkMWM3YTYyZmU4MTBmYzk1ZGI0MDE4MWM4MGI1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

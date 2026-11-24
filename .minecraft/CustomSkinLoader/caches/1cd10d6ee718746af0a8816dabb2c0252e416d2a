@@ -1,0 +1,9 @@
+{
+  "id" : "a6b14651eea643aa900fdf619d4b02da",
+  "name" : "stampylongnose",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTAwNjgyMjI0MCwKICAicHJvZmlsZUlkIiA6ICJhNmIxNDY1MWVlYTY0M2FhOTAwZmRmNjE5ZDRiMDJkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzdGFtcHlsb25nbm9zZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lYjMxMmI4ZDZkMWYyOWIyMDUyNWFiNzNiODM3N2UxMGI0Mjc5ODYzOTgwZWE2MjQ1OTcwZTBjNzBmZDEzYzNhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

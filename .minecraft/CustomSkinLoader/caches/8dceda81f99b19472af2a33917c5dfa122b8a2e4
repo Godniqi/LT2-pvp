@@ -1,0 +1,9 @@
+{
+  "id" : "929a24fc2da5403da97d24bb291b230c",
+  "name" : "Littlesister",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzE2MTcyMDgwMywKICAicHJvZmlsZUlkIiA6ICI5MjlhMjRmYzJkYTU0MDNkYTk3ZDI0YmIyOTFiMjMwYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMaXR0bGVzaXN0ZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTVjZGMzMjQzYjIxNTNhYjI4YTE1OTg2MWJlNjQzYTRmYzFlM2MxN2QyOTFjZGQzZTU3YTdmMzcwYWQ2NzZmMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

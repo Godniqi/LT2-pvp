@@ -1,0 +1,9 @@
+{
+  "id" : "bc8b16d782544a94912654dd9a48f690",
+  "name" : "BryannMC",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY3MjA4MjEwMSwKICAicHJvZmlsZUlkIiA6ICJiYzhiMTZkNzgyNTQ0YTk0OTEyNjU0ZGQ5YTQ4ZjY5MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcnlhbm5NQyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ZGQzZDcxMTExZjZlNTYwNzhmMTJiMDkzNTg0MWJiNzZmNjRhNDc3YTVlMTUzNDkyNmZlZjM5ZDQwZTdmOTZiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

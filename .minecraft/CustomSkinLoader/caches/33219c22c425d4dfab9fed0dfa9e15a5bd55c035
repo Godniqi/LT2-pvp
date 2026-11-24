@@ -1,0 +1,9 @@
+{
+  "id" : "ca2ce6a2574c483e80498261342331f2",
+  "name" : "NoobChicken",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMTQ3OTQyMSwKICAicHJvZmlsZUlkIiA6ICJjYTJjZTZhMjU3NGM0ODNlODA0OTgyNjEzNDIzMzFmMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOb29iQ2hpY2tlbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xZjJhNDFiYjc2ZmE3MGNiNzk5MmMwM2IyYzZjMjhhY2QzZjY4MGVmMTY5MTgyZDgyNGM1NTk4ZTM0MzVjNmMxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "de1f34eb5030444cac383490c20dc610",
+  "name" : "Bruce",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTE3Njk4OCwKICAicHJvZmlsZUlkIiA6ICJkZTFmMzRlYjUwMzA0NDRjYWMzODM0OTBjMjBkYzYxMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcnVjZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NmE0ZjU4NGNkZTdmNGRiOGE1ZWY4OWQ4MDdjZDYxNzFjOWU1OTQ1MDlmNDU2OGFmODk5NDFmYTFlNDIwZjZkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

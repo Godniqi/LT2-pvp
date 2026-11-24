@@ -1,0 +1,9 @@
+{
+  "id" : "cad99ccf83bc41fba05d2660b82559f5",
+  "name" : "_ENZO_MiLo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTQ2MjE1NiwKICAicHJvZmlsZUlkIiA6ICJjYWQ5OWNjZjgzYmM0MWZiYTA1ZDI2NjBiODI1NTlmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfRU5aT19NaUxvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I1M2FmYTYyZDcwZWYzNTYyMzE3N2E3NDMzOThjNDUxOThiMTY3OWFkM2YxOTY0NzlmMmZkMDliOTRjNjUwM2MiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "27d4bc3c775e4baf9d741f1b380c7c9e",
+  "name" : "BIT0003",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTU1NjgwMiwKICAicHJvZmlsZUlkIiA6ICIyN2Q0YmMzYzc3NWU0YmFmOWQ3NDFmMWIzODBjN2M5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCSVQwMDAzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U0YjdiMDZjZWRjOGE3OTdhZDdkNjNkZGMwY2I5NTg2YjFhYjc3ZmU0YmRlNDhkNGIwZTUyNmI0ZjYxYWUzYjgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

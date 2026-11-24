@@ -1,0 +1,9 @@
+{
+  "id" : "955e965511894e2689a713fe80d749f7",
+  "name" : "sad_player",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODgxOTkwMjI3NCwKICAicHJvZmlsZUlkIiA6ICI5NTVlOTY1NTExODk0ZTI2ODlhNzEzZmU4MGQ3NDlmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJzYWRfcGxheWVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZiY2NjMTc2N2ZkNGE0MGFmYzNlZDg0ZjExYjUzZWM0OTI2Nzg2MDk5ZWM1N2U4MDA5YjNkM2FkYjIzYzM1YTYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

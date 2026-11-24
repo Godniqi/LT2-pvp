@@ -1,0 +1,9 @@
+{
+  "id" : "660babfcb6684feab9f72dbf875a2813",
+  "name" : "knightcrusher",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjQ1ODAwOCwKICAicHJvZmlsZUlkIiA6ICI2NjBiYWJmY2I2Njg0ZmVhYjlmNzJkYmY4NzVhMjgxMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJrbmlnaHRjcnVzaGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhOGRhOWM2ZmUyNTg4NTBiNDkzZjZkMmY2NmFmOWI3YjRjMjIxYjI2ZmUzYzQ2YWU2YzM0N2E2NjJkYzYyZTkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

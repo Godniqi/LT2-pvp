@@ -1,0 +1,9 @@
+{
+  "id" : "88b7eaaa7dbe4a0c966dc62b9d83145d",
+  "name" : "BumPlayer",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMDQ2NzQxMywKICAicHJvZmlsZUlkIiA6ICI4OGI3ZWFhYTdkYmU0YTBjOTY2ZGM2MmI5ZDgzMTQ1ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdW1QbGF5ZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzZiYmFhNzljNTNiMGY3YzExM2EwODM4YjRkMzRmOGU4NGFhYTQ4ZjVhOTdkYTIzZDllMzA4MmMyM2IwNDBlOSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

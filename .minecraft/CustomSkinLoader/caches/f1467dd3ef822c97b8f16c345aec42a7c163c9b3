@@ -1,0 +1,9 @@
+{
+  "id" : "bf29281e769c46d9affa2fbcfc4a0932",
+  "name" : "Astroo0",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ5ODc5NDU4MywKICAicHJvZmlsZUlkIiA6ICJiZjI5MjgxZTc2OWM0NmQ5YWZmYTJmYmNmYzRhMDkzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBc3Ryb28wIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2IwNTY0Mjk3ZmFjZDUyOGY4NTZjOTViNzgwY2ZhM2E2MzE2MzRiYjNlZTJlMTlhMmYwZmM1NjRiYWU4MmQ4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

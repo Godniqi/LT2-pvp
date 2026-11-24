@@ -1,0 +1,9 @@
+{
+  "id" : "f7115fe1c9d54cb2b3179affcf26df2c",
+  "name" : "EMBlackZero",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ4MjY2ODI4NCwKICAicHJvZmlsZUlkIiA6ICJmNzExNWZlMWM5ZDU0Y2IyYjMxNzlhZmZjZjI2ZGYyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFTUJsYWNrWmVybyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOTZkODA4Y2I3MzhmOTgxZTUwZDAzMzUzMDg1MTg1MjI4MWNmOTAyOTQyMmY5YjQ0OTI3Y2E2ZmMyYmZhODYyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

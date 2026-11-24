@@ -1,0 +1,9 @@
+{
+  "id" : "b1943c018e894894ba1ba2ccc8ff0dcb",
+  "name" : "MrPaperD",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTc5Njc0MSwKICAicHJvZmlsZUlkIiA6ICJiMTk0M2MwMThlODk0ODk0YmExYmEyY2NjOGZmMGRjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNclBhcGVyRCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzJkOTkzMDNlMzM3NThjNWEzMzFhYTBmZDczNjdkMjRjZGVkYzkxZDI2NWZmOGM3NzQxNTA5M2U0NGRmZGQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "24094eea59cc48cb90f7a623d2a83064",
+  "name" : "iuuy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTE5NjcyNCwKICAicHJvZmlsZUlkIiA6ICIyNDA5NGVlYTU5Y2M0OGNiOTBmN2E2MjNkMmE4MzA2NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJpdXV5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMxN2I1NjM5NDc5NWEwOTM3YjkyOTczMDQ3NTUwOWNjNWEyNTdkNmU0ZjYwYWY4MDZhOTIzZDNiNTBmYTcyZTIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

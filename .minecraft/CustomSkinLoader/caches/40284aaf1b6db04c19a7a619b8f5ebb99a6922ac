@@ -1,0 +1,9 @@
+{
+  "id" : "3471d75f21d54698bdd3f72654149bbf",
+  "name" : "Kiuga",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIwNzI2OTY0MCwKICAicHJvZmlsZUlkIiA6ICIzNDcxZDc1ZjIxZDU0Njk4YmRkM2Y3MjY1NDE0OWJiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLaXVnYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mY2FlZTAxYTIwN2RlOGYxNDZhZThiZmExNzFhZmFlMmUyN2NhNjdmNmM3ZjVhNDc1ZDJjMmRiMTg1YjM3N2YyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

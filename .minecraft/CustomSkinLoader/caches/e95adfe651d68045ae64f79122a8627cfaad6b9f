@@ -1,0 +1,9 @@
+{
+  "id" : "c1d174d934844c118072912d3bae7e56",
+  "name" : "jynxv2",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDkwNTc1ODkzOSwKICAicHJvZmlsZUlkIiA6ICJjMWQxNzRkOTM0ODQ0YzExODA3MjkxMmQzYmFlN2U1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJqeW54djIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhhYzIzZmNiYzJlMTkyOWEzNzhkOTA1NTJlMWIxYjk2NzIzZTdhYjAwNTBiN2YwMDZhYWU3Y2NhZGJjNTBkYSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

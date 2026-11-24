@@ -1,0 +1,9 @@
+{
+  "id" : "944cca29a92542959f9d849525eaab31",
+  "name" : "kurababey",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ4MjY1NjU2MiwKICAicHJvZmlsZUlkIiA6ICI5NDRjY2EyOWE5MjU0Mjk1OWY5ZDg0OTUyNWVhYWIzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJrdXJhYmFiZXkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmFlNDc1M2Y0NTdlMjc5NjdmMTQzZGQ5NDg1Mjg2NGFlZDU5OWYwZThjMjI4ZmYyYWM5NjkxNGExMDA0YzVkNiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

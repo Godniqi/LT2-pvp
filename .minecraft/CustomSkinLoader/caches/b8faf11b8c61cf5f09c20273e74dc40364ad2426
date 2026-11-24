@@ -1,0 +1,9 @@
+{
+  "id" : "4251ebed30f0489e859bcfb52f384785",
+  "name" : "_Hollowwww",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNTM4NTkwNiwKICAicHJvZmlsZUlkIiA6ICI0MjUxZWJlZDMwZjA0ODllODU5YmNmYjUyZjM4NDc4NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfSG9sbG93d3d3IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzg2NDg0M2JmZTA0ZTM2NzZkZjI0NTQzMjk5OTQzMTgzZjUwYWRjNThiZjMzMDcwNDUzM2M2NzhjYWZlOWJiMzgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

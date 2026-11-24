@@ -1,0 +1,9 @@
+{
+  "id" : "00ff022f67844bd3aa736bf461c85436",
+  "name" : "Lenor",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTQyNDc1MzUzMCwKICAicHJvZmlsZUlkIiA6ICIwMGZmMDIyZjY3ODQ0YmQzYWE3MzZiZjQ2MWM4NTQzNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJMZW5vciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMjIzMzFhNmFkN2FmMmEzYTg2OWMxMWZmNTIxNmJmN2RmNDA1NzczNGYxNzE1MjMxMDkyM2I1NWM1YThjNjcxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

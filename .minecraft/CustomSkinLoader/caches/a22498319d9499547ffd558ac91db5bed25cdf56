@@ -1,0 +1,9 @@
+{
+  "id" : "7a3e4728d0d74a2d82e2639843412d62",
+  "name" : "chiaaaaa",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ5ODY1NzMwNiwKICAicHJvZmlsZUlkIiA6ICI3YTNlNDcyOGQwZDc0YTJkODJlMjYzOTg0MzQxMmQ2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGlhYWFhYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YzE2MGZiZDE2YWRiYzRiZmYyNDA5ZTcwMTgwZDkxMTAwMmFlYmNmYTgxMWViNmVjM2QxMDQwNzYxYWVhNmRkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

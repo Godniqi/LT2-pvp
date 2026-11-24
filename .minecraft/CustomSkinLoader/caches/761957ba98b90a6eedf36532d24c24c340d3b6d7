@@ -1,0 +1,9 @@
+{
+  "id" : "0a8944ad4c144e76b874c34a8c2482b0",
+  "name" : "J14n",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIwNTYxMDIwNCwKICAicHJvZmlsZUlkIiA6ICIwYTg5NDRhZDRjMTQ0ZTc2Yjg3NGMzNGE4YzI0ODJiMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKMTRuIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk3OTE5NzhjMzc5NTM2NzIxMjhlMDI4NjhjMDUwMGYwMzcwMzM5MmU5NGM5NTM1MGMxODQ1NGY4ZGI5ZTU0IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

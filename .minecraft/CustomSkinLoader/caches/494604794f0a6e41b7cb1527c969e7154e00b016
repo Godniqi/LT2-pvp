@@ -1,0 +1,9 @@
+{
+  "id" : "1b2b8de5a4764e0fb351c9d8592f64f0",
+  "name" : "zandle",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTM0MDc2MjYxNCwKICAicHJvZmlsZUlkIiA6ICIxYjJiOGRlNWE0NzY0ZTBmYjM1MWM5ZDg1OTJmNjRmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ6YW5kbGUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTRiMTk2ZDJjZWUyZjY2MjA5M2VhMjM1YTUwNjYyNzFmZWY0ZmM0MTUyNDc0NjRkY2YwY2E5MzUxNzMwYTk0YyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

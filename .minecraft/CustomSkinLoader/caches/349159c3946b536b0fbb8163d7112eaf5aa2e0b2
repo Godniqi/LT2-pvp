@@ -1,0 +1,9 @@
+{
+  "id" : "a8da8738f9a04850bbe2b7d378edc2a4",
+  "name" : "CookieCrafter",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTA4MjM2OTMyNCwKICAicHJvZmlsZUlkIiA6ICJhOGRhODczOGY5YTA0ODUwYmJlMmI3ZDM3OGVkYzJhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDb29raWVDcmFmdGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZlZjExNGRlZjlhZTU3MTI4ODA2NzRkYTg4MDdiOGU3MGQwYWEwZTA2NGE0NjAzZWQ0ZjkxMDY3MzEwNzhhODQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

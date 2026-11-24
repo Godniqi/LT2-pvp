@@ -1,0 +1,355 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.deepSeaExplorerBoots",
+        "texture_width": 16,
+        "texture_height": 16,
+        "visible_bounds_width": 2,
+        "visible_bounds_height": 1.5,
+        "visible_bounds_offset": [
+          0,
+          0.25,
+          0
+        ]
+      },
+      "bones": [
+        {
+          "name": "anchor_leftleg",
+          "pivot": [
+            1.9,
+            12,
+            0
+          ]
+        },
+        {
+          "name": "anchor_rightleg",
+          "pivot": [
+            -1.9,
+            12,
+            0
+          ]
+        },
+        {
+          "name": "underwaterboots_left",
+          "parent": "anchor_leftleg",
+          "pivot": [
+            -0.05,
+            2.325,
+            -1.675
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -0.2,
+                -0.1,
+                -2.1
+              ],
+              "size": [
+                4.2,
+                6.6,
+                4.2
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    4,
+                    7
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    4,
+                    0
+                  ],
+                  "uv_size": [
+                    4,
+                    7
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    0,
+                    7
+                  ],
+                  "uv_size": [
+                    4,
+                    7
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    4,
+                    7
+                  ],
+                  "uv_size": [
+                    4,
+                    7
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    8,
+                    0
+                  ],
+                  "uv_size": [
+                    4,
+                    4
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    8,
+                    8
+                  ],
+                  "uv_size": [
+                    4,
+                    -4
+                  ]
+                }
+              }
+            },
+            {
+              "origin": [
+                -0.2,
+                -0.1,
+                -4.6
+              ],
+              "size": [
+                4.2,
+                3.1,
+                2.5
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    8,
+                    8
+                  ],
+                  "uv_size": [
+                    4,
+                    3
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    12,
+                    6
+                  ],
+                  "uv_size": [
+                    3,
+                    3
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    8,
+                    11
+                  ],
+                  "uv_size": [
+                    4,
+                    3
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    12,
+                    9
+                  ],
+                  "uv_size": [
+                    3,
+                    3
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    12,
+                    0
+                  ],
+                  "uv_size": [
+                    4,
+                    3
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    12,
+                    6
+                  ],
+                  "uv_size": [
+                    4,
+                    -3
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "underwaterboots_right",
+          "parent": "anchor_rightleg",
+          "pivot": [
+            0.05,
+            2.325,
+            -1.675
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -4,
+                -0.1,
+                -4.6
+              ],
+              "size": [
+                4.2,
+                3.1,
+                2.5
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    12,
+                    8
+                  ],
+                  "uv_size": [
+                    -4,
+                    3
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    15,
+                    9
+                  ],
+                  "uv_size": [
+                    -3,
+                    3
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    12,
+                    11
+                  ],
+                  "uv_size": [
+                    -4,
+                    3
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    15,
+                    6
+                  ],
+                  "uv_size": [
+                    -3,
+                    3
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    16,
+                    0
+                  ],
+                  "uv_size": [
+                    -4,
+                    3
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    16,
+                    6
+                  ],
+                  "uv_size": [
+                    -4,
+                    -3
+                  ]
+                }
+              }
+            },
+            {
+              "origin": [
+                -4,
+                -0.1,
+                -2.1
+              ],
+              "size": [
+                4.2,
+                6.6,
+                4.2
+              ],
+              "uv": {
+                "north": {
+                  "uv": [
+                    4,
+                    0
+                  ],
+                  "uv_size": [
+                    -4,
+                    7
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    8,
+                    7
+                  ],
+                  "uv_size": [
+                    -4,
+                    7
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    4,
+                    7
+                  ],
+                  "uv_size": [
+                    -4,
+                    7
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    8,
+                    0
+                  ],
+                  "uv_size": [
+                    -4,
+                    7
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    12,
+                    0
+                  ],
+                  "uv_size": [
+                    -4,
+                    4
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    12,
+                    8
+                  ],
+                  "uv_size": [
+                    -4,
+                    -4
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

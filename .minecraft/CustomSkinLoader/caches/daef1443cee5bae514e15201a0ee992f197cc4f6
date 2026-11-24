@@ -1,0 +1,9 @@
+{
+  "id" : "9f7ca1e37eb24dc6a780f796aeb260cd",
+  "name" : "Lyzin_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNTMwODA2MiwKICAicHJvZmlsZUlkIiA6ICI5ZjdjYTFlMzdlYjI0ZGM2YTc4MGY3OTZhZWIyNjBjZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJMeXppbl8iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDg3OTUzZDBlMGExNmM3ZjBhNmVmNDRkMzZmNTMxYWEyMjAzYjE4ZjMxYmM4NGJlNTAzYjRiM2ExZGE4NzliNSIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

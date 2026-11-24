@@ -1,0 +1,9 @@
+{
+  "id" : "96cccb8be11c466b8dd951d90aea9452",
+  "name" : "FakeDMC",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTA3OTAxMDUxMiwKICAicHJvZmlsZUlkIiA6ICI5NmNjY2I4YmUxMWM0NjZiOGRkOTUxZDkwYWVhOTQ1MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJGYWtlRE1DIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMxZjQ3N2ViMWE3YmVlZTYzMWMyY2E2NGQwNmY4ZjY4ZmE5M2EzMzg2ZDA0NDUyYWIyN2Y0M2FjZGYxYjYwY2IiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

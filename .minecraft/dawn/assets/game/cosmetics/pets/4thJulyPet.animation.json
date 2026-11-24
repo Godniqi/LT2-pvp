@@ -1,0 +1,90 @@
+{
+	"format_version": "1.8.0",
+	"animations": {
+		"animation.4thJulyPet.idle": {
+			"loop": true,
+			"animation_length": 1,
+			"bones": {
+				"wing": {
+					"rotation": {
+						"vector": [
+							0,
+							0,
+							"math.sin(query.anim_time*360)*50"
+						]
+					}
+				},
+				"main": {
+					"rotation": {
+						"vector": [
+							"12.5-math.sin(q.anim_time*360)*3",
+							0,
+							0
+						]
+					},
+					"position": {
+						"vector": [
+							0,
+							"math.sin(q.anim_time*360+50)*-1",
+							0
+						]
+					}
+				},
+				"leg": {
+					"rotation": {
+						"vector": [
+							"20-math.sin(q.anim_time*360+100)*-3",
+							0,
+							0
+						]
+					}
+				},
+				"leg2": {
+					"rotation": {
+						"vector": [
+							"20-math.sin(q.anim_time*360+150)*-4",
+							0,
+							0
+						]
+					}
+				},
+				"wing_tip": {
+					"rotation": {
+						"vector": [
+							0,
+							"-math.sin(60-query.anim_time*360)*-30",
+							0
+						]
+					}
+				},
+				"head": {
+					"rotation": {
+						"vector": [
+							"-20-math.sin(40-q.anim_time*360)*2",
+							0,
+							0
+						]
+					}
+				},
+				"wing2": {
+					"rotation": {
+						"vector": [
+							0,
+							0,
+							"-math.sin(query.anim_time*360)*50"
+						]
+					}
+				},
+				"wing_tip2": {
+					"rotation": {
+						"vector": [
+							0,
+							"-math.sin(60-query.anim_time*360)*30",
+							0
+						]
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,209 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.natureBoots",
+        "texture_width": 16,
+        "texture_height": 16,
+        "visible_bounds_width": 2,
+        "visible_bounds_height": 1.5,
+        "visible_bounds_offset": [
+          0,
+          0.25,
+          0
+        ]
+      },
+      "bones": [
+        {
+          "name": "anchor_leftleg",
+          "pivot": [
+            1.9,
+            12,
+            0
+          ]
+        },
+        {
+          "name": "anchor_rightleg",
+          "pivot": [
+            -1.9,
+            12,
+            0
+          ]
+        },
+        {
+          "name": "boots_left",
+          "parent": "anchor_leftleg",
+          "pivot": [
+            -0.1,
+            2.5,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -0.1,
+                0,
+                -2
+              ],
+              "size": [
+                4,
+                5,
+                4
+              ],
+              "inflate": 0.3,
+              "uv": {
+                "north": {
+                  "uv": [
+                    8,
+                    0
+                  ],
+                  "uv_size": [
+                    4,
+                    5
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    8,
+                    5
+                  ],
+                  "uv_size": [
+                    4,
+                    5
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    0,
+                    10
+                  ],
+                  "uv_size": [
+                    4,
+                    5
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    4,
+                    10
+                  ],
+                  "uv_size": [
+                    4,
+                    5
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    12,
+                    4
+                  ],
+                  "uv_size": [
+                    4,
+                    4
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    12,
+                    12
+                  ],
+                  "uv_size": [
+                    4,
+                    -4
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "boots_right",
+          "parent": "anchor_rightleg",
+          "pivot": [
+            0.1,
+            2.5,
+            0
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -3.9,
+                0,
+                -2
+              ],
+              "size": [
+                4,
+                5,
+                4
+              ],
+              "inflate": 0.3,
+              "uv": {
+                "north": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    4,
+                    5
+                  ]
+                },
+                "east": {
+                  "uv": [
+                    4,
+                    0
+                  ],
+                  "uv_size": [
+                    4,
+                    5
+                  ]
+                },
+                "south": {
+                  "uv": [
+                    0,
+                    5
+                  ],
+                  "uv_size": [
+                    4,
+                    5
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    4,
+                    5
+                  ],
+                  "uv_size": [
+                    4,
+                    5
+                  ]
+                },
+                "up": {
+                  "uv": [
+                    8,
+                    10
+                  ],
+                  "uv_size": [
+                    4,
+                    4
+                  ]
+                },
+                "down": {
+                  "uv": [
+                    12,
+                    4
+                  ],
+                  "uv_size": [
+                    4,
+                    -4
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

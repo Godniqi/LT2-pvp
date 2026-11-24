@@ -1,0 +1,9 @@
+{
+  "id" : "75f533bc72e744e1aeeba8a83be1cafc",
+  "name" : "BroJojo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI1NDY3NjIwNiwKICAicHJvZmlsZUlkIiA6ICI3NWY1MzNiYzcyZTc0NGUxYWVlYmE4YTgzYmUxY2FmYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcm9Kb2pvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1YzJmZDE4YzBiNDRlZTY2ZTUzNGQ1NjgwZTMyMTg3MTRkOTRmZTI1ZDgyMjRmMjFiMmQwNzU1MDFlZjRjNDgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

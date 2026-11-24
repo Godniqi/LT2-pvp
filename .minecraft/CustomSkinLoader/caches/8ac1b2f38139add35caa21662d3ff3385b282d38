@@ -1,0 +1,9 @@
+{
+  "id" : "56efcdddc66d4b209f771d21832729d2",
+  "name" : "Jz_8",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTQ3NTg5OSwKICAicHJvZmlsZUlkIiA6ICI1NmVmY2RkZGM2NmQ0YjIwOWY3NzFkMjE4MzI3MjlkMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKel84IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMxZjQ3N2ViMWE3YmVlZTYzMWMyY2E2NGQwNmY4ZjY4ZmE5M2EzMzg2ZDA0NDUyYWIyN2Y0M2FjZGYxYjYwY2IiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "10a027cc8f8f4ad48478c895ffb230d5",
+  "name" : "TheoBaldTheBird2",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjQxMDIxNCwKICAicHJvZmlsZUlkIiA6ICIxMGEwMjdjYzhmOGY0YWQ0ODQ3OGM4OTVmZmIyMzBkNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVvQmFsZFRoZUJpcmQyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y4YjYxZTA1ZDVhY2IwYTM3ODIzOWVjMjY0Yzg0MjMxM2Q4ZjAzYjY1YTdmZmEyMTRkZmY0NTZlNjc2MTFjZDciCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

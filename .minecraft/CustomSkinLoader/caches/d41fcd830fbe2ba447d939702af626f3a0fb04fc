@@ -1,0 +1,9 @@
+{
+  "id" : "d7ff2b1889364ecd923d611c2995e343",
+  "name" : "CaptainMelee",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjk5OTk4OTA0NywKICAicHJvZmlsZUlkIiA6ICJkN2ZmMmIxODg5MzY0ZWNkOTIzZDYxMWMyOTk1ZTM0MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXB0YWluTWVsZWUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjBiZGI2ZTIzMGUxYTZmNzIxYjAxMGUxOTJjMTg5Y2FlN2UzMmY4MWNkZjYyZWNhY2VhYTQ2Mzc1OTE5MjM0MSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

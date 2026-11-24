@@ -1,0 +1,9 @@
+{
+  "id" : "61ff8d683b304cae9e0a265516c410a6",
+  "name" : "WhiteBoi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTUxODI5NDIxMCwKICAicHJvZmlsZUlkIiA6ICI2MWZmOGQ2ODNiMzA0Y2FlOWUwYTI2NTUxNmM0MTBhNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJXaGl0ZUJvaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82MTIxNjZlYjMxNmI5NDhhZWQ4MGRmMjM2OTg3NWZkN2ExNzkxNTUzN2Q4M2ZlNWE3NDE5ODc3OGEwNzk0Mzk2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

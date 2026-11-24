@@ -1,0 +1,9 @@
+{
+  "id" : "5e965dbb723242c3a420fda0f5e5b8b2",
+  "name" : "BURATCHI",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzA4MTg1NDA3MywKICAicHJvZmlsZUlkIiA6ICI1ZTk2NWRiYjcyMzI0MmMzYTQyMGZkYTBmNWU1YjhiMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCVVJBVENISSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYzZiNzcyMjdlNDAzZWM0ZmNkOTVlYjJkNzBlYjY0NTBjNDQ1OGU2NmZiYzVkNzk2NTM0M2U3MTkzMWI0OWYwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

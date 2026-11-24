@@ -1,0 +1,9 @@
+{
+  "id" : "7812cdbc283647998699569225a6874d",
+  "name" : "PhantomForgeMC",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTA3ODk2NTk5OSwKICAicHJvZmlsZUlkIiA6ICI3ODEyY2RiYzI4MzY0Nzk5ODY5OTU2OTIyNWE2ODc0ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQaGFudG9tRm9yZ2VNQyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZGQ0M2MxZDEzYWVkNGRjNDZmMGYxMjQzYzIxMGZlNjVhZjBjMTY5MjE3MTJkZDZmNzEyMWJkMTY0Zjg2MTQ5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

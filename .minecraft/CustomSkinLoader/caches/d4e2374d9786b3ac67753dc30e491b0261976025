@@ -1,0 +1,9 @@
+{
+  "id" : "29bb08e6f1db432eb0a7873d7669c875",
+  "name" : "Awoiken",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk3MDQxODMyOCwKICAicHJvZmlsZUlkIiA6ICIyOWJiMDhlNmYxZGI0MzJlYjBhNzg3M2Q3NjY5Yzg3NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBd29pa2VuIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRiOTdmYTFkZmE5YzBjNTJjNmI4YzlmNjM1Yzg3OTllMmZkNjI5MWYxYTE4YjEyYzVhNDg2M2U1ZjhjMTNjMjkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

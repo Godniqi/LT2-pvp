@@ -1,0 +1,9 @@
+{
+  "id" : "5799abaf5acd4decaccb46dce6881849",
+  "name" : "MUKid",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjM5NzM4MywKICAicHJvZmlsZUlkIiA6ICI1Nzk5YWJhZjVhY2Q0ZGVjYWNjYjQ2ZGNlNjg4MTg0OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNVUtpZCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNWNkYzMyNDNiMjE1M2FiMjhhMTU5ODYxYmU2NDNhNGZjMWUzYzE3ZDI5MWNkZDNlNTdhN2YzNzBhZDY3NmYzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

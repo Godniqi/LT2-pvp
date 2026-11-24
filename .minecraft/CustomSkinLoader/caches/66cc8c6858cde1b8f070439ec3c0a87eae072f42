@@ -1,0 +1,9 @@
+{
+  "id" : "ff1e5933a61842948863d1271d4bb3ea",
+  "name" : "Medker",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjI4MzU3NDI3NiwKICAicHJvZmlsZUlkIiA6ICJmZjFlNTkzM2E2MTg0Mjk0ODg2M2QxMjcxZDRiYjNlYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZWRrZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTVjZTNkY2ZhNTkyYjAzZWM2NTMwMjNlOTdhNDc0ZTY0NWM5YzQ1ODA0Y2FiMjYzYzRhMmFiNTE2NzhjNzBjMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

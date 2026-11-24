@@ -1,0 +1,9 @@
+{
+  "id" : "2370d885aafd4bcca758f356b2a98b0d",
+  "name" : "Ocian_s",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzEwNDczNCwKICAicHJvZmlsZUlkIiA6ICIyMzcwZDg4NWFhZmQ0YmNjYTc1OGYzNTZiMmE5OGIwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPY2lhbl9zIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRjZjEwNjViMTBhM2M3MzU5OTIxMzA2OGMxZDhhZjMwNzc0ZTU0ZmEyYzc3OGRjMTYwMWQ1ZTZlZWViNDc0NmMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "341fa4c0a83140e49add90ecb77449d1",
+  "name" : "Slushly_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA1ODMxNDcyNSwKICAicHJvZmlsZUlkIiA6ICIzNDFmYTRjMGE4MzE0MGU0OWFkZDkwZWNiNzc0NDlkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbHVzaGx5XyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZDFiYTAyY2M4Yjc0MzVjYjRkNTUwMGNhNDFmMDFmMGI1YjhjMDgzNWRlMTEwMDkwZmNhYzQ5YTRiODFlZGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

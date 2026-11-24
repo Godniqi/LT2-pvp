@@ -1,0 +1,9 @@
+{
+  "id" : "938da3a5c23d4e5193207ef62f6094da",
+  "name" : "IamKor3759",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTYwMDkyMywKICAicHJvZmlsZUlkIiA6ICI5MzhkYTNhNWMyM2Q0ZTUxOTMyMDdlZjYyZjYwOTRkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJYW1Lb3IzNzU5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzVjYzMyMGNlNzkxMWMwZWQzZWFjMGE4MjZlMDdhYTIwZDg5YTY4OWYwNjY2ODdhMzA3M2VlZThhZWUzZDNiMDkiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

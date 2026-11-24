@@ -1,0 +1,9 @@
+{
+  "id" : "ef9f5f3c93ed4c149d8ed4e424319ffa",
+  "name" : "FIED_XD",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTE5MjMwMSwKICAicHJvZmlsZUlkIiA6ICJlZjlmNWYzYzkzZWQ0YzE0OWQ4ZWQ0ZTQyNDMxOWZmYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGSUVEX1hEIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YxYjllOTYxZTJiMjVjMGQ3Mjk1NWE2ZDNiOGJkNzhjMjgzYmVkNzE5YWQ0OTVhNDgyYTE5YWRiNzAwZGIwNmUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

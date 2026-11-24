@@ -1,0 +1,9 @@
+{
+  "id" : "be7b1a8c7f9d4605adde603c5335bf8c",
+  "name" : "hugie_kwn",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNjU5ODIzOSwKICAicHJvZmlsZUlkIiA6ICJiZTdiMWE4YzdmOWQ0NjA1YWRkZTYwM2M1MzM1YmY4YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJodWdpZV9rd24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM2NzE4ZTFjMmM5ZmU4MTIwYTZkNjk4ZTJmZDg0NWIwMzMzOWNjNGExNzQwMjkzMjdhYTYzZjkyMjU1MTcwYSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

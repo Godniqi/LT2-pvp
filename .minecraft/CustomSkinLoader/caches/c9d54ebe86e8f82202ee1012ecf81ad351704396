@@ -1,0 +1,9 @@
+{
+  "id" : "73413ee9e37740259d008fe37a15b301",
+  "name" : "CapX",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTUxODM2NTkzNCwKICAicHJvZmlsZUlkIiA6ICI3MzQxM2VlOWUzNzc0MDI1OWQwMDhmZTM3YTE1YjMwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDYXBYIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyZWE4NDBlNzk1YmNlNWY2YTRlN2Y2ODMzZGZmNTk3ODRiMWM5MWExMzVmMmMxNzY0NGZlOGVkY2RlOWMyYzgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

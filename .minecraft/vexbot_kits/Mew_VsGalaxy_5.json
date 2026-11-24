@@ -1,0 +1,323 @@
+{
+  "0": {
+    "id": "minecraft:netherite_sword",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:unbreaking": 3,
+        "minecraft:sharpness": 5,
+        "minecraft:knockback": 1,
+        "minecraft:fire_aspect": 2,
+        "minecraft:sweeping_edge": 3,
+        "minecraft:looting": 3,
+        "minecraft:mending": 1
+      }
+    }
+  },
+  "1": {
+    "id": "minecraft:obsidian",
+    "count": 64
+  },
+  "2": {
+    "id": "minecraft:wind_charge",
+    "count": 60
+  },
+  "3": {
+    "id": "minecraft:golden_apple",
+    "count": 54
+  },
+  "4": {
+    "id": "minecraft:black_bundle",
+    "count": 1,
+    "components": {
+      "minecraft:custom_data": {
+        "index": 1
+      },
+      "minecraft:custom_name": {
+        "text": "ɪɴᴅᴇx",
+        "color": "gold",
+        "italic": false
+      }
+    }
+  },
+  "5": {
+    "id": "minecraft:mace",
+    "count": 1,
+    "components": {
+      "minecraft:damage": 5,
+      "minecraft:enchantments": {
+        "minecraft:density": 5,
+        "minecraft:unbreaking": 3,
+        "minecraft:wind_burst": 2,
+        "minecraft:mending": 1
+      },
+      "minecraft:repair_cost": 1
+    }
+  },
+  "6": {
+    "id": "minecraft:netherite_axe",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:silk_touch": 1,
+        "minecraft:unbreaking": 3,
+        "minecraft:efficiency": 5,
+        "minecraft:sharpness": 5,
+        "minecraft:mending": 1
+      }
+    }
+  },
+  "7": {
+    "id": "minecraft:water_bucket",
+    "count": 1
+  },
+  "8": {
+    "id": "minecraft:netherite_spear",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:lunge": 3,
+        "minecraft:unbreaking": 3,
+        "minecraft:sharpness": 5,
+        "minecraft:looting": 3,
+        "minecraft:mending": 1
+      }
+    }
+  },
+  "9": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_fire_resistance"
+      }
+    }
+  },
+  "10": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_fire_resistance"
+      }
+    }
+  },
+  "11": {
+    "id": "minecraft:ender_pearl",
+    "count": 6
+  },
+  "12": {
+    "id": "minecraft:bucket",
+    "count": 1
+  },
+  "13": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_swiftness"
+      }
+    }
+  },
+  "14": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:strong_turtle_master"
+      }
+    }
+  },
+  "16": {
+    "id": "minecraft:oak_log",
+    "count": 64
+  },
+  "17": {
+    "id": "minecraft:experience_bottle",
+    "count": 64
+  },
+  "18": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_strength"
+      }
+    }
+  },
+  "19": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_strength"
+      }
+    }
+  },
+  "23": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  },
+  "24": {
+    "id": "minecraft:golden_apple",
+    "count": 55
+  },
+  "25": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  },
+  "26": {
+    "id": "minecraft:experience_bottle",
+    "count": 64
+  },
+  "27": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_swiftness"
+      }
+    }
+  },
+  "28": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_swiftness"
+      }
+    }
+  },
+  "30": {
+    "id": "minecraft:golden_carrot",
+    "count": 64
+  },
+  "31": {
+    "id": "minecraft:ender_pearl",
+    "count": 16
+  },
+  "32": {
+    "id": "minecraft:breeze_rod",
+    "count": 64
+  },
+  "33": {
+    "id": "minecraft:netherite_pickaxe",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:unbreaking": 3,
+        "minecraft:efficiency": 5,
+        "minecraft:silk_touch": 1,
+        "minecraft:mending": 1
+      }
+    }
+  },
+  "34": {
+    "id": "minecraft:water_bucket",
+    "count": 1
+  },
+  "35": {
+    "id": "minecraft:experience_bottle",
+    "count": 64
+  },
+  "36": {
+    "id": "minecraft:netherite_boots",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:depth_strider": 3,
+        "minecraft:protection": 4,
+        "minecraft:soul_speed": 3,
+        "minecraft:unbreaking": 3,
+        "minecraft:feather_falling": 4,
+        "minecraft:mending": 1
+      },
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:wayfinder"
+      }
+    }
+  },
+  "37": {
+    "id": "minecraft:netherite_leggings",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:swift_sneak": 3,
+        "minecraft:protection": 4,
+        "minecraft:unbreaking": 3,
+        "minecraft:mending": 1
+      },
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:tide"
+      }
+    }
+  },
+  "38": {
+    "id": "minecraft:netherite_chestplate",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:unbreaking": 3,
+        "minecraft:protection": 4,
+        "minecraft:mending": 1
+      }
+    }
+  },
+  "39": {
+    "id": "minecraft:netherite_helmet",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:aqua_affinity": 1,
+        "minecraft:protection": 4,
+        "minecraft:unbreaking": 3,
+        "minecraft:respiration": 3,
+        "minecraft:mending": 1
+      },
+      "minecraft:trim": {
+        "material": "minecraft:gold",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "40": {
+    "id": "minecraft:shield",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:unbreaking": 3,
+        "minecraft:mending": 1
+      },
+      "minecraft:banner_patterns": [
+        {
+          "pattern": "minecraft:small_stripes",
+          "color": "black"
+        },
+        {
+          "pattern": "minecraft:stripe_right",
+          "color": "yellow"
+        },
+        {
+          "pattern": "minecraft:stripe_top",
+          "color": "white"
+        },
+        {
+          "pattern": "minecraft:stripe_bottom",
+          "color": "light_blue"
+        },
+        {
+          "pattern": "minecraft:border",
+          "color": "light_blue"
+        },
+        {
+          "pattern": "minecraft:triangles_top",
+          "color": "light_blue"
+        }
+      ],
+      "minecraft:base_color": "yellow"
+    }
+  },
+  "ender": {}
+}

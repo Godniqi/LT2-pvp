@@ -1,0 +1,9 @@
+{
+  "id" : "2415b7c7370f41fcba201454a95965fd",
+  "name" : "CubeTech",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA0MDQ0NjI0OSwKICAicHJvZmlsZUlkIiA6ICIyNDE1YjdjNzM3MGY0MWZjYmEyMDE0NTRhOTU5NjVmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDdWJlVGVjaCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NzBlMzk0ODUxNjYwZGEwYTNlMDFkZGVkOTU4MGJlMWRiOTExY2Q2NjIxNzhiM2MwZTE2MDgxZjFjNGQ4N2MwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

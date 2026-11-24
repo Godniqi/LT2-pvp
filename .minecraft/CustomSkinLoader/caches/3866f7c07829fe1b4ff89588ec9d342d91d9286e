@@ -1,0 +1,9 @@
+{
+  "id" : "70d81dd777c1429cb1df060ee29414fe",
+  "name" : "Renejay",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODQwMDE3OTIzNCwKICAicHJvZmlsZUlkIiA6ICI3MGQ4MWRkNzc3YzE0MjljYjFkZjA2MGVlMjk0MTRmZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZW5lamF5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3NGE5NjY3NmVhZGFlZjAyZTBkZjhlNmU1MzViMTNlNzQyOTU0N2VhZWYzMzgyNTNjNTI5NjgyN2YxYmE3MmEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

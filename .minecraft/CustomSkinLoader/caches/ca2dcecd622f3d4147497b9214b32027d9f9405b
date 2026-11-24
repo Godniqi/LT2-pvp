@@ -1,0 +1,9 @@
+{
+  "id" : "f73d94417df34be9b83be8dec5458f68",
+  "name" : "KidNamedFinger",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA0MDQxMzg2MCwKICAicHJvZmlsZUlkIiA6ICJmNzNkOTQ0MTdkZjM0YmU5YjgzYmU4ZGVjNTQ1OGY2OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJLaWROYW1lZEZpbmdlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NzM3Y2NiYzY2YTNjY2U1YjE0NWFiY2Y0M2FiYjMwNjNjMTI0MjUwOTA2NWYxYmVlYWM5YWRhOGM3MWQwOTc5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

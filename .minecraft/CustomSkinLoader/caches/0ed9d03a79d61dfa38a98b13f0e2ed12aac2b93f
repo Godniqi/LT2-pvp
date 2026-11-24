@@ -1,0 +1,9 @@
+{
+  "id" : "859f69461420420da02cf2c2168ea3db",
+  "name" : "Bumble1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzMyODkzNjU2MiwKICAicHJvZmlsZUlkIiA6ICI4NTlmNjk0NjE0MjA0MjBkYTAyY2YyYzIxNjhlYTNkYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCdW1ibGUxIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2ZlY2U3MDE3YjFiYjEzOTI2ZDExNTg4NjRiMjgzYjhiOTMwMjcxZjgwYTkwNDgyZjE3NGNjYTZhMTdlODgyMzYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

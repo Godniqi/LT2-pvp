@@ -1,0 +1,9 @@
+{
+  "id" : "2e4ac77862f54867b89b1742fdfbc1f3",
+  "name" : "Senpailime",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTcyNTkzMCwKICAicHJvZmlsZUlkIiA6ICIyZTRhYzc3ODYyZjU0ODY3Yjg5YjE3NDJmZGZiYzFmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZW5wYWlsaW1lIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc5OTEzYTRmMjlmYTY0ZWRlMDIyMTVkMjM5YjBmMDEyM2Q5ODBmNmJiMDg0NjQ5ODVmNDkyYmQxNTA5ZTVjODMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

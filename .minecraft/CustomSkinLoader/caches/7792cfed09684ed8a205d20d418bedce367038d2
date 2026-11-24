@@ -1,0 +1,9 @@
+{
+  "id" : "bebc859dea7f4828967e22d37fd35dea",
+  "name" : "frqsted",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDkwNjMwNTg1NCwKICAicHJvZmlsZUlkIiA6ICJiZWJjODU5ZGVhN2Y0ODI4OTY3ZTIyZDM3ZmQzNWRlYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJmcnFzdGVkIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI5MDMyZmZmZjhkOTFjODM0NTIxNGIxYWI5OTg0MTg1Nzk1ZDczZjY2ZmU3NTcwNzI5NzNiZTUxMjVhNDgyMTAiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "4176f571cc6a4190a27ec31cb230b23e",
+  "name" : "N300000",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY1Nzc4Mzc2MCwKICAicHJvZmlsZUlkIiA6ICI0MTc2ZjU3MWNjNmE0MTkwYTI3ZWMzMWNiMjMwYjIzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOMzAwMDAwIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2VlNzVkMzZmZDdlOGIyMDE0YjFmOGViZTdkZTk4ZjU4YzFhNmYyNzJiZTlmYjgyZDIwZDNjNGRlYzMxYWIxYzQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

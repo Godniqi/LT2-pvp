@@ -1,0 +1,9 @@
+{
+  "id" : "4fd6ac112fc1448d9a84ca5b24d9d297",
+  "name" : "LowTierFive",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTA4MDMxMjU3MiwKICAicHJvZmlsZUlkIiA6ICI0ZmQ2YWMxMTJmYzE0NDhkOWE4NGNhNWIyNGQ5ZDI5NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMb3dUaWVyRml2ZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83NmNkNWNkNmI3Mzk1YjRhNTU2ZTUyMzIyYTk1ZTg5MjYwZDcyZjRiMjkxMzcxMmM4OGRhNDkxOWRjYjllYzZiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

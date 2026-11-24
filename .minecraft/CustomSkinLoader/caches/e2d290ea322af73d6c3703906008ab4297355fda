@@ -1,0 +1,9 @@
+{
+  "id" : "f901f4070bf14733ab02f405dbaa4cf3",
+  "name" : "Snawss",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA0MDM4ODU4NiwKICAicHJvZmlsZUlkIiA6ICJmOTAxZjQwNzBiZjE0NzMzYWIwMmY0MDVkYmFhNGNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbmF3c3MiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWZkMzUwOGRjZjE1MjE5MzQ0YTNhMTExNWM1Y2UyZmY1OWJiNTI1YWMwMzVhNTIxYzhhNTYwYjkwZDdjNTBiMyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "4b35f40459c4471bb0ac1ffe23bf2ce4",
+  "name" : "nocries",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDM5MDE1ODM4MywKICAicHJvZmlsZUlkIiA6ICI0YjM1ZjQwNDU5YzQ0NzFiYjBhYzFmZmUyM2JmMmNlNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJub2NyaWVzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RlNThkMGNhNWE0NTNlNWE2ZjdlODZiYmJjNTY4ZGZjMGRmNzk3YTc0ZjBjOTgxZDkxNDQ3ODg4ZDFiZjVkNWUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

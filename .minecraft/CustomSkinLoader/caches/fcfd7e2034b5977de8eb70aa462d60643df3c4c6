@@ -1,0 +1,9 @@
+{
+  "id" : "3ece4150758a4e5cbd697bef7e3f949c",
+  "name" : "A_DEMONSLAYER",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTQ2MjgxNywKICAicHJvZmlsZUlkIiA6ICIzZWNlNDE1MDc1OGE0ZTVjYmQ2OTdiZWY3ZTNmOTQ5YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJBX0RFTU9OU0xBWUVSIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk4YjI0Mzc2NmM5OTg1ZGE5ZGJjYjhjZDY2MDM4MWU4YzgxMDA2NTNiNTk5Njc4NjdlNzFmNmYwYzM0MzJhODUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

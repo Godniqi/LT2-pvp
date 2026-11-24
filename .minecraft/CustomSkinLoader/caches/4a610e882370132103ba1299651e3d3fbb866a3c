@@ -1,0 +1,9 @@
+{
+  "id" : "ddb4c3706d4e4e8588ba26279aa15666",
+  "name" : "DarkKnightAragon",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjg5MTY3MzIyOCwKICAicHJvZmlsZUlkIiA6ICJkZGI0YzM3MDZkNGU0ZTg1ODhiYTI2Mjc5YWExNTY2NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYXJrS25pZ2h0QXJhZ29uIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2UyZGUxZGJlMTJlNDM1MDFkY2ZmNzk3YWFiMzc1NDAwNjU2N2QxMTFkOTFjODUyMzZjNmU4N2U4ZDlkMGEyMCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

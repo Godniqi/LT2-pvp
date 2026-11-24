@@ -1,0 +1,9 @@
+{
+  "id" : "c2996d6b54f34782bd83b18c82383cc1",
+  "name" : "Rewardz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTM0ODIwNjk4MCwKICAicHJvZmlsZUlkIiA6ICJjMjk5NmQ2YjU0ZjM0NzgyYmQ4M2IxOGM4MjM4M2NjMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZXdhcmR6IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY2OTQwYzM4MDZkODkzZjNmMDRjMzhhZDJjZWNhNWVjYzgyZWFkNTg5NjBlYjY4ZTI3OTc4NTM2MDQyNTJmZDciCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

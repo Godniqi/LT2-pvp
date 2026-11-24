@@ -1,0 +1,18 @@
+filename = 'vexbot-2.2.24+mc1.21.11.jar'
+name = 'VexBot'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '2.2.24+mc1.21.11'
+
+[download]
+hash = '6c1ca77a6a0b6167658f546f46ea404292f93939aa1594aec7f3e7cd0a5befd78e7dd8c878b395804d60ac6287a5bdcb817b1ff469305403950bfb87639d8e71'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EPgNYyCG/versions/QcTtoBs3/vexbot-2.2.24%2Bmc1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'EPgNYyCG'
+version = 'QcTtoBs3'

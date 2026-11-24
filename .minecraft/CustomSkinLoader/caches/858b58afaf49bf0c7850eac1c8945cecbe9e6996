@@ -1,0 +1,9 @@
+{
+  "id" : "8975a0604719471987bc94b15993b532",
+  "name" : "KlyroMC",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMTQ1MzA4NywKICAicHJvZmlsZUlkIiA6ICI4OTc1YTA2MDQ3MTk0NzE5ODdiYzk0YjE1OTkzYjUzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLbHlyb01DIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I5NTkzOWU1NWFhOTNjNGFlNDRjNGU2MzExNzRlNzY2NDc5MmQzNTRmZTE3MTk5NTYyNzIxM2FlZGNjYTBmYTMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

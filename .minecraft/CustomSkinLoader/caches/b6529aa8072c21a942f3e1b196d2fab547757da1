@@ -1,0 +1,9 @@
+{
+  "id" : "1c935e11799547deb8e36eed4f38ca5f",
+  "name" : "DeRiM",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTI5NjYxNCwKICAicHJvZmlsZUlkIiA6ICIxYzkzNWUxMTc5OTU0N2RlYjhlMzZlZWQ0ZjM4Y2E1ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZVJpTSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YzE2MGZiZDE2YWRiYzRiZmYyNDA5ZTcwMTgwZDkxMTAwMmFlYmNmYTgxMWViNmVjM2QxMDQwNzYxYWVhNmRkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

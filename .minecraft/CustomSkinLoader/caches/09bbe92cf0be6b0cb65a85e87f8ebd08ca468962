@@ -1,0 +1,9 @@
+{
+  "id" : "ef694f3e2de3460d8ece7d135b037b5b",
+  "name" : "Chikk",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDIxNTQyMDE0MywKICAicHJvZmlsZUlkIiA6ICJlZjY5NGYzZTJkZTM0NjBkOGVjZTdkMTM1YjAzN2I1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaGlrayIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82NTExMDhiMWM0NzJiYTI2YjkxZWI5YTJlZDNjNWY5YjIwOTk5OGRhZjlkZDc3NzMzNzJiYTRhMGQ1Y2QyMTJiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

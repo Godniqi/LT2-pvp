@@ -1,0 +1,9 @@
+{
+  "id" : "51c1e829f7364113b5e85419535031da",
+  "name" : "wemmbus",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTI4NTEzNCwKICAicHJvZmlsZUlkIiA6ICI1MWMxZTgyOWY3MzY0MTEzYjVlODU0MTk1MzUwMzFkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3ZW1tYnVzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0MmNkZTJkNDRhZTQ5ZDA1NDNhM2M0MzI4MDRhODEwODExOWY2ZmQ4OTU1ZDAzYWM0YmQyM2VmNmRhOGRiOWIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

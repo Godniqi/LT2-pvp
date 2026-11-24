@@ -1,0 +1,9 @@
+{
+  "id" : "972a269876bb42578d1c20c180bd551c",
+  "name" : "waaduu",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MTk2NDM3MywKICAicHJvZmlsZUlkIiA6ICI5NzJhMjY5ODc2YmI0MjU3OGQxYzIwYzE4MGJkNTUxYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3YWFkdXUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTU5YjkwMTY3OTg1ODA1MThhODc1OGI2MjMyMzAwZDEyMzhkMGJkMWE0ODc5MjUyYTQ1YjA1NjA1YTQ0MDAwNCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

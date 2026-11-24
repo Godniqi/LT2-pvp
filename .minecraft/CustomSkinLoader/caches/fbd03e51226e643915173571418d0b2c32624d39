@@ -1,0 +1,9 @@
+{
+  "id" : "05beb7c56a7e4d75842d2d20adb6e51c",
+  "name" : "cococo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NjEzMDc0OSwKICAicHJvZmlsZUlkIiA6ICIwNWJlYjdjNTZhN2U0ZDc1ODQyZDJkMjBhZGI2ZTUxYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJjb2NvY28iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTVjZGMzMjQzYjIxNTNhYjI4YTE1OTg2MWJlNjQzYTRmYzFlM2MxN2QyOTFjZGQzZTU3YTdmMzcwYWQ2NzZmMyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

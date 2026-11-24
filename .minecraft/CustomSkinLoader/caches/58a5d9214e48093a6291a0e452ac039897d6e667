@@ -1,0 +1,9 @@
+{
+  "id" : "171a84d2742c4c75b42c16101595ee16",
+  "name" : "DigKid",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODc1MTkxMDc0MywKICAicHJvZmlsZUlkIiA6ICIxNzFhODRkMjc0MmM0Yzc1YjQyYzE2MTAxNTk1ZWUxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaWdLaWQiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmMxNjBmYmQxNmFkYmM0YmZmMjQwOWU3MDE4MGQ5MTEwMDJhZWJjZmE4MTFlYjZlYzNkMTA0MDc2MWFlYTZkZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

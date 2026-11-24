@@ -1,0 +1,9 @@
+{
+  "id" : "bd42ccea5d0e4dc4ba870c723b562b5b",
+  "name" : "SwordPvPBot",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUwOTg3NzI1OSwKICAicHJvZmlsZUlkIiA6ICJiZDQyY2NlYTVkMGU0ZGM0YmE4NzBjNzIzYjU2MmI1YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTd29yZFB2UEJvdCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZmNmY2Q5ZmEyYWYxZTNiMTA4ZmY0NWMyNWZhNDk5MDk4NjVlYzc5ZTgwMDMxYTAyM2M2MzgyNTYyZjI4ZTI5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

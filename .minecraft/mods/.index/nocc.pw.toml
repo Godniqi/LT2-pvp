@@ -1,0 +1,21 @@
+filename = 'NoCC-1.1.0.jar'
+name = 'No Command Confirm'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.0'
+
+[download]
+hash = 'a4eff482a7557103d7064a6b1c4d95af519e66f6521131d9c6a671bc650d0119aa65a2f84390fc16ef278d2f638bff7c6e77320ed4995920dd9eb6f43e8f7d68'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/cygPPnN1/versions/A4qd4OeA/NoCC-1.1.0.jar'
+
+[update.modrinth]
+mod-id = 'cygPPnN1'
+version = 'A4qd4OeA'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

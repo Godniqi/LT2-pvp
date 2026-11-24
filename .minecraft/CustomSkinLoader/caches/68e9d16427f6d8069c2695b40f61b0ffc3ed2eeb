@@ -1,0 +1,9 @@
+{
+  "id" : "6be84ecb33034b16adc1861b7f4adcc1",
+  "name" : "CliffyT",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTgzNjEyMywKICAicHJvZmlsZUlkIiA6ICI2YmU4NGVjYjMzMDM0YjE2YWRjMTg2MWI3ZjRhZGNjMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbGlmZnlUIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZjMTYwZmJkMTZhZGJjNGJmZjI0MDllNzAxODBkOTExMDAyYWViY2ZhODExZWI2ZWMzZDEwNDA3NjFhZWE2ZGQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

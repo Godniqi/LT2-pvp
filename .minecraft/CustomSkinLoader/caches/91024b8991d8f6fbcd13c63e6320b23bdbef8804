@@ -1,0 +1,9 @@
+{
+  "id" : "dbccc07830d4406eabeb8c9dc15d5d4f",
+  "name" : "Kriptic_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDM5MDE3NjAwMSwKICAicHJvZmlsZUlkIiA6ICJkYmNjYzA3ODMwZDQ0MDZlYWJlYjhjOWRjMTVkNWQ0ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLcmlwdGljXyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mN2VhYTJlYzZiNzY0NGNmMTMyZDhjZWFhZTBkOWU4ZjA4YWE2YjliNDZiNzc2ZDNjZWFmODhiMjViNDlhNWI1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

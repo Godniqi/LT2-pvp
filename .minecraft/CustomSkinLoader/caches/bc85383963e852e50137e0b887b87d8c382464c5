@@ -1,0 +1,9 @@
+{
+  "id" : "2b869f70e2b0456783df220b0f9c7fb8",
+  "name" : "Ddun",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MjkwMjMyMiwKICAicHJvZmlsZUlkIiA6ICIyYjg2OWY3MGUyYjA0NTY3ODNkZjIyMGIwZjljN2ZiOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEZHVuIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I1MTc3MjkxMWI0YjJkZjA4MGI5NGQzZDQ4NjA3MjFiYjAxZTBjOWM5NmI0Nzk2NGU5NDQ5YmM3YTVmYzczZTMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

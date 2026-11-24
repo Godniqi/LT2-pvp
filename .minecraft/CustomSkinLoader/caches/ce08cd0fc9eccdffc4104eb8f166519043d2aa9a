@@ -1,0 +1,9 @@
+{
+  "id" : "e188200fbdff499f82d7afa5a68938b3",
+  "name" : "Mamushi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzE0MDY5MzE4NiwKICAicHJvZmlsZUlkIiA6ICJlMTg4MjAwZmJkZmY0OTlmODJkN2FmYTVhNjg5MzhiMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYW11c2hpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FjNzBhOGJlNTUzNzg1MGUyNmZjNzBkMjJhMGFjNTllMWJkMGEzZDFhOTAyMTY0M2UzYjk4NGZiZThhYzJmZGQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

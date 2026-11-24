@@ -1,0 +1,9 @@
+{
+  "id" : "2bba34224f4a4dfe8c923d408bfcb1b7",
+  "name" : "LORDEAST",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTM0ODIwMTcyNiwKICAicHJvZmlsZUlkIiA6ICIyYmJhMzQyMjRmNGE0ZGZlOGM5MjNkNDA4YmZjYjFiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJMT1JERUFTVCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81ZThkMjlmMGUwZGMyN2Q0MDNkMjBlZTEwYWVlMjhhYTlhNWE3ZWUxM2YxMDA5NjVhMzNlMjM4MDkxMDJkOTJiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

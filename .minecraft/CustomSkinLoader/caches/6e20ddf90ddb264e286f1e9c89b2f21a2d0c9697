@@ -1,0 +1,9 @@
+{
+  "id" : "034ffc64f743463892dacc1363d242a7",
+  "name" : "jajason",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTAyMjgzODQ0NiwKICAicHJvZmlsZUlkIiA6ICIwMzRmZmM2NGY3NDM0NjM4OTJkYWNjMTM2M2QyNDJhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJqYWphc29uIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q1YzRlZTVjZTIwYWVkOWUzM2U4NjZjNjZjYWEzNzE3ODYwNjIzNGIzNzIxMDg0YmYwMWQxMzMyMGZiMmViM2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

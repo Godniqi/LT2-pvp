@@ -1,0 +1,9 @@
+{
+  "id" : "2a262a914daa48e892ae6bf2e75f7f3d",
+  "name" : "sharpnessfive5",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNTE4NDE0MSwKICAicHJvZmlsZUlkIiA6ICIyYTI2MmE5MTRkYWE0OGU4OTJhZTZiZjJlNzVmN2YzZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaGFycG5lc3NmaXZlNSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lZWU1MjI2MTEwMDVhY2YyNTZkYmQxNTJlOTkyYzYwYzBiYjc5NzhjYjBmMzEyNzgwNzcwMGU0NzhhZDk3NjY0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

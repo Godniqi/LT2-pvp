@@ -1,0 +1,9 @@
+{
+  "id" : "a1fab3eba8dc4838ab37395ec3fef196",
+  "name" : "frazierclan574",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNTM4ODAzMywKICAicHJvZmlsZUlkIiA6ICJhMWZhYjNlYmE4ZGM0ODM4YWIzNzM5NWVjM2ZlZjE5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJmcmF6aWVyY2xhbjU3NCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81NGY1ZmQ2NGI0NTFlYjM5MWVlZGM3MWYwYjUwYjJjZWNiYTg5NGM0MzU0MjIzZWJkMTI3ODc1YTljODZmNzJkIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

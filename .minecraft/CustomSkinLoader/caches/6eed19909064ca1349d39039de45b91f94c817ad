@@ -1,0 +1,9 @@
+{
+  "id" : "a62d69be1b5e4eb6961d2dc904ca3221",
+  "name" : "Recco",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTM2MDkzMCwKICAicHJvZmlsZUlkIiA6ICJhNjJkNjliZTFiNWU0ZWI2OTYxZDJkYzkwNGNhMzIyMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWNjbyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lN2VlMmRmZjkxMjdiNzA2MTMxZTEyYjE5YjNjZjI3MWRlNzdkMThhYjlkNzRjMzhhMWJiYmQ3MDNjYjliODY0IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

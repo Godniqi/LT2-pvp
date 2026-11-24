@@ -1,0 +1,9 @@
+{
+  "id" : "0b05634735a048d0bcb00d10ae008d5f",
+  "name" : "The_Kaiser",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzI0MzIyMjc2MSwKICAicHJvZmlsZUlkIiA6ICIwYjA1NjM0NzM1YTA0OGQwYmNiMDBkMTBhZTAwOGQ1ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUaGVfS2Fpc2VyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZlOWYyZTE2NWMzN2I5ZTQ5MjcyMjIzMzU2YTc0ZGIwZDZmNWQ5OTA0M2JiMDZiZDFhN2M5M2QxNTYzOWFlN2EiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,50 @@
+/enchant r4sy minecraft:feather_falling 4
+/tick rate 5
+/tick rate 10
+/tick rate 15
+/tick rate 20
+/gamerule block_drops false
+/trigger lobby
+/motionblur 0
+/motionblur 2
+/motionblur 3
+/tp r4sy
+/tiers
+/motionblur 0
+/function pvpbot:crystal/hud
+/function pvpbot:crystal/hud with
+/function pvpbot:crystal/hud
+/trigger lobby
+/vexbot settings
+/kill @e[type=minecraft:item]
+/give miwalin minecraft:golden_apple 2
+/effect give miwalin minecraft:resistance infinite 4
+/enchant miwalin minecraft:knockback 2
+/enchant miwalin minecraft:knockback 1
+/give miwalin minecraft:netherite_sword
+/enchant miwalin minecraft:knockback 2
+/effect give miwalin minecraft:resistance infinite 4
+/vexbot spawn Xicz ~ ~ ~ Dol9hinSecretS5
+/trigger lobby
+/kill @e[type=minecraft:item]
+/vexbot spawn Sword4000 5168 ~ 4573 customdiakit
+/vexbot kill Sword4000
+/vexbot spawn Sword4000 5168 ~ 4573 customdiakit
+/vexbot spawn Shandrea 5168 ~ 4573 customdiakit
+/kill Shandrea
+/vexbot spawn Shandrea -111 ~ -55 customdiakit
+/vexbot spawn Shandrea 5168 ~ 4573 customdiakit
+/kill Shandrea
+/kill @e[type=minecraft:item]
+/vexbot spawn Shandrea 5168 ~ 4573 customdiakit
+/time set day
+/vexbot givekit Dol9hinBliss miwalin
+/vexbot givekit Mugm_VsNufuli miwalin
+/vexbot givekit MugmBlissNeth miwalin
+/vexbot spawn Shandrea 5168 ~ 4573 customdiakit
+/vexbot givekit Mugm_VsNufuli miwalin
+/vexbot givekit MugmBlissNeth miwalin
+/vexbot spawn Shandrea 5168 ~ 4573 customdiakit
+/login 12345678
+/login 09097473159
+/skin set miwalin

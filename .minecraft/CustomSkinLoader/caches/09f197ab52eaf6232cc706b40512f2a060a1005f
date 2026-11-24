@@ -1,0 +1,9 @@
+{
+  "id" : "3bd1e9fc64ec4d5196388d698cb7a935",
+  "name" : "nezoshoki",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDIyNjU5MDQwNSwKICAicHJvZmlsZUlkIiA6ICIzYmQxZTlmYzY0ZWM0ZDUxOTYzODhkNjk4Y2I3YTkzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJuZXpvc2hva2kiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjQwNjliMDg2MmE0ZjZjNTA1ZDIzYzc4OGI5ZDMxYTcyZmQ1NzIzMzA5ZDJhMGVmNWViY2U0NDQyOGI4NTRiNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

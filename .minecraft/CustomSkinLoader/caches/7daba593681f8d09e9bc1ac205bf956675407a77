@@ -1,0 +1,9 @@
+{
+  "id" : "14da4c9ebfba4c3e9bc4d7d1f1b3d8d6",
+  "name" : "Blackshark1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzU3NzcxMjkwMywKICAicHJvZmlsZUlkIiA6ICIxNGRhNGM5ZWJmYmE0YzNlOWJjNGQ3ZDFmMWIzZDhkNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbGFja3NoYXJrMSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZDkzMjhlNGZjYWRmYzY4MTI0MGIyYWEyZDk0NjU0ZmFlMWM1ODJmMTNkMTc0YjJkODk0MmJiMjk1YjExMjZkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "3e9d4006c6c546ce9cdf20dfb213ce01",
+  "name" : "_Korest",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk3Mjc3MzU5NCwKICAicHJvZmlsZUlkIiA6ICIzZTlkNDAwNmM2YzU0NmNlOWNkZjIwZGZiMjEzY2UwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfS29yZXN0IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M3MDU3N2RjYjE3MWE2NGZkNGIwYmIzNjFmOGZmOGQ1MzJjNDIwNDNiOWIyY2Y2YTE3Mjg1NzFjNWE4NTAzYWYiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

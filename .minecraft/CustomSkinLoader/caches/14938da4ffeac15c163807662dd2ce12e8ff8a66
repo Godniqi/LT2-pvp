@@ -1,0 +1,9 @@
+{
+  "id" : "25925684ed3741269d3d2c9fa48daea7",
+  "name" : "tailzzz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTA4MjEwMzk5MCwKICAicHJvZmlsZUlkIiA6ICIyNTkyNTY4NGVkMzc0MTI2OWQzZDJjOWZhNDhkYWVhNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0YWlsenp6IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzI0OGU4MjJjY2ExNTc0MDMxMmY1M2E3YjA2MDdhMzNhMDllZDNiMzE3ZmM0MWMxODQ3MzcyYTllZWRhNzI1YzIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

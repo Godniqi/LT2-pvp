@@ -1,0 +1,9 @@
+{
+  "id" : "9a322e998dd943909df7a756457aef3e",
+  "name" : "AXE_SLAYER_90",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTM4NjczMSwKICAicHJvZmlsZUlkIiA6ICI5YTMyMmU5OThkZDk0MzkwOWRmN2E3NTY0NTdhZWYzZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBWEVfU0xBWUVSXzkwIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZkMThmYjc0Zjc0NmVlN2MyYzMwOTIxMzBhYTEwMTU0ZTQxZDQ3YjcxNjAwZjYzZjVjYmVlMjEzNjJlNTJjNjkiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "49c0979604d241c18f7e8d3bb98bb07c",
+  "name" : "nishcash",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzE0MDc1OTI5MCwKICAicHJvZmlsZUlkIiA6ICI0OWMwOTc5NjA0ZDI0MWMxOGY3ZThkM2JiOThiYjA3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJuaXNoY2FzaCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZGE0MDIyZGZkYWNkNzNkMTE5YmJjNzQ2YzZmZjA1OWJhODE0ODcyZTY3ZDVjZTE5ZmVjYWJmYmJhYzBlNTY0IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

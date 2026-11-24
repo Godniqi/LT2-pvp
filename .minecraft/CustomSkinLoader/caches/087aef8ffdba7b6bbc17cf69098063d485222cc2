@@ -1,0 +1,9 @@
+{
+  "id" : "58596758b9d6439baa6683e9b72d351e",
+  "name" : "50Cent",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODQ3NzE2NjQyNiwKICAicHJvZmlsZUlkIiA6ICI1ODU5Njc1OGI5ZDY0MzliYWE2NjgzZTliNzJkMzUxZSIsCiAgInByb2ZpbGVOYW1lIiA6ICI1MENlbnQiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTY4YzEzY2YyYjM4MzUzNTRmYWEyNjI5NWQwOThiYTRiZDM0MDdiNmUyZmFiODMxYWQzZGVlZTY5MTI2ODEzMSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "c8d14fb4eb5d44a5b6015ccf7f192ba5",
+  "name" : "_FerreMC",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk3MDQ5NzIwMiwKICAicHJvZmlsZUlkIiA6ICJjOGQxNGZiNGViNWQ0NGE1YjYwMTVjY2Y3ZjE5MmJhNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfRmVycmVNQyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82YzU5ZDc0NTg1MzhiYTI0YTM1YzQyMjYwMzYzZGE1ZDU4YjVkZmIxNWUzOTUyZWU4ZmFiMjYwZTQ3NTIyYmU4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

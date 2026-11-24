@@ -1,0 +1,9 @@
+{
+  "id" : "750737e8846f45a1b7efee02beda3bca",
+  "name" : "Vudi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjI4MzU3NDY2MSwKICAicHJvZmlsZUlkIiA6ICI3NTA3MzdlODg0NmY0NWExYjdlZmVlMDJiZWRhM2JjYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWdWRpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzk3MWQ0MDVjNjljMWJjNjI1MjA5ODlkNDA3YTY3MTg0YzdiMWFhY2Q5YWRjOGMyYjRjNWMwYzk0Y2RmZjEzZGEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

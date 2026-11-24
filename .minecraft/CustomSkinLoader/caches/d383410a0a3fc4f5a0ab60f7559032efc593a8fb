@@ -1,0 +1,9 @@
+{
+  "id" : "244b996b926b4f7b9a0cc54e0d5387ff",
+  "name" : "AlphaHunter491",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTk1OTgxNiwKICAicHJvZmlsZUlkIiA6ICIyNDRiOTk2YjkyNmI0ZjdiOWEwY2M1NGUwZDUzODdmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYUh1bnRlcjQ5MSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84Njg0ZDA2ZTdhYWIwNjJjMWMyZjgxOGY3YWEyODA5NzU4OWE3Yzc1NTdlYjQxY2Q3ZTVjMTQ4NmI0NDk2MTEwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

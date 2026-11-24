@@ -1,0 +1,18 @@
+filename = 'modifyplayerdata-0.3.2-1.21.11.jar'
+name = 'Modify Player Data'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.3.2-1.21.11'
+
+[download]
+hash = '2d2005e37e4b5f0389052324dc6082e2198bda29dc973423bf0d6cbbb3eadb5dbf20159015d77eab6ff850fbe3a803cceffb729e299a555cab1313132e70e335'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/e706DYY5/versions/jOZLiGHt/modifyplayerdata-0.3.2-1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'e706DYY5'
+version = 'jOZLiGHt'

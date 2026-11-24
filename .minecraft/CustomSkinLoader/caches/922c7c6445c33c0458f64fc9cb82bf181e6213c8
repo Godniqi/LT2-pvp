@@ -1,0 +1,9 @@
+{
+  "id" : "6ffdb718c4164e398d95efc091c0945f",
+  "name" : "ProBoi45",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTU1ODI5MSwKICAicHJvZmlsZUlkIiA6ICI2ZmZkYjcxOGM0MTY0ZTM5OGQ5NWVmYzA5MWMwOTQ1ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJQcm9Cb2k0NSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85MGU3NWNkNDI5YmE2MzMxY2QyMTBiOWJkMTkzOTk1MjdlZTNiYWI0NjdiNWE5ZjYxY2I4YTI3YjE3N2Y2Nzg5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

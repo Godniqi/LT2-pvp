@@ -1,0 +1,9 @@
+{
+  "id" : "46d77974415f4f3ebd587609e42198cf",
+  "name" : "ah_Bin_sava",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk3Mjc0NDg0NiwKICAicHJvZmlsZUlkIiA6ICI0NmQ3Nzk3NDQxNWY0ZjNlYmQ1ODc2MDllNDIxOThjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJhaF9CaW5fc2F2YSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS82ZWRiZWU1NWQwMDhiZjQzYzU2M2MyMWE4MTY0YjQ0Y2MzYzk3ZDU4YmM1NGE4MzQ2ZDI5NGQ3NmEyMDFkZjdjIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "931ee6409ddc4110a6f04c3333078fb9",
+  "name" : "FrostVoid",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTAyMTM5NCwKICAicHJvZmlsZUlkIiA6ICI5MzFlZTY0MDlkZGM0MTEwYTZmMDRjMzMzMzA3OGZiOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcm9zdFZvaWQiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzFkYTgxZjA3MmI0NWZiZDYzMzkyYjg2ZDdmZGMwZTljNjc4OTk3YjZkODVlMGYxNmRlZmM1NjE5ZmFiZTljMCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

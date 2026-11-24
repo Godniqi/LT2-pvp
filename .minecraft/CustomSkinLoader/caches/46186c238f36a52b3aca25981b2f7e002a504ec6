@@ -1,0 +1,9 @@
+{
+  "id" : "a294050bda224203a4107ca1c1ef9bd8",
+  "name" : "7777s",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTUxODMyMzc0NCwKICAicHJvZmlsZUlkIiA6ICJhMjk0MDUwYmRhMjI0MjAzYTQxMDdjYTFjMWVmOWJkOCIsCiAgInByb2ZpbGVOYW1lIiA6ICI3Nzc3cyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ODRjOTllYzRjMTRhN2NjZjE3MTExZGQ4MWViMDQ0ZGE5ZGU5OGE4NjBhODE4MWE5MGI1ODhiYjI5ZTA3MWRiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

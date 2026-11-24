@@ -1,0 +1,9 @@
+{
+  "id" : "825f2e4a875746dc8926cceee6147fee",
+  "name" : "Mikura",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjk5OTk2OTAwOCwKICAicHJvZmlsZUlkIiA6ICI4MjVmMmU0YTg3NTc0NmRjODkyNmNjZWVlNjE0N2ZlZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWt1cmEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDAyZWNhNDhlOWQ0ZjVhMjExNTAyOTYxZTNkM2RkOWE4OTMxZTFiODc3OGNiZWQ3NzZiZjk4NjE5MGRmYWE1YiIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "40aceb4f8242439b936e07e8c985179a",
+  "name" : "boybo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDY0Njg0NjkwNSwKICAicHJvZmlsZUlkIiA6ICI0MGFjZWI0ZjgyNDI0MzliOTM2ZTA3ZThjOTg1MTc5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJib3libyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85YWExZDAzNTA5ZWMzOGIzN2VlMzAyNWFkNzM2ODI5MmFiNDc5OThmOTIwOGEwNDEwYzM1OGY0MjdmZTNlYzRkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

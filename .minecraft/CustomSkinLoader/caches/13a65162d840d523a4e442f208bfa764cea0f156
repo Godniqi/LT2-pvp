@@ -1,0 +1,9 @@
+{
+  "id" : "7196d9dc170e498992558e14b89dc2d0",
+  "name" : "Nightweb",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDY0NTQ3NzA0MCwKICAicHJvZmlsZUlkIiA6ICI3MTk2ZDlkYzE3MGU0OTg5OTI1NThlMTRiODlkYzJkMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaWdodHdlYiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mOGRhMWM4NWQ3YTZjYzQ0YzdmMjZiMDc1OGU5NDYwZWMwZjQzOWFmNGNmZDlkOGNhOWQwNjUwZjlkMzUyNGUwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

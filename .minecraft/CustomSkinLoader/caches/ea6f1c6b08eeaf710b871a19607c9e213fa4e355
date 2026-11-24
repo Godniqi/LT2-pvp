@@ -1,0 +1,9 @@
+{
+  "id" : "eadcc0fe127047afa84a6be2ff53919e",
+  "name" : "MaximalOG1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTc2NzM0MiwKICAicHJvZmlsZUlkIiA6ICJlYWRjYzBmZTEyNzA0N2FmYTg0YTZiZTJmZjUzOTE5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXhpbWFsT0cxIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JlOTQwMDE3OWQ3NTQ1MmZjMTA1ZTc1NTRkOTkxMDU4ZDFmNWRlZGM1ZWQ5OGNmNzM1NmMxZDE4NmIwNWRmNmQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "82ee41bab5934aecae2a785b814d5af7",
+  "name" : "Diornoz",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNzAyNzU2NiwKICAicHJvZmlsZUlkIiA6ICI4MmVlNDFiYWI1OTM0YWVjYWUyYTc4NWI4MTRkNWFmNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaW9ybm96IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJkM2I5NGRkZTVkMjIxNWFkN2EwMmUyNTllZjFmMThmMGJmNzQ3ZmRjYTk2NTdkOTc4ODMwNjNhNDk0NDA5NTgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

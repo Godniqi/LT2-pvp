@@ -1,0 +1,9 @@
+{
+  "id" : "984b02de5b224f43971eb8e183e52cde",
+  "name" : "ZERO_F16",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzU3ODYwNjYyMywKICAicHJvZmlsZUlkIiA6ICI5ODRiMDJkZTViMjI0ZjQzOTcxZWI4ZTE4M2U1MmNkZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJaRVJPX0YxNiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNWNkYzMyNDNiMjE1M2FiMjhhMTU5ODYxYmU2NDNhNGZjMWUzYzE3ZDI5MWNkZDNlNTdhN2YzNzBhZDY3NmYzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

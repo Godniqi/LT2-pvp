@@ -1,0 +1,9 @@
+{
+  "id" : "8f864c05e85a4e81ba12b5652472bc7b",
+  "name" : "AlphaZer",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTA2NjkzNywKICAicHJvZmlsZUlkIiA6ICI4Zjg2NGMwNWU4NWE0ZTgxYmExMmI1NjUyNDcyYmM3YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbHBoYVplciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NmU3MTRkMzY5ZjRlZDE4NTJiMDY1YjI4NjJiYWEwMmU3ZTIzMjI3MTAzNDBjMTNhNmQyMDFlN2YyOWQ1NGQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

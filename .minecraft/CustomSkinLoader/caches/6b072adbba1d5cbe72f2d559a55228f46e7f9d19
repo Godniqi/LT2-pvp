@@ -1,0 +1,9 @@
+{
+  "id" : "355079f055984918bd3aaa29c948bf48",
+  "name" : "Fission",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzU3Nzg4OTUwNywKICAicHJvZmlsZUlkIiA6ICIzNTUwNzlmMDU1OTg0OTE4YmQzYWFhMjljOTQ4YmY0OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXNzaW9uIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNhNGI0MDlmOTM4YmU0ZGEwNjZhNjgzMzQ4ZmY4MmFiZWNiZDQ5ZDM2YzMyZmMzYTAzNzliMmQ3ZDQ0Mzc4OGQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

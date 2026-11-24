@@ -1,0 +1,9 @@
+{
+  "id" : "126fae1387ab4ac2929e4673604c26e5",
+  "name" : "PVPaccount",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTkzODI0MDk4OCwKICAicHJvZmlsZUlkIiA6ICIxMjZmYWUxMzg3YWI0YWMyOTI5ZTQ2NzM2MDRjMjZlNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJQVlBhY2NvdW50IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2FkYjBlYTlmY2E3ZGExMTlhZWIxZTkwMTU5NGIwNTllNmE4N2JlMzBlODEwZjVkMWE3NjdmYzQ4ZTBmNTU0ODgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

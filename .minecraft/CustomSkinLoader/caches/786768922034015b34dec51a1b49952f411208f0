@@ -1,0 +1,9 @@
+{
+  "id" : "6599bc66b4e548819e6b9383b9a2d037",
+  "name" : "CrzyTun3",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzE0MzQ5NiwKICAicHJvZmlsZUlkIiA6ICI2NTk5YmM2NmI0ZTU0ODgxOWU2YjkzODNiOWEyZDAzNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDcnp5VHVuMyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mZmQ2MGFmY2ZlMDU5YmY1NjMxNzg3NjljYjcxZGNjNDJmOWM3MzhkMGFhZGZhZDIwYmViYTM5YzhjYjAxODA4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

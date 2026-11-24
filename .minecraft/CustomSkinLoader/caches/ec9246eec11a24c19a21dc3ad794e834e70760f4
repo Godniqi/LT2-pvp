@@ -1,0 +1,9 @@
+{
+  "id" : "e9cc75686a3b49ffb682d2c74816cbec",
+  "name" : "Yantoo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTkxNDEyOCwKICAicHJvZmlsZUlkIiA6ICJlOWNjNzU2ODZhM2I0OWZmYjY4MmQyYzc0ODE2Y2JlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJZYW50b28iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjg3ODkyYTg1N2VjNjRlYTkxNTgzOGE0N2I1OTI4M2RhOTVhYzc5MjBkNGRkODkyOTMyYzM1NzVlMmM3N2VmZCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

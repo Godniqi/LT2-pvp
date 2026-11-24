@@ -1,0 +1,9 @@
+{
+  "id" : "0d9d4a7f27f54baa9a5c896090b74fa1",
+  "name" : "Volkster",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODc1MTkzNDM3MywKICAicHJvZmlsZUlkIiA6ICIwZDlkNGE3ZjI3ZjU0YmFhOWE1Yzg5NjA5MGI3NGZhMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb2xrc3RlciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YmM4ZmE5NWEwOTg3OTM2MWI4NzdjYWMxYzVhNGYzZjFhODJjMWE5NzM0NjZjNTZjNGVlZWRlMTMyY2E5MDhkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

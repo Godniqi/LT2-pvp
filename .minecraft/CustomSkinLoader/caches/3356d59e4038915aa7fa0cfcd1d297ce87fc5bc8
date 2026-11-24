@@ -1,0 +1,9 @@
+{
+  "id" : "5b493f4e266f4c049033259c38ea563a",
+  "name" : "Sweater",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDM5MzQxODg0MSwKICAicHJvZmlsZUlkIiA6ICI1YjQ5M2Y0ZTI2NmY0YzA0OTAzMzI1OWMzOGVhNTYzYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTd2VhdGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E1M2M2YWJiZmQ3ZTVmNmUxZTBiNzA5YzdhODRmN2I4NzQ1MWQyYzgxMzc4Zjk1MjI0MmViZmFjNDQyYTZlMiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

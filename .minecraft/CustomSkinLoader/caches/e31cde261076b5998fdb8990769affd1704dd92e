@@ -1,0 +1,9 @@
+{
+  "id" : "372e63844f334f1e848c9c4ac88c9cce",
+  "name" : "Aizy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk3MDA2MjMyNiwKICAicHJvZmlsZUlkIiA6ICIzNzJlNjM4NDRmMzM0ZjFlODQ4YzljNGFjODhjOWNjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaXp5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzc1MmVjMzQ3ZDgzYjJiMjgxYWVhYjIxZjZmNzQ1ZTc5YWU0ZmViYjMzYjAxMjdmNWMwZTI2MGVlNTMyMzA3NDciCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "58182881195f4d7f9acbdd56e6470e0d",
+  "name" : "Joshiji",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjAzNzQxNywKICAicHJvZmlsZUlkIiA6ICI1ODE4Mjg4MTE5NWY0ZDdmOWFjYmRkNTZlNjQ3MGUwZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJKb3NoaWppIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2E2ZWU0MzQ3NTE4M2MyYTY0NzAxNTYxNTc5ODVjYjEzNzAyMDY3MGY2MTE0Nzg2ZjRkNzI4YjlkZThmMjk0ODAiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "366f363b48174610a986c041c1483f9b",
+  "name" : "FrostyDice",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjg5MTgzMDI2NSwKICAicHJvZmlsZUlkIiA6ICIzNjZmMzYzYjQ4MTc0NjEwYTk4NmMwNDFjMTQ4M2Y5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcm9zdHlEaWNlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2RmZTc3ZDE5OWU0OGRlYTk2ZjliYWQ0MjA4ZjI5MTE2MGRmYzFmMTJlMWI5ZGRkMWQ2ZGM1OTM2NWRjZGE4IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

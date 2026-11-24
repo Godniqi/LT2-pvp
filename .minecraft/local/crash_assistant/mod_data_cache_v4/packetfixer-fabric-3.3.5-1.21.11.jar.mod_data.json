@@ -1,0 +1,1 @@
+{"jarName":"packetfixer-fabric-3.3.5-1.21.11.jar","modId":"packetfixer","name":"Packet Fixer","version":"3.3.5","mixinConfigs":["packetfixer.mixins.json","packetfixer.fabric.mixins.json"],"jarJarMods":[],"curseForgeHash":3647647191,"modrinthHash":"087cd5f23680cacaa5841528fca815c8dbfe5999"}

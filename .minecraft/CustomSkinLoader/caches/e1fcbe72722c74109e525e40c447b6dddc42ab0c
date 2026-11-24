@@ -1,0 +1,9 @@
+{
+  "id" : "c33f436efd91428283a723a66d024e07",
+  "name" : "Sfilz_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMDUyMzMxNCwKICAicHJvZmlsZUlkIiA6ICJjMzNmNDM2ZWZkOTE0MjgyODNhNzIzYTY2ZDAyNGUwNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTZmlsel8iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDY3NTlhMzYwYjljNjYxZjhmYzA4ZjA1Y2Y5ZWRmMmQyZTJjOTZlNTZlOTAzNjdmNmY2MjhkZmRhYWU3ODFmNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

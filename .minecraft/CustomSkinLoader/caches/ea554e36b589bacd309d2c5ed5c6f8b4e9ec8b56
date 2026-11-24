@@ -1,0 +1,9 @@
+{
+  "id" : "4890a4c34f624a4896a625390ba409fb",
+  "name" : "Iconic0",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNzIyNzQzNywKICAicHJvZmlsZUlkIiA6ICI0ODkwYTRjMzRmNjI0YTQ4OTZhNjI1MzkwYmE0MDlmYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJJY29uaWMwIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ3NzYwZGRlYzRiNDZmNjI2Mzc5NDIzM2NiNmViYzkxM2Y1MmI4ZjE0MzJhMjJhZDRhYzllMWRiZDUxNmNiZSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

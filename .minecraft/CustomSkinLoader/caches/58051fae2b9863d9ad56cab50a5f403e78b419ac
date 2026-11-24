@@ -1,0 +1,9 @@
+{
+  "id" : "e06f1dfe8cd94def9ab2c3d28ec14d65",
+  "name" : "mashala",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzA2OTAzOTY5MSwKICAicHJvZmlsZUlkIiA6ICJlMDZmMWRmZThjZDk0ZGVmOWFiMmMzZDI4ZWMxNGQ2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtYXNoYWxhIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q1YzRlZTVjZTIwYWVkOWUzM2U4NjZjNjZjYWEzNzE3ODYwNjIzNGIzNzIxMDg0YmYwMWQxMzMyMGZiMmViM2YiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "721e7d3118ec4c6ebb96a024c20d5929",
+  "name" : "R1RA",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjk5OTk0OTkzNSwKICAicHJvZmlsZUlkIiA6ICI3MjFlN2QzMTE4ZWM0YzZlYmI5NmEwMjRjMjBkNTkyOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJSMVJBIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhmMWJiZmZhYjY3NGVlMzQxZmI5ZjIyZDFhMmE3NWRmOWMyZjQ4MWUwMWIzMWQzNTExYzIzM2JjNTI4YjM5NmQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

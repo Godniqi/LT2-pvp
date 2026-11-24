@@ -1,0 +1,9 @@
+{
+  "id" : "ae17adfe00ee4fc99952bea2f3eae2e1",
+  "name" : "MT_tengu",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDkwNjMwMzc4NywKICAicHJvZmlsZUlkIiA6ICJhZTE3YWRmZTAwZWU0ZmM5OTk1MmJlYTJmM2VhZTJlMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNVF90ZW5ndSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85NjgxZWQ1NjRjMDBkNTMwYjhjYWE5NzMwYTljYjZjZmQ3ZjQwNzAzZDAyYzQwMmI3MDE2MWY3MWFiZDkzNWJkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

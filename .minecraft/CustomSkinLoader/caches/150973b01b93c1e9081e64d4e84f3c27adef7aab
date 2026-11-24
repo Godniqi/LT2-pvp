@@ -1,0 +1,9 @@
+{
+  "id" : "7605598ce9634612a89f7749d5d0cd0b",
+  "name" : "Araannn",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzU3NzcxMTg5NywKICAicHJvZmlsZUlkIiA6ICI3NjA1NTk4Y2U5NjM0NjEyYTg5Zjc3NDlkNWQwY2QwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBcmFhbm5uIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2U1Y2RjMzI0M2IyMTUzYWIyOGExNTk4NjFiZTY0M2E0ZmMxZTNjMTdkMjkxY2RkM2U1N2E3ZjM3MGFkNjc2ZjMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

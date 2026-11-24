@@ -1,0 +1,9 @@
+{
+  "id" : "4d44f7751e25414b8ab91160008ccaf5",
+  "name" : "Zyrox001",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNTYwMDI2MSwKICAicHJvZmlsZUlkIiA6ICI0ZDQ0Zjc3NTFlMjU0MTRiOGFiOTExNjAwMDhjY2FmNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJaeXJveDAwMSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZTZlY2U3MzIyYmRlNzE3MTgzNGU1NGUxYjg4NDNmM2ZiODdkYTY0NTc3MGIxYzM0OGYwOGI2NmQxOWY1MWYzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

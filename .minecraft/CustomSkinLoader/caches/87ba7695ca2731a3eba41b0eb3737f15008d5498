@@ -1,0 +1,9 @@
+{
+  "id" : "69d0a145dff84ff6b33a30424e7d634b",
+  "name" : "NOTbro",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ3OTc1Mjg5NCwKICAicHJvZmlsZUlkIiA6ICI2OWQwYTE0NWRmZjg0ZmY2YjMzYTMwNDI0ZTdkNjM0YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOT1Ricm8iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM2Yzc5ZjIxMWMwMTgxNzI0MDY5ZTEzZTViYjcxN2VkYThhMWQxMjZhOWEyNmU3M2E2MzViNjNlNGJkMWUzNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

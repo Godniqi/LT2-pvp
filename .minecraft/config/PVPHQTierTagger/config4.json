@@ -1,0 +1,7 @@
+{
+  "refresh-caches": true,
+  "refresh-caches-interval": 300000,
+  "tag-layout": "@name @icon@rank",
+  "preferred": "SWORD",
+  "display-highest": false
+}

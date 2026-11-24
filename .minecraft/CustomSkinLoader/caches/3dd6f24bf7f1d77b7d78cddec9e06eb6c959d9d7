@@ -1,0 +1,9 @@
+{
+  "id" : "09fd7e59fb9f4256a29182698ac6ea2b",
+  "name" : "Cimsoc56",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzY5Njk2NTcxNywKICAicHJvZmlsZUlkIiA6ICIwOWZkN2U1OWZiOWY0MjU2YTI5MTgyNjk4YWM2ZWEyYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaW1zb2M1NiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kMGRhMGYxNGE4NWI0MzgzY2FhYjRjNjViZTkwZDMzMjVhMzBiMGNlMDRiNmMwODg0Mzg3MTAyMDQ5MGQ5NDdiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

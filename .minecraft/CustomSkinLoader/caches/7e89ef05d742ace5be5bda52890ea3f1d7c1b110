@@ -1,0 +1,9 @@
+{
+  "id" : "538b62654cfa45739157109fc3801853",
+  "name" : "Felex",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzA2OTAwMjYwNCwKICAicHJvZmlsZUlkIiA6ICI1MzhiNjI2NTRjZmE0NTczOTE1NzEwOWZjMzgwMTg1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJGZWxleCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84OTQ4MWU1MzU3OWU2Y2Y5YTg3NjdjZGZkOTMyZmRkNjliMDE3ZDk0MDBkMDNiNjI4NjJjNDQ3OTg2M2UwNWQ3IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "b3308227fbac49d7b768cfa8acf1bc96",
+  "name" : "Bhaijaan",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTAzMjkyNCwKICAicHJvZmlsZUlkIiA6ICJiMzMwODIyN2ZiYWM0OWQ3Yjc2OGNmYThhY2YxYmM5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCaGFpamFhbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hM2JkMTYwNzlmNzY0Y2Q1NDFlMDcyZTg4OGZlNDM4ODVlNzExZjk4NjU4MzIzZGIwZjlhNjA0NWRhOTFlZTdhIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "929a19a550d24a0fadcff54a704011fe",
+  "name" : "Skycron_Fire_y26",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODMyMTU4NTg5NiwKICAicHJvZmlsZUlkIiA6ICI5MjlhMTlhNTUwZDI0YTBmYWRjZmY1NGE3MDQwMTFmZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTa3ljcm9uX0ZpcmVfeTI2IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRmNTNiYmMyNTAwNmJhZDE4OWQwMTJlODNhMzJmMWZjOWFiNmZhNDdhMjlmYjM1MGZjY2E5MTdmZTI2OWRmZTQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

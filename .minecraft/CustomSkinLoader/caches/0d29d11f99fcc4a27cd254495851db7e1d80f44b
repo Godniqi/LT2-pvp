@@ -1,0 +1,9 @@
+{
+  "id" : "20a7ef1394494915a42c9a478375c853",
+  "name" : "Sprittles",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4Mjc5NzEwMSwKICAicHJvZmlsZUlkIiA6ICIyMGE3ZWYxMzk0NDk0OTE1YTQyYzlhNDc4Mzc1Yzg1MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTcHJpdHRsZXMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTIyNjMyMWI4ZDdhNzY5NzljZTY5YzQ1ZjJhYmY5MDAwODc1OTRiN2FjOTVlY2U4OWJhMDE0NzZjMDhjZmE5MyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "5480ee94a9e944688e858807d932c548",
+  "name" : "Rishiru",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzE3MjQyMywKICAicHJvZmlsZUlkIiA6ICI1NDgwZWU5NGE5ZTk0NDY4OGU4NTg4MDdkOTMyYzU0OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSaXNoaXJ1IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlmOTExNTEzODZmZmRmNWI1NGJiZmVmM2NlMzE3MTc1YWUyZDk4YjkwYjc3OTAyNTZiNzRkZGU5OTk0MjkwNWUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

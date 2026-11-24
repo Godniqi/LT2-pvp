@@ -1,0 +1,9 @@
+{
+  "id" : "52fcce1c0850477baa6dd0e44391d539",
+  "name" : "oxew",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ4MjcwNTIwOSwKICAicHJvZmlsZUlkIiA6ICI1MmZjY2UxYzA4NTA0NzdiYWE2ZGQwZTQ0MzkxZDUzOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJveGV3IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhjOTA3YTdmNGYwYzNhNmM5YzliNzkzNDhmN2JmMTk5MzY5NWI2ZDJlYWUyZmFiNzA0YTFhNGQ5YjgyODhjYmUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

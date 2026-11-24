@@ -1,0 +1,9 @@
+{
+  "id" : "fb8ddebe01304505a04aedbd21ae3bf0",
+  "name" : "Ainora",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTAwNTQ3NywKICAicHJvZmlsZUlkIiA6ICJmYjhkZGViZTAxMzA0NTA1YTA0YWVkYmQyMWFlM2JmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBaW5vcmEiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjVjMjVkZDg1MDQ0YWEwMDhlM2E5NTk0NjZlM2RhMmQxODYyYjUzYjJkMmNkMmIxZjdjZGFkMGI0ZGM3NzI5OCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

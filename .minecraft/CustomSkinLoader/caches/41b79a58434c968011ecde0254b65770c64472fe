@@ -1,0 +1,9 @@
+{
+  "id" : "49c18bc890ff4f5d97581a5194433f65",
+  "name" : "SoTiM",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ4MjY1NjM3MCwKICAicHJvZmlsZUlkIiA6ICI0OWMxOGJjODkwZmY0ZjVkOTc1ODFhNTE5NDQzM2Y2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb1RpTSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMWY0NzdlYjFhN2JlZWU2MzFjMmNhNjRkMDZmOGY2OGZhOTNhMzM4NmQwNDQ1MmFiMjdmNDNhY2RmMWI2MGNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

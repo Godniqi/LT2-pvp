@@ -1,0 +1,9 @@
+{
+  "id" : "071874e3efa6446a835fdd7ebcf250b4",
+  "name" : "momotaro123",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ4MjY0MjEwMCwKICAicHJvZmlsZUlkIiA6ICIwNzE4NzRlM2VmYTY0NDZhODM1ZmRkN2ViY2YyNTBiNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJtb21vdGFybzEyMyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zMWY0NzdlYjFhN2JlZWU2MzFjMmNhNjRkMDZmOGY2OGZhOTNhMzM4NmQwNDQ1MmFiMjdmNDNhY2RmMWI2MGNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

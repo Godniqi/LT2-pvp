@@ -1,0 +1,9 @@
+{
+  "id" : "02567bc0c4714c28b6ccc14e220d2e83",
+  "name" : "ScarletzZ",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODkxODI2NzU5OSwKICAicHJvZmlsZUlkIiA6ICIwMjU2N2JjMGM0NzE0YzI4YjZjY2MxNGUyMjBkMmU4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTY2FybGV0eloiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQ2NWIwZDFmN2EzNDEzODNiYmU3Y2JhMWI2Njk2NDRkY2UzMmNjYWM4MDJhMzNlMjVmY2E5NWZhMDNlMTdlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

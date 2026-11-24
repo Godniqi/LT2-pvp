@@ -1,0 +1,9 @@
+{
+  "id" : "f97705b1c8ad48bf9bd21bd641d3f81c",
+  "name" : "StayAlone",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMTI1OTgwMiwKICAicHJvZmlsZUlkIiA6ICJmOTc3MDViMWM4YWQ0OGJmOWJkMjFiZDY0MWQzZjgxYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTdGF5QWxvbmUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2ZmZDkxOTBhNThhMzdmMDU3Nzk4MzgwYjRlMDk2N2E5OWMyYTIwMTAyZmVlMDY0MTBiMTA1NjEzMGJiNDEyZiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

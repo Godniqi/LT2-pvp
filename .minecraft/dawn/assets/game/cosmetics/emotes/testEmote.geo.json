@@ -1,0 +1,62 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.testEmote",
+        "texture_width": 64,
+        "texture_height": 64
+      },
+      "bones": [
+        {
+          "name": "anchor_body",
+          "pivot": [
+            0,
+            24,
+            0
+          ]
+        },
+        {
+          "name": "anchor_head",
+          "pivot": [
+            0,
+            24,
+            0
+          ]
+        },
+        {
+          "name": "anchor_rightarm",
+          "pivot": [
+            -5,
+            22,
+            0
+          ]
+        },
+        {
+          "name": "anchor_leftarm",
+          "pivot": [
+            5,
+            22,
+            0
+          ]
+        },
+        {
+          "name": "anchor_rightleg",
+          "pivot": [
+            -1.9,
+            12,
+            0
+          ]
+        },
+        {
+          "name": "anchor_leftleg",
+          "pivot": [
+            1.9,
+            12,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}

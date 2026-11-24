@@ -1,0 +1,9 @@
+{
+  "id" : "3e6fa418957045a48ce3aed3ce4070af",
+  "name" : "droopski",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzY5NjYzNzYxMywKICAicHJvZmlsZUlkIiA6ICIzZTZmYTQxODk1NzA0NWE0OGNlM2FlZDNjZTQwNzBhZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJkcm9vcHNraSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NmFjZDA2ZTg0ODNiMTc2ZThlYTM5ZmMxMmZlMTA1ZWIzYTJhNDk3MGY1MTAwMDU3ZTlkODRkNGI2MGJkZmE3IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

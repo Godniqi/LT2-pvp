@@ -1,0 +1,9 @@
+{
+  "id" : "5c7a8f52dde1427182a42a0258c22989",
+  "name" : "Minetine",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ3OTc1MjgwNCwKICAicHJvZmlsZUlkIiA6ICI1YzdhOGY1MmRkZTE0MjcxODJhNDJhMDI1OGMyMjk4OSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaW5ldGluZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8zYjYwYTFmNmQ1NjJmNTJhYWViYmYxNDM0ZjFkZTE0NzkzM2EzYWZmZTBlNzY0ZmE0OWVhMDU3NTM2NjIzY2QzIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

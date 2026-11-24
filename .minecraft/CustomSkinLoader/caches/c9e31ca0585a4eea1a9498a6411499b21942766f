@@ -1,0 +1,9 @@
+{
+  "id" : "6372b6b313bb46f0b01f52ef6adda578",
+  "name" : "YtDream",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA0MDM4NDExNywKICAicHJvZmlsZUlkIiA6ICI2MzcyYjZiMzEzYmI0NmYwYjAxZjUyZWY2YWRkYTU3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZdERyZWFtIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMyMDUxNjhhYjllNzljMjA0MmI2ZWM3M2RhZTI4NWI5YTQyMmZkOTg5YWE3NjA3N2UwZmU0YmJjZWM5ODcxMGEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

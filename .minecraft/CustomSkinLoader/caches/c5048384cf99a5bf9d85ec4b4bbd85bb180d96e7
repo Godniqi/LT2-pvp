@@ -1,0 +1,9 @@
+{
+  "id" : "65b4148b091348929f83bc66f75cf90e",
+  "name" : "Zeiss",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDM5MzM2MTMyMSwKICAicHJvZmlsZUlkIiA6ICI2NWI0MTQ4YjA5MTM0ODkyOWY4M2JjNjZmNzVjZjkwZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJaZWlzcyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jOWE4NjZkYzkzYzgxM2ZiNWZhM2YwNzliNzkyMzkyOWY1ZmJhN2M2NzU1MjI4YWU2YWI4MWQ3NzRjZjk3NTQ4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

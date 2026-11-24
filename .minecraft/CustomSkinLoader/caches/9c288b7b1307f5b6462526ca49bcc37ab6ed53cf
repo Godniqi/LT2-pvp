@@ -1,0 +1,9 @@
+{
+  "id" : "7943934ffb604c90ba90f14d8a2ed8ff",
+  "name" : "womenstealer",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ4MjY0ODY5MCwKICAicHJvZmlsZUlkIiA6ICI3OTQzOTM0ZmZiNjA0YzkwYmE5MGYxNGQ4YTJlZDhmZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ3b21lbnN0ZWFsZXIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmY1ODU4NGQzMjEwMTU4NzdjYmU4YWZkYzJhNTUwYzBiMjJjZWI0ODY1ZjY0NmQ5ZjA1ZDRhNjhkODAxNGIwNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

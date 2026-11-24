@@ -1,0 +1,9 @@
+{
+  "id" : "fc1baa47908148d3ba9a0927606093dc",
+  "name" : "ErosMC",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMTczNTcxNSwKICAicHJvZmlsZUlkIiA6ICJmYzFiYWE0NzkwODE0OGQzYmE5YTA5Mjc2MDYwOTNkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFcm9zTUMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2RmY2VjOGYzMDY1ZTA3ZjYxZjE1MGExYzdmMDRlYjQ2NjcxNmIyMzQ5Mjk2NGE3N2I0ZDdiYmIxNTI2NjY0MCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

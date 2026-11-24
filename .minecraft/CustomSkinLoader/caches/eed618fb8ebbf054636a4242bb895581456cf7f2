@@ -1,0 +1,9 @@
+{
+  "id" : "2d7376741dbe4eb2bfac5a1994f07571",
+  "name" : "WetSack",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTg5NjExNSwKICAicHJvZmlsZUlkIiA6ICIyZDczNzY3NDFkYmU0ZWIyYmZhYzVhMTk5NGYwNzU3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJXZXRTYWNrIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhhZTczM2I3MDVmNjMwMzNmY2I1M2ZmMDkwYWUwZjgyMmQ1NmVjMjYzZmFiZTA1ZTIzNmIzZDljOWY4MzAyMDIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

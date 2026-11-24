@@ -1,0 +1,9 @@
+{
+  "id" : "8f424864eac146feba0d604c55db9a8b",
+  "name" : "koooonsi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTE4MzYwNTA5NywKICAicHJvZmlsZUlkIiA6ICI4ZjQyNDg2NGVhYzE0NmZlYmEwZDYwNGM1NWRiOWE4YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrb29vb25zaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mMGE1Mjk0NTJiMzZhOGY4OTY3OGUzZDkwODI3NDMxY2NlOWRkMWJmODM5YjYxMzQyN2JlZWRlZTJiZmNiNDFmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

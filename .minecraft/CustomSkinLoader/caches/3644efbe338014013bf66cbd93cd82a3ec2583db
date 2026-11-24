@@ -1,0 +1,9 @@
+{
+  "id" : "abeea3085cf94c3a8dd66588ccb94b01",
+  "name" : "tryhardturtle",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDAzOTg0MjkwNywKICAicHJvZmlsZUlkIiA6ICJhYmVlYTMwODVjZjk0YzNhOGRkNjY1ODhjY2I5NGIwMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJ0cnloYXJkdHVydGxlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzUwYmU1YTIyNDE0N2U5MmM1YzM4YzNlYjJkNGY2OTQ4NDliN2RmZTU3MTlhZjQzNjQ5NGVmNWM4ZjZmOTZkMTgiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

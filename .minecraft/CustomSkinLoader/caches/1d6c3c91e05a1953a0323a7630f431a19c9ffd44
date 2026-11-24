@@ -1,0 +1,9 @@
+{
+  "id" : "e256e00bdbfe4587829591250585d74a",
+  "name" : "SoMaxx",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTY5MTQxMSwKICAicHJvZmlsZUlkIiA6ICJlMjU2ZTAwYmRiZmU0NTg3ODI5NTkxMjUwNTg1ZDc0YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTb01heHgiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjVkZGRiNDFkY2FmZWY2MTZlOTU5YzI4MTc4MDhlMGJlNzQxYzg5ZmZiZmVkMzkxMzRhMTNlNzViODExODYzZCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

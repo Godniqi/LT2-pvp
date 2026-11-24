@@ -1,0 +1,9 @@
+{
+  "id" : "daca400d1a0045d9a326a116b0100d16",
+  "name" : "Jaggy123",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDY0MDc3MTQwMCwKICAicHJvZmlsZUlkIiA6ICJkYWNhNDAwZDFhMDA0NWQ5YTMyNmExMTZiMDEwMGQxNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJKYWdneTEyMyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84ZGIwNzJhNDYwMzcxM2VlNjU2MWU5ZTQ1MWY5YjU4ZDkyNjkxOTc5ZDE2ODkyYTllM2FkMTc5NzhlMDkyY2U3IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

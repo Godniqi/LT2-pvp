@@ -1,0 +1,9 @@
+{
+  "id" : "eca2cfcf0b9b4fb5977548892dc38c72",
+  "name" : "shadow_vr",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4Mjc3MjM3NCwKICAicHJvZmlsZUlkIiA6ICJlY2EyY2ZjZjBiOWI0ZmI1OTc3NTQ4ODkyZGMzOGM3MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJzaGFkb3dfdnIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDcwODY4NTYzYjUyZmMzY2NlZjA0ZjcwMjIwNGYwODkxYTE1NzgzNDZlZDI3NDRkZjk2Y2IwZTdmNDRjMWJjZCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

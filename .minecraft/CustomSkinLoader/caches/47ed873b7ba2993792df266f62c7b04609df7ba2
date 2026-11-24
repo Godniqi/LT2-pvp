@@ -1,0 +1,9 @@
+{
+  "id" : "8245371155954c5f99b0b47e168ebbfd",
+  "name" : "GlizzyMc",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ3OTc1Nzg1NiwKICAicHJvZmlsZUlkIiA6ICI4MjQ1MzcxMTU1OTU0YzVmOTliMGI0N2UxNjhlYmJmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHbGl6enlNYyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kZjVjZTk2NmQ5ZjU2MDM0MjVkMjBiMTMxMzgwMWUwNDNlODMyZjE5YjU5ZDMyMzU2Mjg3MDEyOWUzMjU5NzcyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

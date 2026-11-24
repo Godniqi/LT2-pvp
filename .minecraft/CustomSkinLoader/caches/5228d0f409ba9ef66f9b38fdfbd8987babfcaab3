@@ -1,0 +1,9 @@
+{
+  "id" : "5020fe967b2a4732a7feac47e22a5a96",
+  "name" : "KyzenVortex",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTY0NjE0NCwKICAicHJvZmlsZUlkIiA6ICI1MDIwZmU5NjdiMmE0NzMyYTdmZWFjNDdlMjJhNWE5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLeXplblZvcnRleCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jM2Y4YzYzOGY4OTYyNzQxNjI1N2U2NDBiZTQ0Zjk3ZjUzNzRlYWQ5OWI3OGIzZTJjOTExYmM1MmZkMzg1OThkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

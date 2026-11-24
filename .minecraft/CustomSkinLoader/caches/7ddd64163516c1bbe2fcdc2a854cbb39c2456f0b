@@ -1,0 +1,9 @@
+{
+  "id" : "d922b1e76c01472ab94569b43c155694",
+  "name" : "Fries",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzY5Mzk3OTc0MiwKICAicHJvZmlsZUlkIiA6ICJkOTIyYjFlNzZjMDE0NzJhYjk0NTY5YjQzYzE1NTY5NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGcmllcyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hYWYzMGNhNWQzZTgzNmIwOTkxYmYzMDZhNjMxNzBhYzdjNzdhMTViNWYyZGQxNDQ1ZTk0NmYyNGZjN2MxMzU3IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

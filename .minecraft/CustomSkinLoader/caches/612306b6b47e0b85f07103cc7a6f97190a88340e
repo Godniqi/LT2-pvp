@@ -1,0 +1,9 @@
+{
+  "id" : "904483bc795b42da9e0c08c3a4b14415",
+  "name" : "Exquisity",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzAwMDAwMzM1OCwKICAicHJvZmlsZUlkIiA6ICI5MDQ0ODNiYzc5NWI0MmRhOWUwYzA4YzNhNGIxNDQxNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFeHF1aXNpdHkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmI2M2ZkZTMyNDBkM2EyYmFkNjBjMTZiODQ1ZWFkMjkxOTkxZjYzMTE1NDY4Y2I3MGMzNDU4ZjcyMGFmNjk1YSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

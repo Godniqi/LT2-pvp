@@ -1,0 +1,9 @@
+{
+  "id" : "09efbc08813c465aab2bb47b0f90b400",
+  "name" : "Mens",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDM5MzM2MzM2NSwKICAicHJvZmlsZUlkIiA6ICIwOWVmYmMwODgxM2M0NjVhYWIyYmI0N2IwZjkwYjQwMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNZW5zIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3YTI1OTk5ZDY1ZTdhNTdkOTA1MzRmNTVlNzcyNjhjZDc2NmM2YjViZTc3OWRhOTQ5ZDZhNDZkNTM3NGJkOWEiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

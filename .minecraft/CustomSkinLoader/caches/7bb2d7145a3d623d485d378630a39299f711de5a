@@ -1,0 +1,9 @@
+{
+  "id" : "5d05baf936f14360a8716fab2ad22efa",
+  "name" : "novagriddy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA1NjUwMzAwOSwKICAicHJvZmlsZUlkIiA6ICI1ZDA1YmFmOTM2ZjE0MzYwYTg3MTZmYWIyYWQyMmVmYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJub3ZhZ3JpZGR5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU0NDIzYjI0MDY2ZWY1MTA0ZDVlZjQ3OGVhMWM5MmZkODM3MGE4OTFjZTI0YTFiMmUwYzY0ZTg5MWU5NmQ1M2EiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

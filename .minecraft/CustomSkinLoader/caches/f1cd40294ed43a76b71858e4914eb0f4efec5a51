@@ -1,0 +1,9 @@
+{
+  "id" : "85a85ca527314821b4901090bd66f99b",
+  "name" : "Aliczabrez",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDAzOTU0MTQwMywKICAicHJvZmlsZUlkIiA6ICI4NWE4NWNhNTI3MzE0ODIxYjQ5MDEwOTBiZDY2Zjk5YiIsCiAgInByb2ZpbGVOYW1lIiA6ICJBbGljemFicmV6IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M0M2YwOGRlMjhjMDEzOWFhNjliM2YyMTZiNDkzOGQ5OWE0NmZlNWZkZjVjNmZjZGJjY2EyZmNjMWU0NDRiZTUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

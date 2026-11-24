@@ -1,0 +1,9 @@
+{
+  "id" : "ce9fbd7d46bd4a40bd511face2634b1a",
+  "name" : "Adversidy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ5ODgwMzkwMiwKICAicHJvZmlsZUlkIiA6ICJjZTlmYmQ3ZDQ2YmQ0YTQwYmQ1MTFmYWNlMjYzNGIxYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBZHZlcnNpZHkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTljNDNiMTcyZGI2MDFkYmJlYmRkZjY0MDAyNmY1ZjcxNjFmMzMyZmYxMWM3ZWU3YzVhODQ4YTYyYWI5NWI1YiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "198cb6d50b9240bfa2e17d97390499a8",
+  "name" : "XiBa",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjQxMzcyOCwKICAicHJvZmlsZUlkIiA6ICIxOThjYjZkNTBiOTI0MGJmYTJlMTdkOTczOTA0OTlhOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJYaUJhIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzlhNmNjMTVkNWViMjU5NTI3OTk5Y2JiMDY5MzgwOGZhOGY1YmZlMGM4NDBiYjMxM2QyMzkwMjk0ZDBhOGE0MWQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

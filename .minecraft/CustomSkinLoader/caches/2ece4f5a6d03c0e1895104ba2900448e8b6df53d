@@ -1,0 +1,9 @@
+{
+  "id" : "1f778452cec24c07a7ec3daf0b7d2f72",
+  "name" : "chickennnuggets",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzI0MzA2NDg3OCwKICAicHJvZmlsZUlkIiA6ICIxZjc3ODQ1MmNlYzI0YzA3YTdlYzNkYWYwYjdkMmY3MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGlja2Vubm51Z2dldHMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2VlYTA2ZDE5YTFjNDZjZjZmMmY5N2NiMDhiZGYzM2NiMTJiYWM5M2Q4N2EzNmU4M2MxMDBhYWM5NGUwNDVlNCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

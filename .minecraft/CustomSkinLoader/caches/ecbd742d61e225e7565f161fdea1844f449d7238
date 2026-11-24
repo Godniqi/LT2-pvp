@@ -1,0 +1,9 @@
+{
+  "id" : "3a5c104fc4244c80bbd7b40cefd6d209",
+  "name" : "monkey123",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTUxODM2ODEyMCwKICAicHJvZmlsZUlkIiA6ICIzYTVjMTA0ZmM0MjQ0YzgwYmJkN2I0MGNlZmQ2ZDIwOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJtb25rZXkxMjMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjM1MDE3YjE0OWY3NmE3YTk2NTY0ODVhYTA4OGQ2YWE0ZWNjMTRiM2YwOTAzMjllOTMxMmEzMWQ2NTQ5NjM1MSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

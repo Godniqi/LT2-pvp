@@ -1,0 +1,9 @@
+{
+  "id" : "52c0d0f6d6484597828c797e5370afec",
+  "name" : "BoiMonkeMC",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzYwMTg2NDk2OSwKICAicHJvZmlsZUlkIiA6ICI1MmMwZDBmNmQ2NDg0NTk3ODI4Yzc5N2U1MzcwYWZlYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCb2lNb25rZU1DIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMxZjQ3N2ViMWE3YmVlZTYzMWMyY2E2NGQwNmY4ZjY4ZmE5M2EzMzg2ZDA0NDUyYWIyN2Y0M2FjZGYxYjYwY2IiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

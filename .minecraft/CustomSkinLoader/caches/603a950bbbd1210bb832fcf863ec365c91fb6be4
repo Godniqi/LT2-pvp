@@ -1,0 +1,9 @@
+{
+  "id" : "f81201bd9654407d82e86013a7a53af3",
+  "name" : "ucc_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ3OTc1NzIyNywKICAicHJvZmlsZUlkIiA6ICJmODEyMDFiZDk2NTQ0MDdkODJlODYwMTNhN2E1M2FmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJ1Y2NfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdjYjNiYTUyZGRkNWNjODJjMGIwNTBjM2Y5MjBmODdkYTM2YWRkODAxNjU4NDZmNDc5MDc5NjYzODA1NDMzZGIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

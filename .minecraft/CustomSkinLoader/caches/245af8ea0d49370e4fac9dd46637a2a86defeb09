@@ -1,0 +1,9 @@
+{
+  "id" : "3c65b7710dc342b7a3a78233b0808185",
+  "name" : "Eazy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIwNTU4Mjc3NywKICAicHJvZmlsZUlkIiA6ICIzYzY1Yjc3MTBkYzM0MmI3YTNhNzgyMzNiMDgwODE4NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFYXp5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JjYjVlZGQ0OWE2MDIyZmRjYWU4NzlmZGY5M2I2NjUwZGI5ZDI1YzRjNWMwYzk5M2E3MzIxYjJjMzQ3MTMxYjIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

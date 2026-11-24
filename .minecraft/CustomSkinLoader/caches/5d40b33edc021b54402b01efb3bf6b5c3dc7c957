@@ -1,0 +1,9 @@
+{
+  "id" : "8af7b32935664c668c70bc762f3287c8",
+  "name" : "cakedgranny",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNTE1NjEzMSwKICAicHJvZmlsZUlkIiA6ICI4YWY3YjMyOTM1NjY0YzY2OGM3MGJjNzYyZjMyODdjOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjYWtlZGdyYW5ueSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYmY3ZWQzY2NlYjg1MjJiYjAzZDQ5NTUzNDFjNmJiOWIyY2U4NzE4MzVlMGZkYmEyYzAyNzBkN2VlOTg3MDMyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

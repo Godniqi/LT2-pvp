@@ -1,0 +1,9 @@
+{
+  "id" : "fb81b867f39c42fbad9e6a663696438f",
+  "name" : "Migoy",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzE1OTQ3OCwKICAicHJvZmlsZUlkIiA6ICJmYjgxYjg2N2YzOWM0MmZiYWQ5ZTZhNjYzNjk2NDM4ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWdveSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81N2JhZWYzZmFiNjVlNTc5M2EyMTAwOGYxNDZkY2RkZGFkZWIzYTRjY2JkYzBlOTEzOWM2MjJhZDZiYjVjMmRjIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

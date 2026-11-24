@@ -1,0 +1,9 @@
+{
+  "id" : "a159677f96344f1686291b489b20d490",
+  "name" : "Trickstern",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODgxOTkxMDY0MCwKICAicHJvZmlsZUlkIiA6ICJhMTU5Njc3Zjk2MzQ0ZjE2ODYyOTFiNDg5YjIwZDQ5MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJUcmlja3N0ZXJuIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2I2NmJjODBmMDAyYjEwMzcxZTJmYTIzZGU2ZjIzMGRkNWUyZjNhZmZjMmUxNTc4NmY2NWJjOWJlNGM2ZWI3MWEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

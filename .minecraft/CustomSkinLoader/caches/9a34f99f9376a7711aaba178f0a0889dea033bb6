@@ -1,0 +1,9 @@
+{
+  "id" : "9e466021dd484ffab1812b4bc76b3844",
+  "name" : "ItxLofe",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTA4MjEwNDI2OSwKICAicHJvZmlsZUlkIiA6ICI5ZTQ2NjAyMWRkNDg0ZmZhYjE4MTJiNGJjNzZiMzg0NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdHhMb2ZlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRkYWE1NDMyOWZkY2E1OTcxZjZkZjhmMDIyYWIzZjZlZjMwNWFmZTAyOThhZTA2NWJiOTUwNTE2MTcyZmFiMmIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

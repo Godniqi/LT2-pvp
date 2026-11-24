@@ -1,0 +1,9 @@
+{
+  "id" : "d919e0cb833e48e5ab2b2e5d80096bdd",
+  "name" : "Yorkee",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ3OTc2ODAxNSwKICAicHJvZmlsZUlkIiA6ICJkOTE5ZTBjYjgzM2U0OGU1YWIyYjJlNWQ4MDA5NmJkZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJZb3JrZWUiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2E5M2Y2ZmM0MDQ4OGYxODc3Y2RhOTRhODMwYjU0ZTlmNmY1NGFiNThhNTQ1M2JhZDVjOTQ3NzI2ZGQxZjQ3MyIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

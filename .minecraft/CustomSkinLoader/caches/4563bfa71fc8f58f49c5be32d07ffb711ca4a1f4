@@ -1,0 +1,9 @@
+{
+  "id" : "ea860bc2f1554e6190e7943d16374fcb",
+  "name" : "BravoWarrior",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ4MTM2NjQzNCwKICAicHJvZmlsZUlkIiA6ICJlYTg2MGJjMmYxNTU0ZTYxOTBlNzk0M2QxNjM3NGZjYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCcmF2b1dhcnJpb3IiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFiYzgwMzAyMmQ4MzAwYWI3NTc4YjE4OTI5NGNjZTM5NjIyZDlhNDA0Y2RjMDBkM2ZlYWNmZGY0NWJlNjk4MSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

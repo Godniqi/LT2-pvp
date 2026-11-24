@@ -1,0 +1,9 @@
+{
+  "id" : "83f294b7cb694e809b286a3e844b7765",
+  "name" : "flashtags",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDM5MzQwNzQzNSwKICAicHJvZmlsZUlkIiA6ICI4M2YyOTRiN2NiNjk0ZTgwOWIyODZhM2U4NDRiNzc2NSIsCiAgInByb2ZpbGVOYW1lIiA6ICJmbGFzaHRhZ3MiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZhY2QwNmU4NDgzYjE3NmU4ZWEzOWZjMTJmZTEwNWViM2EyYTQ5NzBmNTEwMDA1N2U5ZDg0ZDRiNjBiZGZhNyIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

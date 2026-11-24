@@ -1,0 +1,9 @@
+{
+  "id" : "3d039292527c4c3ba0e01e2ced312506",
+  "name" : "NavJ1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDIxNTQzMzM0NCwKICAicHJvZmlsZUlkIiA6ICIzZDAzOTI5MjUyN2M0YzNiYTBlMDFlMmNlZDMxMjUwNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJOYXZKMSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mN2Y2YzAwZTJiY2Q1NjgyN2EyNzlmNjg0NDQ0ODQ4YjZhMGZkZmJhYTcyMmIzMDY3YjQ2NzBlMWFkZGU0Y2U1IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

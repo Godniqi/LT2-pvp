@@ -1,0 +1,9 @@
+{
+  "id" : "17d43c8a8e6b46aa98c27cab11219fd3",
+  "name" : "MT_002",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNjg2NzU4NSwKICAicHJvZmlsZUlkIiA6ICIxN2Q0M2M4YThlNmI0NmFhOThjMjdjYWIxMTIxOWZkMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNVF8wMDIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWI5Y2M1NWUyMjVmZmNlMjFjMGY0MmU1MDk3NjAzMGViZDc1Y2Q5MDBhMTRkZTI2ZTc3OTJmNGE4ZjFiNzc1ZiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

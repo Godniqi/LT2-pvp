@@ -1,0 +1,9 @@
+{
+  "id" : "fe9706253b9041d3b17868565251a86a",
+  "name" : "doomspider",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNzM4MTc5OSwKICAicHJvZmlsZUlkIiA6ICJmZTk3MDYyNTNiOTA0MWQzYjE3ODY4NTY1MjUxYTg2YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJkb29tc3BpZGVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY0NDc2YTY1MWRiZDAxYzEyMWViOGU3NWY1NTJmN2MzOThjN2Q5Njg2MDZjNTA2MmI3ODczNzMxYmJlY2VmYzAiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

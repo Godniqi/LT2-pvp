@@ -1,0 +1,9 @@
+{
+  "id" : "2abfb33ea6f547b3802a68a73f554926",
+  "name" : "Hakkai_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTQ5ODc0MCwKICAicHJvZmlsZUlkIiA6ICIyYWJmYjMzZWE2ZjU0N2IzODAyYTY4YTczZjU1NDkyNiIsCiAgInByb2ZpbGVOYW1lIiA6ICJIYWtrYWlfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q3NDM1YWE1YjYyOWJiYzA2MDA1OTM1MDJkOWMzN2YyNGJhODE5NzhjN2RlMGVmMjhmN2MzMzlhZmFhOTE2YTQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

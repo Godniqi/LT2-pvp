@@ -1,0 +1,9 @@
+{
+  "id" : "d6504929c4434c5688eccd87f4b0857f",
+  "name" : "Tabooo_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTUxODI2NzA3OCwKICAicHJvZmlsZUlkIiA6ICJkNjUwNDkyOWM0NDM0YzU2ODhlY2NkODdmNGIwODU3ZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJUYWJvb29fIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzU3YTExM2UwOGEwMjhjMzUxM2UwYzY0OGQ5YzVlODgxMDc4MmY5Y2ViMmQzN2U1OWJjOTRkNmMwYjdjOGI2ZmIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

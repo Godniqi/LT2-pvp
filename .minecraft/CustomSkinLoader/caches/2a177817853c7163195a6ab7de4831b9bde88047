@@ -1,0 +1,9 @@
+{
+  "id" : "73247f6dbe9a4f21824f83ab9a051ebf",
+  "name" : "ZoBro_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTM0MDkyMiwKICAicHJvZmlsZUlkIiA6ICI3MzI0N2Y2ZGJlOWE0ZjIxODI0ZjgzYWI5YTA1MWViZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJab0Jyb18iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmM5MTc0OWMyNDE5Njk5ZGQwOGQwNjEwNjU4Y2NiMzM0M2U4YjE2Y2YwNjQxNDg2MzM2MGU0NjAyOTJiZWZjYSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

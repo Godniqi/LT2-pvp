@@ -1,0 +1,9 @@
+{
+  "id" : "da05b99c71764c10b266dcf26daff7d1",
+  "name" : "Sica_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjgxNTU5NywKICAicHJvZmlsZUlkIiA6ICJkYTA1Yjk5YzcxNzY0YzEwYjI2NmRjZjI2ZGFmZjdkMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaWNhXyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMWQ2MjM3NjA2ZTc1MzRhODFkNDcxNTBjNTUyZDAzNjFkZTE4ZGVmNTlkZTI5ZjkzNzhiNzllOTU3ODAxMTIxIgogICAgfSwKICAgICJDQVBFIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yMzQwYzBlMDNkZDI0YTExYjE1YThiMzNjMmE3ZTllMzJhYmIyMDUxYjI0ODFkMGJhN2RlZmQ2MzVjYTdhOTMzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

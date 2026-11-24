@@ -1,0 +1,9 @@
+{
+  "id" : "dcdf177606af47a8b8db601df3e81004",
+  "name" : "OblivionUnknown",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTM0MDA5NjQ3OSwKICAicHJvZmlsZUlkIiA6ICJkY2RmMTc3NjA2YWY0N2E4YjhkYjYwMWRmM2U4MTAwNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPYmxpdmlvblVua25vd24iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzQwZjI3YTNmZDIwOTEyMWY5YzdlNDZhNjdjOTcxYzM5MjZiOTBkOWQ5NjQ1NDg1YThjNDhjYWRiMzI2NTdmZSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

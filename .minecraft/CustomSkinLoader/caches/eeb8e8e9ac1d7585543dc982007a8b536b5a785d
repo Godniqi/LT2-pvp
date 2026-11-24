@@ -1,0 +1,9 @@
+{
+  "id" : "e5c399a36aa440928dce59e3d7bf8a5c",
+  "name" : "ajgamer",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTgyOTg2MSwKICAicHJvZmlsZUlkIiA6ICJlNWMzOTlhMzZhYTQ0MDkyOGRjZTU5ZTNkN2JmOGE1YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJhamdhbWVyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM2NWFlODY0YmRlYWUzMjQ5YjU2OThkMWEzMmVmMTdhMzQ1YWE1ZjhiOGEzMWUwZjFhYTc5MWIyZTQ2OTVhNTMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

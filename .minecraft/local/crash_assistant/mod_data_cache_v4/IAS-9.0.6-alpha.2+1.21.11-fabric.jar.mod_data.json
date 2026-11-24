@@ -1,0 +1,1 @@
+{"jarName":"IAS-9.0.6-alpha.2+1.21.11-fabric.jar","modId":"ias","name":"In-Game Account Switcher","version":"9.0.6-alpha.2+1.21.11-fabric","mixinConfigs":["ias.mixins.json","ias.mixins.refmap.json"],"jarJarMods":[],"curseForgeHash":1422533190,"modrinthHash":"2d704116f03ad6dbf68f36a8906a1192585733d4"}

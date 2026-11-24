@@ -1,0 +1,9 @@
+{
+  "id" : "58200106770f4a9492ea2af70405cc96",
+  "name" : "Krimzon",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTE2MjIyMjA3NCwKICAicHJvZmlsZUlkIiA6ICI1ODIwMDEwNjc3MGY0YTk0OTJlYTJhZjcwNDA1Y2M5NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLcmltem9uIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzZkYWRkODVlOWUzMGEwYmM5NWU2ODkyMmIxODZlZjY1NTE4ZTQ4ZDVkMTRiY2VlNzc5ZTNlN2M5YTYwOTM3MGMiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

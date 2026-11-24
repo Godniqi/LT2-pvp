@@ -1,0 +1,9 @@
+{
+  "id" : "2b02cdacdf8445c48e15886e6895f5cf",
+  "name" : "vitynn",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODI5ODQwNTY2MSwKICAicHJvZmlsZUlkIiA6ICIyYjAyY2RhY2RmODQ0NWM0OGUxNTg4NmU2ODk1ZjVjZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2aXR5bm4iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTU2N2M0MWFiZmFjNjhjMTE1MGZlNjdmYTZlYTFmNjViNWUwOWJiZjZhYmZkNWExZDhkNjMwOTg3YTM0MTJmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

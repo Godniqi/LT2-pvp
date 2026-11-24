@@ -1,0 +1,9 @@
+{
+  "id" : "f5985ba38cae48d786043645a0cb02d9",
+  "name" : "DangerDwight",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMDk3NjU0NCwKICAicHJvZmlsZUlkIiA6ICJmNTk4NWJhMzhjYWU0OGQ3ODYwNDM2NDVhMGNiMDJkOSIsCiAgInByb2ZpbGVOYW1lIiA6ICJEYW5nZXJEd2lnaHQiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTFkOWIyOGMxMDVjYWY4OGYzMTQ3OGNhZTA2NzYzYTY4NWZhZTNjNzUyODlmYWZiMDIyMzA3ZTdiOWE1ZWVmMSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

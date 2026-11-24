@@ -1,0 +1,9 @@
+{
+  "id" : "9c1baed0b150475db83de336a4e11bfa",
+  "name" : "Latte",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzE0NzMzMiwKICAicHJvZmlsZUlkIiA6ICI5YzFiYWVkMGIxNTA0NzVkYjgzZGUzMzZhNGUxMWJmYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJMYXR0ZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8yM2RkZjJmNzE0YzU1NGNmN2NjYWZkNTliMDNlNGJlZGNkNmZiMjRhOWVjYTZlZmRlNTQ2NjU2MTBhNzBjZWNiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

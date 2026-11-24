@@ -1,0 +1,9 @@
+{
+  "id" : "af166f77fc8e44128f6a0593a70972b7",
+  "name" : "Besok",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMDYxMDEwNywKICAicHJvZmlsZUlkIiA6ICJhZjE2NmY3N2ZjOGU0NDEyOGY2YTA1OTNhNzA5NzJiNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZXNvayIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80MDc5ZTk0MWU1Y2MwNWQwMWJhMjU0YTA0NzBkNmRkMDdlYjY0OGY1ZmViYWRkMjIzNzM4ODNlNTI5NzcyM2EwIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

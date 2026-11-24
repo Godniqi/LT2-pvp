@@ -1,0 +1,9 @@
+{
+  "id" : "fb3a3288a26a454e8ddcfd0b0c33d3f3",
+  "name" : "IceV2",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDU4Njg5MzA2MiwKICAicHJvZmlsZUlkIiA6ICJmYjNhMzI4OGEyNmE0NTRlOGRkY2ZkMGIwYzMzZDNmMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJJY2VWMiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS8xYTRhZjcxODQ1NWQ0YWFiNTI4ZTdhNjFmODZmYTI1ZTZhMzY5ZDE3NjhkY2IxM2Y3ZGYzMTlhNzEzZWI4MTBiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

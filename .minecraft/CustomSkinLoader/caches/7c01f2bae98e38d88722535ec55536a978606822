@@ -1,0 +1,9 @@
+{
+  "id" : "8216d2bb026045dfaf471a05a3c5b3c1",
+  "name" : "Mackishere",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDY0MDc2NjMyOCwKICAicHJvZmlsZUlkIiA6ICI4MjE2ZDJiYjAyNjA0NWRmYWY0NzFhMDVhM2M1YjNjMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWNraXNoZXJlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNlMDBmMDdjZThiN2MyZDYyYTcxNWI2MTMzNTI3YzQyNDgyMTM2YWQ0NDQzODY5MDc4ZTM2YTc1YTFiYjEzOTUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

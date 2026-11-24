@@ -1,0 +1,9 @@
+{
+  "id" : "fd7a0efa1cf543a2b76c12f7619eaa9a",
+  "name" : "Shirou7i",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDYzOTQ3MzcyMCwKICAicHJvZmlsZUlkIiA6ICJmZDdhMGVmYTFjZjU0M2EyYjc2YzEyZjc2MTllYWE5YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTaGlyb3U3aSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iNGM5OGE0OGZjNjcxNTRlZjM0ZmVhYWM5ZThkNTg4OGNkMTc2NzM0YzU2ZmUwYTViZGI0ZGFlNTI5MmY2ZWQ3IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

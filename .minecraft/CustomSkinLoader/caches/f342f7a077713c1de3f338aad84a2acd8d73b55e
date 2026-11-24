@@ -1,0 +1,9 @@
+{
+  "id" : "ea0f76828e3f4f449bfea9514ae63f71",
+  "name" : "bajun",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDkwNTc2NTcxMCwKICAicHJvZmlsZUlkIiA6ICJlYTBmNzY4MjhlM2Y0ZjQ0OWJmZWE5NTE0YWU2M2Y3MSIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWp1biIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hN2E4ZmQzMzAzMmE1N2QyY2JlNzk5YTAzMDBjZmQ2ZDljMGI0YzliYmFkMGYzZmQ5OTliMTRiNGFmNzJmMzUxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

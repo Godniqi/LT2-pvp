@@ -1,0 +1,9 @@
+{
+  "id" : "9bf525ce7af24ccb9139407748848ff0",
+  "name" : "MangoOasis",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDM5MzM4Nzk4MCwKICAicHJvZmlsZUlkIiA6ICI5YmY1MjVjZTdhZjI0Y2NiOTEzOTQwNzc0ODg0OGZmMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYW5nb09hc2lzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRjMDVhYjllMDdiMzUwNWRjM2VjMTEzNzBjM2JkY2U1NTcwYWQyZmIyYjU2MmU5YjlkZDljZjI3MWY4MWFhNDQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

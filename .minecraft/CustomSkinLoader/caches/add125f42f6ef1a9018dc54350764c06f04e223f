@@ -1,0 +1,9 @@
+{
+  "id" : "e623be1b90334d4badac52b6edf7156c",
+  "name" : "Keysi",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzYwMTg1MzEwMywKICAicHJvZmlsZUlkIiA6ICJlNjIzYmUxYjkwMzM0ZDRiYWRhYzUyYjZlZGY3MTU2YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJLZXlzaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lNzI5YzBkZDU2MjQ3YTBjMGI1ZDM3MDE3ZDAxYzViZmZlNDc2OTA4NzU2ZDY4NzA4Y2Q4YTdlMDNjNjkxOTFiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

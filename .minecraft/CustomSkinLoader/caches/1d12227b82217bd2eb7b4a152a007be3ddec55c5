@@ -1,0 +1,9 @@
+{
+  "id" : "a6838b74f1bb40449b14b1cbba4302a0",
+  "name" : "Ouk",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzI0MzE1NjI2MywKICAicHJvZmlsZUlkIiA6ICJhNjgzOGI3NGYxYmI0MDQ0OWIxNGIxY2JiYTQzMDJhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJPdWsiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDgxZjg2ZDhhNWZkOTRiZjZjNTJmZDczMDZhMmNlODg2YmJjYjZkNGFhNzJiYTFkMzY0MjBhOWRhZjdmZjc5NiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

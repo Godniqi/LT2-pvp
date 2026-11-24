@@ -1,0 +1,9 @@
+{
+  "id" : "6274167e121441c190ca990ecb04ce80",
+  "name" : "Civou",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzE0ODgzMSwKICAicHJvZmlsZUlkIiA6ICI2Mjc0MTY3ZTEyMTQ0MWMxOTBjYTk5MGVjYjA0Y2U4MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJDaXZvdSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84NDU1YTc3Nzg0YzQwNTAxMTdkMWQ3MWQzOGE2NWNlODAyMDY0YjVkYzM1YTE5MDFkODhmYWQ5M2YyNDZkNjZiIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

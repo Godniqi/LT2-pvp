@@ -1,0 +1,43 @@
+filename = 'CreamyKeys-1.21.X-26.X.jar'
+name = 'CreamyKeys'
+side = 'client'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.21',
+    '1.21.1',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4',
+    '1.21.5',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9',
+    '1.21.10',
+    '1.21.11',
+    '26.1',
+    '26.1.1',
+    '26.1.2',
+    '26.2',
+    '26.3'
+]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21.X+26.3'
+
+[download]
+hash = '1e110d670d4e33bf1e61d2ab4400d7a4bf70a8bd049b3a68391ef7738eb0ede082891f5c167a192e19456838821519f2f512971136e32a97b160f431fac60bda'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vKOxyOq8/versions/7zNB7a1P/CreamyKeys-1.21.X-26.X.jar'
+
+[update.modrinth]
+mod-id = 'vKOxyOq8'
+version = '7zNB7a1P'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'MdNZOBlg'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'mOgUt4GM'
+type = 'REQUIRED'

@@ -1,0 +1,9 @@
+{
+  "id" : "104aa4b76c5647458841b16d5fac3670",
+  "name" : "EggFire",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTg1NDQ4NDc0MCwKICAicHJvZmlsZUlkIiA6ICIxMDRhYTRiNzZjNTY0NzQ1ODg0MWIxNmQ1ZmFjMzY3MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFZ2dGaXJlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2JiNjM2OWIxMjU0OTAwYmRhMzRhODgzMzZjNWYxODE1OGMzYjBhMzRiNTdjOWE2N2FjYjVhMzUxYjA2ZjA5ZGQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

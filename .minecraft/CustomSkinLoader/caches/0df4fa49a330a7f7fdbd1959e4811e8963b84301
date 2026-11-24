@@ -1,0 +1,9 @@
+{
+  "id" : "2a3968438b18458cba26c0bbf4b75940",
+  "name" : "VIP8",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODMyMDE1NDI4MSwKICAicHJvZmlsZUlkIiA6ICIyYTM5Njg0MzhiMTg0NThjYmEyNmMwYmJmNGI3NTk0MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJWSVA4IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzMxZjQ3N2ViMWE3YmVlZTYzMWMyY2E2NGQwNmY4ZjY4ZmE5M2EzMzg2ZDA0NDUyYWIyN2Y0M2FjZGYxYjYwY2IiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

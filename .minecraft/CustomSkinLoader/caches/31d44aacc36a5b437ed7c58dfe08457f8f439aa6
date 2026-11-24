@@ -1,0 +1,9 @@
+{
+  "id" : "c5ec1a5e9ee94f76a02f95863ef7d354",
+  "name" : "archipelagoo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzU3NzczMDAxOSwKICAicHJvZmlsZUlkIiA6ICJjNWVjMWE1ZTllZTk0Zjc2YTAyZjk1ODYzZWY3ZDM1NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhcmNoaXBlbGFnb28iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDZjODViNGQ1MjA2NTQ2MDljM2ZjYzUzODU4NGE1MGQ1MjE4NDA5NmFjMGMwYTM4MDE5ZTQ4ZGMyN2NkMTU3NiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

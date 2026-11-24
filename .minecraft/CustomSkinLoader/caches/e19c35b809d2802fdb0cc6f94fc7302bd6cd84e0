@@ -1,0 +1,9 @@
+{
+  "id" : "2eea1c8a6bd94260b421f6af289f3ba3",
+  "name" : "Clzx",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzE0MDc0NTQzMSwKICAicHJvZmlsZUlkIiA6ICIyZWVhMWM4YTZiZDk0MjYwYjQyMWY2YWYyODlmM2JhMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJDbHp4IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzdkYjYwZTJjY2QxMzExYzFjMGUyNzNjNGRhOGNiYjhkYTJiNjExMGM1NGRjYTBmOTA0Y2ZiZTljYjc3ZjY5YjIiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

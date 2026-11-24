@@ -1,0 +1,9 @@
+{
+  "id" : "11ba073b21964230b3f77c03bd4f2dfd",
+  "name" : "pencil___",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNTE1NTkwMSwKICAicHJvZmlsZUlkIiA6ICIxMWJhMDczYjIxOTY0MjMwYjNmNzdjMDNiZDRmMmRmZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJwZW5jaWxfX18iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmE3NzY0M2ZhNmY0YWQyZWI1NjY1NzAwZjdmMTE3YWY1YTBkZjQ4ZmQ4NTI1MGRiOTk2MDcyNjgxOWZhYjI1YSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

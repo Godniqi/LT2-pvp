@@ -1,0 +1,9 @@
+{
+  "id" : "2449b5cc64fb4060800a4334fb8b4def",
+  "name" : "Blackberry",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzY5NDQ4ODA1NywKICAicHJvZmlsZUlkIiA6ICIyNDQ5YjVjYzY0ZmI0MDYwODAwYTQzMzRmYjhiNGRlZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJCbGFja2JlcnJ5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2QwNTgyMDc5Njk2Nzg1ZTg1OGEyYzQ3MDBiZmE5ZjQ3YjA1YjY4NjA4NTQ0YzUwOTQ3NmIwMDZmOGVkNWNlYzQiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

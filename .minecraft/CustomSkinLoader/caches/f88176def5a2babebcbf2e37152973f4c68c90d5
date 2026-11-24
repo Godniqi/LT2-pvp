@@ -1,0 +1,9 @@
+{
+  "id" : "588b2bb48b4d46568960b2177eea97a0",
+  "name" : "sycoraze",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjg5MjIxNTAxNCwKICAicHJvZmlsZUlkIiA6ICI1ODhiMmJiNDhiNGQ0NjU2ODk2MGIyMTc3ZWVhOTdhMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJzeWNvcmF6ZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lOTc3ZmZkZmJlY2I2MTFjMjgyYTBjNDE1NzUyMjc3OGQ2YTg3MDg1YjA3ZDk3MTNmYzlhNjk0Y2ZmZjdkMjAzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

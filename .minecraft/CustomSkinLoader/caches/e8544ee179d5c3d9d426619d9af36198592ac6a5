@@ -1,0 +1,9 @@
+{
+  "id" : "85996a05fc1243a7af6124e2e4db9432",
+  "name" : "KexXo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTE3NTE2NywKICAicHJvZmlsZUlkIiA6ICI4NTk5NmEwNWZjMTI0M2E3YWY2MTI0ZTJlNGRiOTQzMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJLZXhYbyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS85ZjllOTExMTRlMjllODk5MzcwZWYyZjZkZjA1NzljOTU3YWFhZWRjY2EwODYzNWE0OGRkOTdjOTE3Mzk4NTIzIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

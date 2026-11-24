@@ -1,0 +1,9 @@
+{
+  "id" : "ff204da2e6f547e68b5276f29ecd648a",
+  "name" : "Basilyo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjk5OTk5NjI5NywKICAicHJvZmlsZUlkIiA6ICJmZjIwNGRhMmU2ZjU0N2U2OGI1Mjc2ZjI5ZWNkNjQ4YSIsCiAgInByb2ZpbGVOYW1lIiA6ICJCYXNpbHlvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2M1OTcxMmQ0YzAxMTViMWZlYmFlN2E0NjhlNDdiMmQ1YjliMDIzZWJiZmZjOGJhOWFhZTBhNmVhMjM5YzkzZmMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

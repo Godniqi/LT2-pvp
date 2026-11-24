@@ -1,0 +1,9 @@
+{
+  "id" : "617afb1d650b409486353b806cfb6dba",
+  "name" : "NinoNakano_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY3Mzg4NTk4MiwKICAicHJvZmlsZUlkIiA6ICI2MTdhZmIxZDY1MGI0MDk0ODYzNTNiODA2Y2ZiNmRiYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOaW5vTmFrYW5vXyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZmRiYTFjOGNkZTAxZDJkMTRmYWJiY2EzNzA5ODk5MmRkMjZhOWQ4YjUxYTdmMzRmMDdjNmJiNzI5MTE4M2U4IiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

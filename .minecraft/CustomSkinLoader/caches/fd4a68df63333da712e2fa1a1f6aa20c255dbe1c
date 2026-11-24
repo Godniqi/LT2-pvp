@@ -1,0 +1,9 @@
+{
+  "id" : "90eabeaa95974e40b5bd994d90644f04",
+  "name" : "RockStaR10",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNTI0MjA1NywKICAicHJvZmlsZUlkIiA6ICI5MGVhYmVhYTk1OTc0ZTQwYjViZDk5NGQ5MDY0NGYwNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJSb2NrU3RhUjEwIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEyZjAyMTVmY2UxZTE3M2Y4MzFjNDU2ZDcwZjY4NmI3YmI0M2QyZmRiZmFjMTk0NDM0OWY2NjRkZTMwNmI2NDAiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

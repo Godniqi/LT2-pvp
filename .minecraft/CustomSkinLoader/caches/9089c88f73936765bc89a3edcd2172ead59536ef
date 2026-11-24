@@ -1,0 +1,9 @@
+{
+  "id" : "3ed0423452ed487eb118e267b1c29c38",
+  "name" : "Hawai",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjg5MTgyOTkwNiwKICAicHJvZmlsZUlkIiA6ICIzZWQwNDIzNDUyZWQ0ODdlYjExOGUyNjdiMWMyOWMzOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJIYXdhaSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kY2M3ZjE2MTk1MTZjYjQ2MWU0YTM0ZGUwYzE0N2FlMDA0MGUxZDRlMzU3MGZhMWE5MjUyYjgyNWI3ZWU0NzIxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

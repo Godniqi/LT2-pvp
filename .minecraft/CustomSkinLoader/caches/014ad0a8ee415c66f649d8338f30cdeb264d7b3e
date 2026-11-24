@@ -1,0 +1,9 @@
+{
+  "id" : "ecdb959a7cc64c0c92cb8b0586406d03",
+  "name" : "eggramen",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTM0MzA2NiwKICAicHJvZmlsZUlkIiA6ICJlY2RiOTU5YTdjYzY0YzBjOTJjYjhiMDU4NjQwNmQwMyIsCiAgInByb2ZpbGVOYW1lIiA6ICJlZ2dyYW1lbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jNDI4OTY5MTRhNDk4MjQ4NjAwNDgyODk4MGVjMmM0NDkzZWFjMzc1ZGZkMWE5NjFiYTRlZDNhNTRhMWVhMWI0IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "90068c722bee4175ad4c31dcc26d687c",
+  "name" : "ReTro9",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjk2MjU0NCwKICAicHJvZmlsZUlkIiA6ICI5MDA2OGM3MjJiZWU0MTc1YWQ0YzMxZGNjMjZkNjg3YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZVRybzkiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzFmNDc3ZWIxYTdiZWVlNjMxYzJjYTY0ZDA2ZjhmNjhmYTkzYTMzODZkMDQ0NTJhYjI3ZjQzYWNkZjFiNjBjYiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

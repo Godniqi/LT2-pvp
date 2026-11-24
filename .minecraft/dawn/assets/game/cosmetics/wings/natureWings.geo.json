@@ -1,0 +1,148 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.natureWings",
+        "texture_width": 16,
+        "texture_height": 16,
+        "visible_bounds_width": 4,
+        "visible_bounds_height": 3.5,
+        "visible_bounds_offset": [
+          0,
+          1.25,
+          0
+        ]
+      },
+      "bones": [
+        {
+          "name": "anchor_body",
+          "pivot": [
+            0,
+            24,
+            0
+          ]
+        },
+        {
+          "name": "wing",
+          "pivot": [
+            0,
+            19.92895,
+            3.10609
+          ],
+          "parent": "anchor_body"
+        },
+        {
+          "name": "bone",
+          "parent": "wing",
+          "pivot": [
+            -0.19419,
+            19.1,
+            1.93533
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -0.19419,
+                13.6,
+                1.74904
+              ],
+              "size": [
+                0,
+                21,
+                23
+              ],
+              "pivot": [
+                -0.19419,
+                19.1,
+                1.93533
+              ],
+              "rotation": [
+                -20,
+                60,
+                0
+              ],
+              "uv": {
+                "east": {
+                  "uv": [
+                    0,
+                    0
+                  ],
+                  "uv_size": [
+                    11.5,
+                    10.5
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    15.75,
+                    15.75
+                  ],
+                  "uv_size": [
+                    0,
+                    0
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "bone2",
+          "parent": "wing",
+          "pivot": [
+            0.19419,
+            19.1,
+            1.93533
+          ],
+          "cubes": [
+            {
+              "origin": [
+                0.19419,
+                13.6,
+                1.74904
+              ],
+              "size": [
+                0,
+                21,
+                23
+              ],
+              "pivot": [
+                0.19419,
+                19.1,
+                1.93533
+              ],
+              "rotation": [
+                -20,
+                -60,
+                0
+              ],
+              "uv": {
+                "east": {
+                  "uv": [
+                    15.75,
+                    15.75
+                  ],
+                  "uv_size": [
+                    0,
+                    0
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    11.5,
+                    0
+                  ],
+                  "uv_size": [
+                    -11.5,
+                    10.5
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

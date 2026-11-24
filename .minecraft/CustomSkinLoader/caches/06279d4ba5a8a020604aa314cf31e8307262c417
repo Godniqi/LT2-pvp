@@ -1,0 +1,9 @@
+{
+  "id" : "a6c6c9fe43754717bcc2661b624f4ab1",
+  "name" : "Vexility",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5MzY5Njg5NDQ5MSwKICAicHJvZmlsZUlkIiA6ICJhNmM2YzlmZTQzNzU0NzE3YmNjMjY2MWI2MjRmNGFiMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWZXhpbGl0eSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lY2RhOTFlM2YxMzU2YTJjMmE5YTliNWQyY2I0MmZiOGUwZDM3NzZlZGI1ZWJhMTdjYzY5YWRkOTU2ZGRlYjliIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

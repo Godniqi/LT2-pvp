@@ -1,0 +1,9 @@
+{
+  "id" : "db9f77c4b360470c95893711dd8d5f2d",
+  "name" : "Paradox_Alt",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTQ1NDkwMCwKICAicHJvZmlsZUlkIiA6ICJkYjlmNzdjNGIzNjA0NzBjOTU4OTM3MTFkZDhkNWYyZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQYXJhZG94X0FsdCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80YmEwZjNjNGExMWRiMWY3MDI0YWQ5NDFlOTRlOGIzZmVjMjU3YWNmZjRhM2ZmMTcyMGJlNWRjMzUxNmM5NGRmIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

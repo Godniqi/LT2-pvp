@@ -1,0 +1,9 @@
+{
+  "id" : "6f0dc0add3ed4300a149ed696d1f7935",
+  "name" : "ODoT",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTMyODk0NywKICAicHJvZmlsZUlkIiA6ICI2ZjBkYzBhZGQzZWQ0MzAwYTE0OWVkNjk2ZDFmNzkzNSIsCiAgInByb2ZpbGVOYW1lIiA6ICJPRG9UIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MyNmRiNTgwNTQyYjMxMjA2YjlmYzA0OGVlNTMzYjdlOWIwYmI4M2NjNmY3MDkyZjZmNzQwODEyMjUyYWJhNDMiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

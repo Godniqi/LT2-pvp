@@ -1,0 +1,9 @@
+{
+  "id" : "0488627e836a45c6984c5d041c8adaa4",
+  "name" : "chihab",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ5Nzc0NDc1OCwKICAicHJvZmlsZUlkIiA6ICIwNDg4NjI3ZTgzNmE0NWM2OTg0YzVkMDQxYzhhZGFhNCIsCiAgInByb2ZpbGVOYW1lIiA6ICJjaGloYWIiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGMwNWFiOWUwN2IzNTA1ZGMzZWMxMTM3MGMzYmRjZTU1NzBhZDJmYjJiNTYyZTliOWRkOWNmMjcxZjgxYWE0NCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

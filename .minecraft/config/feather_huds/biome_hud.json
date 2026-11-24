@@ -1,0 +1,21 @@
+{
+  "elementId": "biome_hud",
+  "version": 1,
+  "values": {
+    "border": false,
+    "backgroundColor": -2.147483648E9,
+    "borderColor": -1.0,
+    "visible": true,
+    "rgbMode": false,
+    "color": -1.0,
+    "scale": 1.0,
+    "backgroundOpacity": 0.5,
+    "enabled": false,
+    "background": true,
+    "borderWidth": 1.0,
+    "x": 0.0,
+    "y": 0.0,
+    "textOpacity": 1.0,
+    "textShadow": true
+  }
+}

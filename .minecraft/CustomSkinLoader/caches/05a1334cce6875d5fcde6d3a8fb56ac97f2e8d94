@@ -1,0 +1,9 @@
+{
+  "id" : "f52f6ac7854b4ed4ae0ec4a3d0e05c97",
+  "name" : "loi20",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MzExMTI3NiwKICAicHJvZmlsZUlkIiA6ICJmNTJmNmFjNzg1NGI0ZWQ0YWUwZWM0YTNkMGUwNWM5NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJsb2kyMCIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9iOGVkMGZiMjhlODQ0NzAxM2E0ZWUwYjA3MWI1ZGMzZGNlNDUyNWMzYTJmZWQ3ZjZhNTdkNmRiYWUzZDdlZTgyIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

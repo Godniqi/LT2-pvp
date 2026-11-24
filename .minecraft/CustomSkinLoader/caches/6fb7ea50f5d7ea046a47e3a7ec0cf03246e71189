@@ -1,0 +1,9 @@
+{
+  "id" : "749b3d7f12184f0a8cd1a094eb280583",
+  "name" : "SlimeMam",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTE2MzA5OTgzMSwKICAicHJvZmlsZUlkIiA6ICI3NDliM2Q3ZjEyMTg0ZjBhOGNkMWEwOTRlYjI4MDU4MyIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbGltZU1hbSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83Y2IzYmE1MmRkZDVjYzgyYzBiMDUwYzNmOTIwZjg3ZGEzNmFkZDgwMTY1ODQ2ZjQ3OTA3OTY2MzgwNTQzM2RiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

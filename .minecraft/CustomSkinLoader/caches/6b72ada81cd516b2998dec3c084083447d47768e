@@ -1,0 +1,9 @@
+{
+  "id" : "240c935f4f5c45e5aa6ff922b1b93be0",
+  "name" : "GodhandBurst",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTg1NTEyODA1OCwKICAicHJvZmlsZUlkIiA6ICIyNDBjOTM1ZjRmNWM0NWU1YWE2ZmY5MjJiMWI5M2JlMCIsCiAgInByb2ZpbGVOYW1lIiA6ICJHb2RoYW5kQnVyc3QiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2RkMTMwNDUyOTMwYzEzZDgyMjA3ZTE1NjhhOTA3NDA0NDc5YzdkNGE2YjgyYzUxZTQwZmRiNjgzMmJkMzM5MCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

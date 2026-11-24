@@ -1,0 +1,9 @@
+{
+  "id" : "9bcaa1c732c941459fcd948346bab80b",
+  "name" : "Vtoan",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3OTI4MjMwNjM1OCwKICAicHJvZmlsZUlkIiA6ICI5YmNhYTFjNzMyYzk0MTQ1OWZjZDk0ODM0NmJhYjgwYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJWdG9hbiIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9mYWU4NmFiMDc1NTE4MWZkY2EwYzY2NzBhZjIwMmNiMTc3MDdmOWFkMmNkZmY4ODNlOTMzZTFkZjRlNTE0ZjllIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

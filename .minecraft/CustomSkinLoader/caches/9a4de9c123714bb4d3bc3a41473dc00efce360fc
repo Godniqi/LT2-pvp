@@ -1,0 +1,9 @@
+{
+  "id" : "24e52be1ca2647248d13c99de34a7931",
+  "name" : "Iux01",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDkxNjQxMDA4MCwKICAicHJvZmlsZUlkIiA6ICIyNGU1MmJlMWNhMjY0NzI0OGQxM2M5OWRlMzRhNzkzMSIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdXgwMSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS81Njg1NmNhNWEyZDRjNTAxZDM3YTY5NjM5OGFiYWI0MDk5OTBkOTA4MWYwMjE5NGQ5ZTRjMTY2OTllYTk2Y2E0IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

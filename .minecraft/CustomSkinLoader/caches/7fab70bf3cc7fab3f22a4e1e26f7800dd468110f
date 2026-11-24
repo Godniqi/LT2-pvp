@@ -1,0 +1,9 @@
+{
+  "id" : "1208087d11254775b76d37b00a6a59e2",
+  "name" : "plager_123",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTUxODI2ODQ1MCwKICAicHJvZmlsZUlkIiA6ICIxMjA4MDg3ZDExMjU0Nzc1Yjc2ZDM3YjAwYTZhNTllMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJwbGFnZXJfMTIzIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcxODlkNDg3YTRhMDA0NzBlMGI5ZTEzNmIzZTEwODkzZjZlZWQwN2UzNmYwZjU1NzM4ZWI2MTJlN2Y0ZmRkZDciCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

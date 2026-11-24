@@ -1,0 +1,9 @@
+{
+  "id" : "f322b6adf277427c8027235a54b314be",
+  "name" : "NyxVI_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMDUxODMwMiwKICAicHJvZmlsZUlkIiA6ICJmMzIyYjZhZGYyNzc0MjdjODAyNzIzNWE1NGIzMTRiZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJOeXhWSV8iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTJjMTRlZjJkODA2ODVlMzFkODNiYzg4NGU4ODBiZGMyNTlhMGM5YmQ5MjAzM2RjNWNiNWJjM2MxNWVjOTIwNCIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

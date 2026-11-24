@@ -1,0 +1,23 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw0,0,49
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$duels-crystal:minecraft$overworld
+dimensionType:minecraft$the_end:minecraft$the_end
+dimensionType:minecraft$world2:minecraft$overworld
+dimensionType:minecraft$ffa-nethpot:minecraft$overworld
+dimensionType:minecraft$ffa-cart:minecraft$overworld
+dimensionType:minecraft$duels-sword:minecraft$overworld
+dimensionType:minecraft$duels-nethpot:minecraft$overworld
+dimensionType:minecraft$ffa-sword:minecraft$overworld
+dimensionType:minecraft$overworld:minecraft$overworld
+//third-party waypoints

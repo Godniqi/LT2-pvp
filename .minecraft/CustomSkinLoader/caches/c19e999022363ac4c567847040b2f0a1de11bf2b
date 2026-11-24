@@ -1,0 +1,9 @@
+{
+  "id" : "177a5328cd2947c7afc65dbd7877d5d7",
+  "name" : "Esquire",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc3ODc0NDI2OTgwNiwKICAicHJvZmlsZUlkIiA6ICIxNzdhNTMyOGNkMjk0N2M3YWZjNjVkYmQ3ODc3ZDVkNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJFc3F1aXJlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzY3Y2Q0NjRiM2RmNzFmOTU1NmVhNjQwNmUxYTQ0ZGIxMjllZWUzYTVjMDlkNGRjYTY5MDhiMzNiMWRiNGZlOWQiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

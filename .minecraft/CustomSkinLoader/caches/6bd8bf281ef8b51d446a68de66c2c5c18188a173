@@ -1,0 +1,9 @@
+{
+  "id" : "ebe87bd25c544362ae3c59c49a3c0ec2",
+  "name" : "Slim_Shady",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NTc1ODI1OCwKICAicHJvZmlsZUlkIiA6ICJlYmU4N2JkMjVjNTQ0MzYyYWUzYzU5YzQ5YTNjMGVjMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJTbGltX1NoYWR5IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzNiOWNkM2Y5NmE4ZDliNGMzM2NiYTI5ZDZjYzZlODViMWU5OWY2NzVhM2ExM2QwY2E3OWUzMjdhMDgyMzBlNWYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

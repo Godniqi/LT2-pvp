@@ -1,0 +1,9 @@
+{
+  "id" : "56348211d72a45fb9e9329224a48b4e7",
+  "name" : "RealYoAura",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDM5MDE3MzU1OCwKICAicHJvZmlsZUlkIiA6ICI1NjM0ODIxMWQ3MmE0NWZiOWU5MzI5MjI0YTQ4YjRlNyIsCiAgInByb2ZpbGVOYW1lIiA6ICJSZWFsWW9BdXJhIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcxYWUxMGM0ZDEwYzViMDg3NDcyNDJjMzQ5MjIyNjc3YjljMWFhNzU2Yjk1YTkzMzY3ZDdkMjNhNjNkZjkzNDciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

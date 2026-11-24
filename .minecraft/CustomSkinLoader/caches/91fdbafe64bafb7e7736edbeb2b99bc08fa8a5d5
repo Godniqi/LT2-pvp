@@ -1,0 +1,9 @@
+{
+  "id" : "c93a1d7c776847bdbda069c7b81fd758",
+  "name" : "FirstLove_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMDY0NDA0NSwKICAicHJvZmlsZUlkIiA6ICJjOTNhMWQ3Yzc3Njg0N2JkYmRhMDY5YzdiODFmZDc1OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJGaXJzdExvdmVfIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzJkNTAzYmUyMTkxOTNiYzkyMDQ3ZWViOTMyOWY0NWM5NWI3MTE2NWVkMDRkYmYxMDIzZDlmODNmZWNmOTcxOGEiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

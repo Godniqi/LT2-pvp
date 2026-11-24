@@ -1,0 +1,6682 @@
+{
+  "0": {
+    "id": "minecraft:elytra",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:mending": 1,
+        "minecraft:unbreaking": 3
+      }
+    }
+  },
+  "1": {
+    "id": "minecraft:firework_rocket",
+    "count": 64,
+    "components": {
+      "minecraft:fireworks": {
+        "flight_duration": 3
+      }
+    }
+  },
+  "2": {
+    "id": "minecraft:black_dye",
+    "count": 1,
+    "components": {
+      "minecraft:custom_data": {
+        "rategg": 1
+      },
+      "minecraft:consumable": {
+        "consume_seconds": 0.05,
+        "animation": "none",
+        "sound": "minecraft:intentionally_empty",
+        "has_consume_particles": false
+      },
+      "minecraft:enchantment_glint_override": true,
+      "minecraft:item_model": "minecraft:dragon_egg",
+      "minecraft:item_name": {
+        "translate": "block.minecraft.dragon_egg"
+      },
+      "minecraft:rarity": "epic",
+      "minecraft:max_stack_size": 1,
+      "minecraft:unbreakable": {}
+    }
+  },
+  "3": {
+    "id": "minecraft:netherite_spear",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:lunge": 3,
+        "minecraft:sharpness": 5,
+        "minecraft:mending": 1,
+        "minecraft:unbreaking": 3
+      }
+    }
+  },
+  "4": {
+    "id": "minecraft:golden_apple",
+    "count": 64
+  },
+  "5": {
+    "id": "minecraft:wind_charge",
+    "count": 64
+  },
+  "6": {
+    "id": "minecraft:ender_pearl",
+    "count": 16
+  },
+  "7": {
+    "id": "minecraft:netherite_sword",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:knockback": 1,
+        "minecraft:fire_aspect": 2,
+        "minecraft:sweeping_edge": 3,
+        "minecraft:sharpness": 5,
+        "minecraft:mending": 1,
+        "minecraft:looting": 3,
+        "minecraft:unbreaking": 3
+      }
+    }
+  },
+  "8": {
+    "id": "minecraft:netherite_axe",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:sharpness": 5,
+        "minecraft:silk_touch": 1,
+        "minecraft:efficiency": 5,
+        "minecraft:mending": 1,
+        "minecraft:unbreaking": 3
+      }
+    }
+  },
+  "9": {
+    "id": "minecraft:ender_chest",
+    "count": 64
+  },
+  "10": {
+    "id": "minecraft:firework_rocket",
+    "count": 64,
+    "components": {
+      "minecraft:fireworks": {
+        "flight_duration": 3
+      }
+    }
+  },
+  "11": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  },
+  "12": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  },
+  "13": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_fire_resistance"
+      }
+    }
+  },
+  "14": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_fire_resistance"
+      }
+    }
+  },
+  "15": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_fire_resistance"
+      }
+    }
+  },
+  "16": {
+    "id": "minecraft:experience_bottle",
+    "count": 64
+  },
+  "17": {
+    "id": "minecraft:experience_bottle",
+    "count": 64
+  },
+  "18": {
+    "id": "minecraft:netherite_pickaxe",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:silk_touch": 1,
+        "minecraft:efficiency": 5,
+        "minecraft:mending": 1,
+        "minecraft:unbreaking": 3
+      }
+    }
+  },
+  "19": {
+    "id": "minecraft:breeze_rod",
+    "count": 64
+  },
+  "20": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  },
+  "21": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  },
+  "22": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_swiftness"
+      }
+    }
+  },
+  "23": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_swiftness"
+      }
+    }
+  },
+  "24": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_swiftness"
+      }
+    }
+  },
+  "25": {
+    "id": "minecraft:ender_pearl",
+    "count": 16
+  },
+  "26": {
+    "id": "minecraft:experience_bottle",
+    "count": 64
+  },
+  "27": {
+    "id": "minecraft:water_bucket",
+    "count": 1
+  },
+  "28": {
+    "id": "minecraft:water_bucket",
+    "count": 1
+  },
+  "29": {
+    "id": "minecraft:golden_apple",
+    "count": 64
+  },
+  "30": {
+    "id": "minecraft:enchanted_golden_apple",
+    "count": 32
+  },
+  "31": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_strength"
+      }
+    }
+  },
+  "32": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_strength"
+      }
+    }
+  },
+  "33": {
+    "id": "minecraft:splash_potion",
+    "count": 1,
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:long_strength"
+      }
+    }
+  },
+  "34": {
+    "id": "minecraft:ender_pearl",
+    "count": 16
+  },
+  "35": {
+    "id": "minecraft:experience_bottle",
+    "count": 64
+  },
+  "36": {
+    "id": "minecraft:netherite_boots",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:depth_strider": 3,
+        "minecraft:feather_falling": 4,
+        "minecraft:protection": 4,
+        "minecraft:mending": 1,
+        "minecraft:unbreaking": 3
+      },
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "37": {
+    "id": "minecraft:netherite_leggings",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:protection": 4,
+        "minecraft:mending": 1,
+        "minecraft:unbreaking": 3
+      },
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:silence"
+      }
+    }
+  },
+  "38": {
+    "id": "minecraft:netherite_chestplate",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:protection": 4,
+        "minecraft:mending": 1,
+        "minecraft:unbreaking": 3
+      },
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:eye"
+      }
+    }
+  },
+  "39": {
+    "id": "minecraft:netherite_helmet",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:protection": 4,
+        "minecraft:aqua_affinity": 1,
+        "minecraft:respiration": 3,
+        "minecraft:mending": 1,
+        "minecraft:unbreaking": 3
+      },
+      "minecraft:trim": {
+        "material": "minecraft:netherite",
+        "pattern": "minecraft:flow"
+      }
+    }
+  },
+  "40": {
+    "id": "minecraft:shield",
+    "count": 1,
+    "components": {
+      "minecraft:enchantments": {
+        "minecraft:mending": 1,
+        "minecraft:unbreaking": 3
+      },
+      "minecraft:banner_patterns": [
+        {
+          "pattern": "minecraft:stripe_left",
+          "color": "white"
+        },
+        {
+          "pattern": "minecraft:stripe_right",
+          "color": "white"
+        },
+        {
+          "pattern": "minecraft:square_top_left",
+          "color": "black"
+        },
+        {
+          "pattern": "minecraft:triangles_top",
+          "color": "white"
+        },
+        {
+          "pattern": "minecraft:stripe_center",
+          "color": "black"
+        },
+        {
+          "pattern": "minecraft:stripe_bottom",
+          "color": "black"
+        },
+        {
+          "pattern": "minecraft:border",
+          "color": "white"
+        }
+      ],
+      "minecraft:base_color": "black"
+    }
+  },
+  "ender": {
+    "0": {
+      "id": "minecraft:yellow_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          }
+        ],
+        "minecraft:custom_name": "strength1"
+      }
+    },
+    "1": {
+      "id": "minecraft:light_blue_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          }
+        ],
+        "minecraft:custom_name": "speed1"
+      }
+    },
+    "2": {
+      "id": "minecraft:orange_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          }
+        ],
+        "minecraft:custom_name": "fire res"
+      }
+    },
+    "3": {
+      "id": "minecraft:black_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          }
+        ],
+        "minecraft:custom_name": "pearls"
+      }
+    },
+    "4": {
+      "id": "minecraft:light_gray_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:wind_charge",
+              "count": 64
+            }
+          }
+        ],
+        "minecraft:custom_name": "wc"
+      }
+    },
+    "5": {
+      "id": "minecraft:cobweb",
+      "count": 64
+    },
+    "6": {
+      "id": "minecraft:firework_rocket",
+      "count": 64,
+      "components": {
+        "minecraft:fireworks": {
+          "flight_duration": 3
+        }
+      }
+    },
+    "7": {
+      "id": "minecraft:lime_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:water_bucket",
+              "count": 1
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:water_bucket",
+              "count": 1
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:cobweb",
+              "count": 64
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:breeze_rod",
+              "count": 64
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:golden_apple",
+              "count": 64
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:cobweb",
+              "count": 64
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          }
+        ],
+        "minecraft:custom_name": "restock"
+      }
+    },
+    "8": {
+      "id": "minecraft:lime_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:water_bucket",
+              "count": 1
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:water_bucket",
+              "count": 1
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:cobweb",
+              "count": 64
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:breeze_rod",
+              "count": 64
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:golden_apple",
+              "count": 64
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:cobweb",
+              "count": 64
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          }
+        ],
+        "minecraft:custom_name": "restock"
+      }
+    },
+    "9": {
+      "id": "minecraft:yellow_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          }
+        ],
+        "minecraft:custom_name": "strength1"
+      }
+    },
+    "10": {
+      "id": "minecraft:light_blue_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          }
+        ],
+        "minecraft:custom_name": "speed1"
+      }
+    },
+    "11": {
+      "id": "minecraft:orange_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          }
+        ],
+        "minecraft:custom_name": "fire res"
+      }
+    },
+    "12": {
+      "id": "minecraft:blue_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          }
+        ],
+        "minecraft:custom_name": "totems"
+      }
+    },
+    "13": {
+      "id": "minecraft:blue_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          }
+        ],
+        "minecraft:custom_name": "totems"
+      }
+    },
+    "14": {
+      "id": "minecraft:cobweb",
+      "count": 64
+    },
+    "15": {
+      "id": "minecraft:firework_rocket",
+      "count": 64,
+      "components": {
+        "minecraft:fireworks": {
+          "flight_duration": 3
+        }
+      }
+    },
+    "16": {
+      "id": "minecraft:lime_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:water_bucket",
+              "count": 1
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:water_bucket",
+              "count": 1
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:cobweb",
+              "count": 64
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:breeze_rod",
+              "count": 64
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:golden_apple",
+              "count": 64
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:cobweb",
+              "count": 64
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          }
+        ],
+        "minecraft:custom_name": "restock"
+      }
+    },
+    "17": {
+      "id": "minecraft:lime_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:water_bucket",
+              "count": 1
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:water_bucket",
+              "count": 1
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:cobweb",
+              "count": 64
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:breeze_rod",
+              "count": 64
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:golden_apple",
+              "count": 64
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:cobweb",
+              "count": 64
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          }
+        ],
+        "minecraft:custom_name": "restock"
+      }
+    },
+    "18": {
+      "id": "minecraft:yellow_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          }
+        ],
+        "minecraft:custom_name": "strength1"
+      }
+    },
+    "19": {
+      "id": "minecraft:light_blue_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          }
+        ],
+        "minecraft:custom_name": "speed1"
+      }
+    },
+    "20": {
+      "id": "minecraft:orange_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          }
+        ],
+        "minecraft:custom_name": "fire res"
+      }
+    },
+    "21": {
+      "id": "minecraft:pink_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          }
+        ],
+        "minecraft:custom_name": "xp"
+      }
+    },
+    "22": {
+      "id": "minecraft:pink_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          }
+        ],
+        "minecraft:custom_name": "xp"
+      }
+    },
+    "23": {
+      "id": "minecraft:shield",
+      "count": 1,
+      "components": {
+        "minecraft:enchantments": {
+          "minecraft:mending": 1,
+          "minecraft:unbreaking": 3
+        },
+        "minecraft:banner_patterns": [
+          {
+            "pattern": "minecraft:stripe_left",
+            "color": "white"
+          },
+          {
+            "pattern": "minecraft:stripe_right",
+            "color": "white"
+          },
+          {
+            "pattern": "minecraft:square_top_left",
+            "color": "black"
+          },
+          {
+            "pattern": "minecraft:triangles_top",
+            "color": "white"
+          },
+          {
+            "pattern": "minecraft:stripe_center",
+            "color": "black"
+          },
+          {
+            "pattern": "minecraft:stripe_bottom",
+            "color": "black"
+          },
+          {
+            "pattern": "minecraft:border",
+            "color": "white"
+          }
+        ],
+        "minecraft:base_color": "black"
+      }
+    },
+    "24": {
+      "id": "minecraft:shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:netherite_helmet",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:aqua_affinity": 1,
+                  "minecraft:respiration": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:netherite_chestplate",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:netherite_leggings",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:swift_sneak": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:netherite_boots",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:feather_falling": 4,
+                  "minecraft:depth_strider": 3,
+                  "minecraft:protection": 4,
+                  "minecraft:soul_speed": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:netherite_helmet",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:aqua_affinity": 1,
+                  "minecraft:respiration": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:netherite_chestplate",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:netherite_leggings",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:swift_sneak": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:netherite_boots",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:feather_falling": 4,
+                  "minecraft:depth_strider": 3,
+                  "minecraft:protection": 4,
+                  "minecraft:soul_speed": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:netherite_chestplate",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:netherite_helmet",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:aqua_affinity": 1,
+                  "minecraft:respiration": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:netherite_chestplate",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:netherite_leggings",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:swift_sneak": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:netherite_boots",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:feather_falling": 4,
+                  "minecraft:depth_strider": 3,
+                  "minecraft:protection": 4,
+                  "minecraft:soul_speed": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:netherite_helmet",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:aqua_affinity": 1,
+                  "minecraft:respiration": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:netherite_chestplate",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:netherite_leggings",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:swift_sneak": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:netherite_boots",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:feather_falling": 4,
+                  "minecraft:depth_strider": 3,
+                  "minecraft:protection": 4,
+                  "minecraft:soul_speed": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:netherite_chestplate",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:netherite_helmet",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:aqua_affinity": 1,
+                  "minecraft:respiration": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:netherite_chestplate",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:netherite_leggings",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:swift_sneak": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:netherite_boots",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:feather_falling": 4,
+                  "minecraft:depth_strider": 3,
+                  "minecraft:protection": 4,
+                  "minecraft:soul_speed": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:netherite_helmet",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:aqua_affinity": 1,
+                  "minecraft:respiration": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:netherite_chestplate",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:netherite_leggings",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:swift_sneak": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:netherite_boots",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:feather_falling": 4,
+                  "minecraft:depth_strider": 3,
+                  "minecraft:protection": 4,
+                  "minecraft:soul_speed": 3,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:netherite_chestplate",
+              "count": 1,
+              "components": {
+                "minecraft:enchantments": {
+                  "minecraft:protection": 4,
+                  "minecraft:mending": 1,
+                  "minecraft:unbreaking": 3
+                }
+              }
+            }
+          }
+        ],
+        "minecraft:custom_name": "gear"
+      }
+    },
+    "25": {
+      "id": "minecraft:lime_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:water_bucket",
+              "count": 1
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:water_bucket",
+              "count": 1
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:cobweb",
+              "count": 64
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:breeze_rod",
+              "count": 64
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:golden_apple",
+              "count": 64
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:cobweb",
+              "count": 64
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          }
+        ],
+        "minecraft:custom_name": "restock"
+      }
+    },
+    "26": {
+      "id": "minecraft:lime_shulker_box",
+      "count": 1,
+      "components": {
+        "minecraft:container": [
+          {
+            "slot": 0,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 1,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 2,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 3,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 4,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_fire_resistance"
+                }
+              }
+            }
+          },
+          {
+            "slot": 5,
+            "item": {
+              "id": "minecraft:water_bucket",
+              "count": 1
+            }
+          },
+          {
+            "slot": 6,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 7,
+            "item": {
+              "id": "minecraft:ender_pearl",
+              "count": 16
+            }
+          },
+          {
+            "slot": 8,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 9,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 10,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 11,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 12,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 13,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_swiftness"
+                }
+              }
+            }
+          },
+          {
+            "slot": 14,
+            "item": {
+              "id": "minecraft:water_bucket",
+              "count": 1
+            }
+          },
+          {
+            "slot": 15,
+            "item": {
+              "id": "minecraft:experience_bottle",
+              "count": 64
+            }
+          },
+          {
+            "slot": 16,
+            "item": {
+              "id": "minecraft:cobweb",
+              "count": 64
+            }
+          },
+          {
+            "slot": 17,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          },
+          {
+            "slot": 18,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 19,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 20,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 21,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 22,
+            "item": {
+              "id": "minecraft:splash_potion",
+              "count": 1,
+              "components": {
+                "minecraft:potion_contents": {
+                  "potion": "minecraft:long_strength"
+                }
+              }
+            }
+          },
+          {
+            "slot": 23,
+            "item": {
+              "id": "minecraft:breeze_rod",
+              "count": 64
+            }
+          },
+          {
+            "slot": 24,
+            "item": {
+              "id": "minecraft:golden_apple",
+              "count": 64
+            }
+          },
+          {
+            "slot": 25,
+            "item": {
+              "id": "minecraft:cobweb",
+              "count": 64
+            }
+          },
+          {
+            "slot": 26,
+            "item": {
+              "id": "minecraft:totem_of_undying",
+              "count": 1
+            }
+          }
+        ],
+        "minecraft:custom_name": "restock"
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "d413fc04fcd14fd2946f2a2924bcbb68",
+  "name" : "Paolo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MTA3OTc2MTkxMiwKICAicHJvZmlsZUlkIiA6ICJkNDEzZmMwNGZjZDE0ZmQyOTQ2ZjJhMjkyNGJjYmI2OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJQYW9sbyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9lMWMwM2ZkZGQwODcyN2QyMGUzYjc3NmU5NWIwNGFjOTkwNDBiMTVmNjRmNjZhNTcyYzA3YjBiMjg5YTg4ZmZlIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

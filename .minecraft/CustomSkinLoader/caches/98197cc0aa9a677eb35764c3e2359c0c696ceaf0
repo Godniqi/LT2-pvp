@@ -1,0 +1,9 @@
+{
+  "id" : "c817c8ff2d244acda5eeb8113b1758ac",
+  "name" : "MagmaSauce",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzE2MTc1MzExOCwKICAicHJvZmlsZUlkIiA6ICJjODE3YzhmZjJkMjQ0YWNkYTVlZWI4MTEzYjE3NThhYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYWdtYVNhdWNlIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzM1Y2ZkODIzYzAwYTZiYjdiZDI3NDI2ZWNiOGFmYTA5ZDM2ZjAzYzk3MGFkNzFjZTc0ZGI4YzUxYmRiMTZhNmUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

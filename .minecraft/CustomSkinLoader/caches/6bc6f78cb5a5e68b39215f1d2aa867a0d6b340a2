@@ -1,0 +1,9 @@
+{
+  "id" : "7722e6f1a90f466fa72dc06fc211c3fa",
+  "name" : "_Lisa_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNTIxMDE4NiwKICAicHJvZmlsZUlkIiA6ICI3NzIyZTZmMWE5MGY0NjZmYTcyZGMwNmZjMjExYzNmYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJfTGlzYV8iLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjM1MGVmMGM0YjJjYzE0YjU2MTBjM2YyYTVkOThhYTg4NTAxMGM1NTNjMmZmODhhMDM4NGE4MWFhNGFmNTVmZiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

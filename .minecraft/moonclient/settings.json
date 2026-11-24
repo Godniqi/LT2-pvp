@@ -1,0 +1,524 @@
+{
+  "FPS": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "show_background": true,
+      "bg_opacity": 0.0,
+      "prefix": "FPS: ",
+      "style": "Detailed"
+    }
+  },
+  "CPS Counter": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "show_background": true,
+      "bg_opacity": 0.5,
+      "show_right": true,
+      "only_clicking": false
+    }
+  },
+  "Keystrokes": {
+    "enabled": true,
+    "settings": {
+      "pressed_color": "#FFFFFFFF",
+      "released_color": "#FF333333",
+      "text_color": "#FFFFFFFF",
+      "bg_opacity": 0.1,
+      "show_mouse": true,
+      "show_spacebar": true,
+      "key_size": 22.0
+    }
+  },
+  "Coordinates": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "show_background": true,
+      "bg_opacity": 0.5,
+      "nether_coords": false,
+      "show_direction": true,
+      "decimals": 1.0,
+      "display_mode": "Vertical"
+    }
+  },
+  "Direction HUD": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "style": "Text"
+    }
+  },
+  "Armor Status": {
+    "enabled": true,
+    "settings": {
+      "show_durability": true,
+      "color_durability": true,
+      "orientation": "Vertical",
+      "hide_full": false
+    }
+  },
+  "Potion Effects": {
+    "enabled": true,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "compact": false,
+      "show_background": true,
+      "bg_opacity": 0.0
+    }
+  },
+  "Clock": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "show_background": true,
+      "bg_opacity": 0.5,
+      "24_hour": false,
+      "show_seconds": false
+    }
+  },
+  "Potion Counter": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "show_background": true
+    }
+  },
+  "Saturation": {
+    "enabled": false,
+    "settings": {
+      "show_saturation": true,
+      "food_preview": true,
+      "sat_color": "#FFE79238"
+    }
+  },
+  "Scoreboard": {
+    "enabled": false,
+    "settings": {
+      "hide_numbers": true,
+      "title_color": "#FFFFFFFF",
+      "bg_opacity": 0.4
+    }
+  },
+  "Boss Bar": {
+    "enabled": false,
+    "settings": {
+      "hide_vanilla": false,
+      "scale": 1.0,
+      "bar_color": "#FF49ADD7"
+    }
+  },
+  "Cooldowns": {
+    "enabled": false,
+    "settings": {
+      "icon_scale": 1.0,
+      "text_color": "#FFFFFFFF"
+    }
+  },
+  "Crosshair": {
+    "enabled": false,
+    "settings": {
+      "style": "Cross",
+      "color": "#FFFFFFFF",
+      "reach_color": "#FFFF5555",
+      "ally_color": "#FF55FF55",
+      "thickness": 2.0,
+      "gap": 3.0,
+      "size": 6.0,
+      "dot": false,
+      "outline": true,
+      "dynamic": true,
+      "custom_data": ""
+    }
+  },
+  "Block Outline": {
+    "enabled": false,
+    "settings": {
+      "outline_color": "#FF000000",
+      "thickness": 2.0,
+      "entity_hitbox": false
+    }
+  },
+  "NameTags": {
+    "enabled": true,
+    "settings": {
+      "show_health": true,
+      "show_distance": false,
+      "hide_own": false,
+      "show_own_third_person": true,
+      "name_color": "#FFFFFFFF",
+      "scale": 1.0
+    }
+  },
+  "Chat": {
+    "enabled": false,
+    "settings": {
+      "timestamps": false,
+      "copy_message": true,
+      "history": 100.0,
+      "bg_opacity": 0.5
+    }
+  },
+  "Tab Editor": {
+    "enabled": false,
+    "settings": {
+      "hide_ping": false,
+      "ping_numbers": true,
+      "hide_heads": false,
+      "player_count": true,
+      "custom_header": false
+    }
+  },
+  "Chunk Borders": {
+    "enabled": false,
+    "settings": {
+      "border_color": "#800000FF",
+      "line_width": 1.0,
+      "keybind": 298
+    }
+  },
+  "Scrollable Tooltips": {
+    "enabled": false,
+    "settings": {
+      "max_height": 200.0,
+      "speed": 10.0
+    }
+  },
+  "Combo Counter": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "show_background": true
+    }
+  },
+  "Reach Display": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "show_background": true,
+      "bg_opacity": 0.5,
+      "mode": "Blocks",
+      "fade": 3.0
+    }
+  },
+  "PvP Info": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "kills": true,
+      "deaths": true,
+      "kd": true
+    }
+  },
+  "Totem Counter": {
+    "enabled": true,
+    "settings": {
+      "icon": true,
+      "text_color": "#FFFFFFFF"
+    }
+  },
+  "Hit Color": {
+    "enabled": false,
+    "settings": {
+      "hit_color": "#4BFF0000"
+    }
+  },
+  "Damage Tint": {
+    "enabled": false,
+    "settings": {
+      "color": "#FFFF0000",
+      "intensity": 1.0
+    }
+  },
+  "Stopwatch": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "toggle_key": 80,
+      "reset_key": 79
+    }
+  },
+  "Playtime": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF"
+    }
+  },
+  "Ping": {
+    "enabled": true,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "dynamic": true
+    }
+  },
+  "Day Counter": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF"
+    }
+  },
+  "Item Tracker": {
+    "enabled": false,
+    "settings": {
+      "bg": false
+    }
+  },
+  "Server Address": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "show_background": true
+    }
+  },
+  "Memory Usage": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "show_percent": true
+    }
+  },
+  "BPS": {
+    "enabled": false,
+    "settings": {
+      "text_color": "#FFFFFFFF",
+      "show_background": false
+    }
+  },
+  "Fullbright": {
+    "enabled": false,
+    "settings": {}
+  },
+  "Time Changer": {
+    "enabled": false,
+    "settings": {
+      "time": "Day"
+    }
+  },
+  "Particle Multiplier": {
+    "enabled": false,
+    "settings": {
+      "multiplier": 1.0,
+      "sharp": false
+    }
+  },
+  "Particles": {
+    "enabled": false,
+    "settings": {
+      "mode": "All"
+    }
+  },
+  "Fire Height": {
+    "enabled": false,
+    "settings": {
+      "height": 0.5
+    }
+  },
+  "FOV Changer": {
+    "enabled": false,
+    "settings": {
+      "sprint": 1.1500000000000001,
+      "fly": 1.25
+    }
+  },
+  "Sharpness Particles": {
+    "enabled": false,
+    "settings": {
+      "multi": 2.0
+    }
+  },
+  "Item Physics": {
+    "enabled": true,
+    "settings": {
+      "spin": 1.0,
+      "old": false
+    }
+  },
+  "Entity Culling": {
+    "enabled": true,
+    "settings": {
+      "distance": 32.0
+    }
+  },
+  "Hide Foliage": {
+    "enabled": true,
+    "settings": {
+      "grass": true,
+      "flowers": false
+    }
+  },
+  "Limit Unfocused FPS": {
+    "enabled": false,
+    "settings": {
+      "fps": 30.0
+    }
+  },
+  "Menu Blur": {
+    "enabled": true,
+    "settings": {
+      "radius": 15.0,
+      "fade": 0.30000000000000004
+    }
+  },
+  "Memory Cleaner": {
+    "enabled": false,
+    "settings": {
+      "threshold": 75.0,
+      "cooldown": 30.0,
+      "auto_clean": true,
+      "show_notification": true
+    }
+  },
+  "Render Optimizer": {
+    "enabled": true,
+    "settings": {
+      "entity_render_dist": 64.0,
+      "block_entity_render_dist": 48.0,
+      "max_particles": 500.0,
+      "disable_entity_shadows": true,
+      "reduced_animations": false,
+      "skip_invisible": true,
+      "batch_entity": true
+    }
+  },
+  "Chunk Optimizer": {
+    "enabled": true,
+    "settings": {
+      "max_chunk_updates": 8.0,
+      "prioritize_nearby": true,
+      "skip_empty": true,
+      "lazy_loading": true,
+      "lazy_distance": 6.0,
+      "async_chunk_building": true
+    }
+  },
+  "Network Optimizer": {
+    "enabled": true,
+    "settings": {
+      "optimize_movement": true,
+      "throttle_entities": true,
+      "entity_update_dist": 32.0,
+      "cache_chunks": true,
+      "reduce_particle_packets": false
+    }
+  },
+  "Weather Controller": {
+    "enabled": true,
+    "settings": {
+      "hide_rain": true,
+      "hide_snow": true,
+      "disable_thunder": true,
+      "clear_fog": true,
+      "disable_sounds": false
+    }
+  },
+  "Lighting Engine": {
+    "enabled": true,
+    "settings": {
+      "max_light_updates": 128.0,
+      "defer_updates": true,
+      "skip_redundant": true,
+      "smooth_propagation": true,
+      "spread_frames": 4.0
+    }
+  },
+  "Startup Optimizer": {
+    "enabled": true,
+    "settings": {
+      "lazy_models": true,
+      "cache_resources": true,
+      "parallel_loading": true,
+      "optimize_atlas": true,
+      "skip_unused": false
+    }
+  },
+  "Toggle Sprint": {
+    "enabled": true,
+    "settings": {
+      "toggle_sprint": true,
+      "toggle_sneak": false,
+      "fly_boost": false,
+      "fly_boost_mult": 2.0,
+      "show_hud": true,
+      "text_color": "#FFFFFFFF"
+    }
+  },
+  "Zoom": {
+    "enabled": false,
+    "settings": {
+      "default_zoom": 4.0,
+      "scroll_zoom": false,
+      "smooth_zoom": true,
+      "zoom_key": 67
+    }
+  },
+  "Freelook": {
+    "enabled": true,
+    "settings": {
+      "invert_pitch": false,
+      "freelook_key": 342
+    }
+  },
+  "Pack Organizer": {
+    "enabled": false,
+    "settings": {}
+  },
+  "Auto Text Hotkey": {
+    "enabled": false,
+    "settings": {
+      "mappings": "R\u003d/msg ; F5\u003d/hub"
+    }
+  },
+  "Smart Disconnect": {
+    "enabled": false,
+    "settings": {
+      "confirm": true
+    }
+  },
+  "3D Skins": {
+    "enabled": true,
+    "settings": {
+      "layers": true
+    }
+  },
+  "Modern Keybind Handling": {
+    "enabled": true,
+    "settings": {
+      "ctrl": true
+    }
+  },
+  "Waypoints": {
+    "enabled": false,
+    "settings": {
+      "mark": 66,
+      "dist": true,
+      "beam": true
+    }
+  },
+  "Screenshot Uploader": {
+    "enabled": false,
+    "settings": {
+      "auto": false,
+      "copy_clipboard": true
+    }
+  },
+  "Auto GG": {
+    "enabled": false,
+    "settings": {
+      "delay": 1.0,
+      "message": "gg"
+    }
+  },
+  "AntiGG": {
+    "enabled": false,
+    "settings": {}
+  },
+  "UHC Overlay": {
+    "enabled": false,
+    "settings": {
+      "big_items": true,
+      "big_apples": true,
+      "apple_scale": 1.5
+    }
+  }
+}

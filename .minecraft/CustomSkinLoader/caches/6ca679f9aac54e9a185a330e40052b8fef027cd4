@@ -1,0 +1,9 @@
+{
+  "id" : "2f3e83ee059444b482e13e6ec610a0df",
+  "name" : "beamY",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk3MDA0MzIwMCwKICAicHJvZmlsZUlkIiA6ICIyZjNlODNlZTA1OTQ0NGI0ODJlMTNlNmVjNjEwYTBkZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiZWFtWSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jMWQ5MGZmODRkZDIxNzg3MjZjZmUxYzBjY2NkZTMzYTc4NTQyYmYxMWMxYjhlYTZlNmNhYjA2ZmI1NzM3YmY5IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

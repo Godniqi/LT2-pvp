@@ -1,0 +1,158 @@
+{
+  "format_version": "1.12.0",
+  "minecraft:geometry": [
+    {
+      "description": {
+        "identifier": "geometry.pirateCaptainWings",
+        "texture_width": 32,
+        "texture_height": 32,
+        "visible_bounds_width": 5,
+        "visible_bounds_height": 3.5,
+        "visible_bounds_offset": [
+          0,
+          1.25,
+          0
+        ]
+      },
+      "bones": [
+        {
+          "name": "anchor_body",
+          "pivot": [
+            0,
+            24,
+            0
+          ]
+        },
+        {
+          "name": "wing",
+          "pivot": [
+            1.80581,
+            19.1,
+            1.93533
+          ],
+          "parent": "anchor_body"
+        },
+        {
+          "name": "group",
+          "parent": "wing",
+          "pivot": [
+            1.80581,
+            19.1,
+            1.93533
+          ],
+          "rotation": [
+            0,
+            0,
+            20
+          ],
+          "cubes": [
+            {
+              "origin": [
+                1.40581,
+                15.3,
+                1.75
+              ],
+              "size": [
+                0,
+                21,
+                23
+              ],
+              "pivot": [
+                1.4,
+                21.3,
+                2
+              ],
+              "rotation": [
+                -20,
+                60,
+                0
+              ],
+              "uv": {
+                "east": {
+                  "uv": [
+                    1,
+                    0
+                  ],
+                  "uv_size": [
+                    23,
+                    21
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    31.5,
+                    31.5
+                  ],
+                  "uv_size": [
+                    0,
+                    0
+                  ]
+                }
+              }
+            }
+          ]
+        },
+        {
+          "name": "group2",
+          "parent": "wing",
+          "pivot": [
+            -0.80581,
+            19.1,
+            1.93533
+          ],
+          "rotation": [
+            0,
+            0,
+            -20
+          ],
+          "cubes": [
+            {
+              "origin": [
+                -0.80581,
+                15.6,
+                1.75
+              ],
+              "size": [
+                0,
+                21,
+                23
+              ],
+              "pivot": [
+                -0.8,
+                21,
+                2
+              ],
+              "rotation": [
+                -20,
+                -60,
+                0
+              ],
+              "uv": {
+                "east": {
+                  "uv": [
+                    31.5,
+                    31.5
+                  ],
+                  "uv_size": [
+                    0,
+                    0
+                  ]
+                },
+                "west": {
+                  "uv": [
+                    24,
+                    0
+                  ],
+                  "uv_size": [
+                    -23,
+                    21
+                  ]
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

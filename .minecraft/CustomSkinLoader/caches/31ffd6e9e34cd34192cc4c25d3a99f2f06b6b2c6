@@ -1,0 +1,9 @@
+{
+  "id" : "095f7dc658b04c17a398715b9484ee3a",
+  "name" : "VoidVex",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTQzNzU3OSwKICAicHJvZmlsZUlkIiA6ICIwOTVmN2RjNjU4YjA0YzE3YTM5ODcxNWI5NDg0ZWUzYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJWb2lkVmV4IiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Q0ZGJjZWViMWU4ZmQxZDEzYmVjMTJkMTJhN2ViZDU0Mzg2NzU2ZjVkMGY2ZDc2NjIyNWEzYTkwNzYzOGE4NjUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

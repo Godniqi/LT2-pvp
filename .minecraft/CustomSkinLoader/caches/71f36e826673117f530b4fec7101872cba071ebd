@@ -1,0 +1,9 @@
+{
+  "id" : "18428ae44e12441cb7de928a4d913a6e",
+  "name" : "soccer1",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTI1ODg0MSwKICAicHJvZmlsZUlkIiA6ICIxODQyOGFlNDRlMTI0NDFjYjdkZTkyOGE0ZDkxM2E2ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJzb2NjZXIxIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ2ZDhmNmFiNDU3MzY4Yzk4MTU5ODc4NjY1ZTg2MTA4MTg1NDU2ZjljNTI2YzMxOWQzNTQwOTFjNjZmZDNjNSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

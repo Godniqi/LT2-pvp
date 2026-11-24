@@ -1,0 +1,9 @@
+{
+  "id" : "68bdd50afc3c465cbb39cc7fbce65f78",
+  "name" : "IvoryMist",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MjIwNTYyNjgzNCwKICAicHJvZmlsZUlkIiA6ICI2OGJkZDUwYWZjM2M0NjVjYmIzOWNjN2ZiY2U2NWY3OCIsCiAgInByb2ZpbGVOYW1lIiA6ICJJdm9yeU1pc3QiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmYxMWNmMTcwNmRiN2UyOTAzODAwZjE3MDJiZjAzYjdlN2M2YmU4ZmVlN2Y1MmYxOGJjY2YwNjY0YTIyNTcxNiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

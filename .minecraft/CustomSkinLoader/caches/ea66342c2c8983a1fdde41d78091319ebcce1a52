@@ -1,0 +1,9 @@
+{
+  "id" : "7a22a2666beb41bbb7d9743d767282fb",
+  "name" : "Marina_MC",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDQ5ODc4NzQ2NSwKICAicHJvZmlsZUlkIiA6ICI3YTIyYTI2NjZiZWI0MWJiYjdkOTc0M2Q3NjcyODJmYiIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXJpbmFfTUMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWMyYzNlY2U0MmQwN2Y4MDlkZDdiZjM1Njg4OTc2MTY5ZTFiOGFkZmRmOGZmOTUxMzcxNjNiYzNiMzEzM2NmNCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

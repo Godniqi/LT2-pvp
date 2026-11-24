@@ -1,0 +1,9 @@
+{
+  "id" : "bd619a2a5479442dbb37ef0c2bcd4012",
+  "name" : "_Rimuru_",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzA2OTA0MTUxMSwKICAicHJvZmlsZUlkIiA6ICJiZDYxOWEyYTU0Nzk0NDJkYmIzN2VmMGMyYmNkNDAxMiIsCiAgInByb2ZpbGVOYW1lIiA6ICJfUmltdXJ1XyIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9jZTQxOTQxZmYxZjgyYzZkY2YxNmFjZWEyYzhmMzJkMjc0ZDAzZmVlOTQ5YzNkMDE4MGVhMTNlNmYzYmQ2ZTQyIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

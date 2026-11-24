@@ -1,0 +1,9 @@
+{
+  "id" : "70accd594b5d418784c42a8665a6072f",
+  "name" : "kawaaai",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzk2NTk3MzM2NywKICAicHJvZmlsZUlkIiA6ICI3MGFjY2Q1OTRiNWQ0MTg3ODRjNDJhODY2NWE2MDcyZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJrYXdhYWFpIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzcyMDM2OTNkMWIwZTQzYTljMTdjYWZhNzE4NjM0MTk4M2M1YTU2OTEyMWNjNmFmYmVjMzI0MjVjYWQxZWY2ZDciLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

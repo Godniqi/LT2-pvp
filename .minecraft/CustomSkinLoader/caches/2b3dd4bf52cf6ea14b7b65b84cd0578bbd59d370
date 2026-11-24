@@ -1,0 +1,9 @@
+{
+  "id" : "029c16209dd046cc9b7f78acfa2c3a9e",
+  "name" : "SwiftD3fault",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzQyNTU5Nzc3MywKICAicHJvZmlsZUlkIiA6ICIwMjljMTYyMDlkZDA0NmNjOWI3Zjc4YWNmYTJjM2E5ZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJTd2lmdEQzZmF1bHQiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYThjMzIxMzViYTI2YjczMjBkNjk4ODkzOTFlZjdlZmFhZTkxNzliNTNkZTg3OGQ4ZjU5MWIzNmQ4NWJmZDQ1ZCIsCiAgICAgICJtZXRhZGF0YSIgOiB7CiAgICAgICAgIm1vZGVsIiA6ICJzbGltIgogICAgICB9CiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

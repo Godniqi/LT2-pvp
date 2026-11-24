@@ -1,0 +1,9 @@
+{
+  "id" : "9131363fb2d84c59bd8c19e6b3c0ddf8",
+  "name" : "EpsteinSama",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjk5OTk3NzYwNywKICAicHJvZmlsZUlkIiA6ICI5MTMxMzYzZmIyZDg0YzU5YmQ4YzE5ZTZiM2MwZGRmOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJFcHN0ZWluU2FtYSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9hZTZmOTg4NzU4MzE5MmM1NmIyNWRiZjMzOGQxOWQwMDI1YTgwNTkwMTJlYTVmYzFiNjRjZWM4OTIxYjIxM2VkIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "ba34f599b1ef4de4a5d2bd290273a274",
+  "name" : "Bellyna",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzY4NjIwNzAzOSwKICAicHJvZmlsZUlkIiA6ICJiYTM0ZjU5OWIxZWY0ZGU0YTVkMmJkMjkwMjczYTI3NCIsCiAgInByb2ZpbGVOYW1lIiA6ICJCZWxseW5hIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzEwZDg1Yzg0ZWYzZGQ5YjljYTFjNzg4ZWYwNTExZTQwMGE1NTE4ODIxM2Y2NDY2YjQ1MmZlYWEzYWY1MzA5MiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

@@ -1,0 +1,9 @@
+{
+  "id" : "a7379d02dd4f436aa1fb8136b8fb6657",
+  "name" : "Dol9hin",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDA1NjUwMjI5MSwKICAicHJvZmlsZUlkIiA6ICJhNzM3OWQwMmRkNGY0MzZhYTFmYjgxMzZiOGZiNjY1NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJEb2w5aGluIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzRmZjE0MTg2ODM2YmM5Nzc4OGFlYTMwNzU1YzkxZjViNTIxZGQyZDc5M2M5ODE4YTdlNWM3MGZjMDg2MmEyN2MiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

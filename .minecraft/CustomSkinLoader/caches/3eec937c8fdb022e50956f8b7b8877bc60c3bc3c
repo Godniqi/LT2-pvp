@@ -1,0 +1,9 @@
+{
+  "id" : "b7797e24cbb04518a03830aac8e5f467",
+  "name" : "hirokun",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MDMxMTQ4Nzc4MywKICAicHJvZmlsZUlkIiA6ICJiNzc5N2UyNGNiYjA0NTE4YTAzODMwYWFjOGU1ZjQ2NyIsCiAgInByb2ZpbGVOYW1lIiA6ICJoaXJva3VuIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y1ZGRkYjQxZGNhZmVmNjE2ZTk1OWMyODE3ODA4ZTBiZTc0MWM4OWZmYmZlZDM5MTM0YTEzZTc1YjgxMTg2M2QiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

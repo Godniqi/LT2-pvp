@@ -1,0 +1,9 @@
+{
+  "id" : "7c325e8bbd404c979af533644f1cce9d",
+  "name" : "DiabloNoir",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDgxMDQzMTc5OSwKICAicHJvZmlsZUlkIiA6ICI3YzMyNWU4YmJkNDA0Yzk3OWFmNTMzNjQ0ZjFjY2U5ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJEaWFibG9Ob2lyIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MwNzRkNDE4NWJjMzQ2YWY5YTk0MGZmYWUwY2M1YWEwYTU1MTY4MWM2Yjk4OTViOTdlNzM3YTRkNGIzNWQxOWIiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

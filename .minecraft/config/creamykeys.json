@@ -1,0 +1,13 @@
+{
+  "enabled": false,
+  "keyboardSounds": true,
+  "mouseSounds": true,
+  "playInMenus": true,
+  "keyboardPrimary": "cherrymx_brown_pbt",
+  "keyboardSecondary": "hit7",
+  "volumeKeyboard": 0.04,
+  "volumeMaster": 1.0,
+  "volumeMouse": 0.03,
+  "amplifyKeyboard": 1,
+  "amplifyMouse": 1
+}

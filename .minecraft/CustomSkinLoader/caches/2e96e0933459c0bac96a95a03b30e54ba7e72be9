@@ -1,0 +1,9 @@
+{
+  "id" : "4e81f3c9ed034b44ab91ab96f18fb4da",
+  "name" : "Enemyslayer",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzE0MDcyODc0NiwKICAicHJvZmlsZUlkIiA6ICI0ZTgxZjNjOWVkMDM0YjQ0YWI5MWFiOTZmMThmYjRkYSIsCiAgInByb2ZpbGVOYW1lIiA6ICJFbmVteXNsYXllciIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS80NzFlY2NhY2Q0M2QyNzJmYzk1ZjZmYTk2MTQyZjJkZDVmZmFjYzdmNzlmZGM0YjMxOWVjOGY0YmNlNTgwMmYxIgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

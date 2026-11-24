@@ -1,0 +1,9 @@
+{
+  "id" : "1bb4bf4dee9d47ab9595edd14b403740",
+  "name" : "Mizo",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NTUxNTE0Nzk4NywKICAicHJvZmlsZUlkIiA6ICIxYmI0YmY0ZGVlOWQ0N2FiOTU5NWVkZDE0YjQwMzc0MCIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaXpvIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFmNzM1NzhmZmY3NDdkMTA3ZmM4NTQ5ZjBhNmZjODRmMWQ4NzgxYTEyYTRiMGFmODMyMmNlYTZlYTZmZDMxYzYiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

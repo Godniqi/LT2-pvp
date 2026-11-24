@@ -1,0 +1,9 @@
+{
+  "id" : "5dd9b0728f6a42c7bf14d732e1c4c35d",
+  "name" : "alphaproxd",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5Mzg4NDc5MzM0MywKICAicHJvZmlsZUlkIiA6ICI1ZGQ5YjA3MjhmNmE0MmM3YmYxNGQ3MzJlMWM0YzM1ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbHBoYXByb3hkIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2YxOGVhOTAzYTMzMzk2YmQzMjk5ZmNhYTFiMTA2OTY3OTg4MDhmZmFkODNhNTAyODAyMmIxMzNiNjM2NzRhMmUiCiAgICB9CiAgfQp9"
+  } ],
+  "profileActions" : [ ]
+}

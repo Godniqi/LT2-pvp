@@ -1,0 +1,9 @@
+{
+  "id" : "389d97dca41944acb1feb4bca2998a56",
+  "name" : "badcpvp",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc5NDY0Njg3NTMxNCwKICAicHJvZmlsZUlkIiA6ICIzODlkOTdkY2E0MTk0NGFjYjFmZWI0YmNhMjk5OGE1NiIsCiAgInByb2ZpbGVOYW1lIiA6ICJiYWRjcHZwIiwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2Y4MWJkOTVkZTAzMDhjMGI0NWM4MjBiZTg2YjI3ZTk2NWY0Yzk2ZmUxYmVkZWZjMGU0MWZkNDBmOWZlZjViMzUiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

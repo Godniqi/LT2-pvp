@@ -1,0 +1,9 @@
+{
+  "id" : "7a106f92d2e8468b900a0a8aec3d9328",
+  "name" : "vesard",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzA4MTIxNDQ0OSwKICAicHJvZmlsZUlkIiA6ICI3YTEwNmY5MmQyZTg0NjhiOTAwYTBhOGFlYzNkOTMyOCIsCiAgInByb2ZpbGVOYW1lIiA6ICJ2ZXNhcmQiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODk1MjBkY2FlNTg4Y2ExZWRiN2NlZDNlMmY2ZjI3MTE1MjkwNDRmYmJlZTRjYWQ4NWI3ZTdjYTQxNjM4NTg1YiIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}

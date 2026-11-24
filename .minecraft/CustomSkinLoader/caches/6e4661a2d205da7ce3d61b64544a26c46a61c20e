@@ -1,0 +1,9 @@
+{
+  "id" : "569f6ef499eb427cb5e68d16a29f4acc",
+  "name" : "Miluette",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4Mjg5MTg4NDkyNSwKICAicHJvZmlsZUlkIiA6ICI1NjlmNmVmNDk5ZWI0MjdjYjVlNjhkMTZhMjlmNGFjYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNaWx1ZXR0ZSIsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS9kNDFiM2FiZDFjNDYyNjBjNTk1OGU4MjQ4MTliOTEzMWExNjhkMjBkOWU4NGU0MDZkZjVkMTMyOTEwOTliYzU2IgogICAgfQogIH0KfQ=="
+  } ],
+  "profileActions" : [ ]
+}

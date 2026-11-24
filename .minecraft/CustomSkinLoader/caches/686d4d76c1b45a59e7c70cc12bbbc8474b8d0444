@@ -1,0 +1,9 @@
+{
+  "id" : "e4f8b5916f854409b3aaad24e3c4e14d",
+  "name" : "Aeroic",
+  "properties" : [ {
+    "name" : "textures",
+    "value" : "ewogICJ0aW1lc3RhbXAiIDogMTc4MzI0MzA0ODY1OSwKICAicHJvZmlsZUlkIiA6ICJlNGY4YjU5MTZmODU0NDA5YjNhYWFkMjRlM2M0ZTE0ZCIsCiAgInByb2ZpbGVOYW1lIiA6ICJBZXJvaWMiLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTRiYTZkMDY3ZjZjMjRkNWIxMmUxODZlNjhkNWEyMmI4NDQ5MGQxNjI0ZWUxYjNhOWM3YzZiNDAxMjY4OWI0NSIKICAgIH0KICB9Cn0="
+  } ],
+  "profileActions" : [ ]
+}
