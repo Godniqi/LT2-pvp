@@ -1,4 +1,4 @@
-# Niqi's LT2 PvP Settings
+# LT2 Config
 
 ![ofcitsniqi](ofcitsniqi.jpg)
 
